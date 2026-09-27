@@ -1,0 +1,9 @@
+* text=auto
+*.pdf binary
+*.pptx binary
+*.sqlite binary
+*.parquet binary
+*.npz binary
+*.png binary
+*.jpg binary
+*.svg text

@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-005  (Naharkatiya 5)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2010-06-07   Report Day: 8
+Depth: 2488 -> 2801 m MD  (progress 313 m)
+Current Fm: Kopili
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Kopili @ 16 m/hr avg.
+  Short wiepr trip to condition hole, no issues.
+  Circ btms up, checked for gas, resumed drlg.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  25.2 hrs NPT - KICK @ 2659 m MD (Kopili Shale), sev=critical: Gas-cut mud and increasing pit volume obsvd drilling Kopili, well flowing. Hard shut-in, recorded SIDPP/SICP, weighted up mud and circulated btms up.

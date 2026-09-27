@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-009  (Duliajan 9)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2012-09-02   Report Day: 5
+Depth: 2088 -> 2330 m MD  (progress 242 m)
+Current Fm: Barail Gp
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drlg, monitoring torque/drag trend.
+  Slips and mud checks per program, ops normal.
+  Circ btms up, checked for gas, resumed drlg.
+  Short wiper trip to condition hole, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.8 hrs NPT - MUD_LOSS @ 2088 m MD (Barail), sev=low: Lost circ 76 bbl/hr while drilling Barail sand, partial returns only. Pumped 75 bbl LCM pill, reduced ROP, regained partial returns.

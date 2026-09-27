@@ -1,0 +1,53 @@
+WELL COMPLETION REPORT (WCR)
+Well: MOR-005  (Moran 5)   Field: Moran   Basin: Upper Assam
+Spud Date: 2012-12-23   Status: completed
+Lat/Lon: 27.2675, 95.0442   KB Elev: 126.1 m
+Trajectory: vertical   TD (MD): 3068 m   TD (TVD): 3068 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            32            32
+Dhekiajuli              32            32           248           248
+Namsang                248           248           529           529
+Girujan                529           529          1267          1267
+Tipam                 1267          1267          1816          1816
+Barail                1816          1816          2565          2565
+Kopili                2565          2565          2857          2857
+Sylhet                2857          2857          3038          3038
+Basement              3038          3038          3068          3068
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       248
+Girujan           9-5/8in intermediate                   529
+Tipam             9-5/8in intermediate-2                1267
+Barail            7in production                        1816
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2012-12-24 | 248 m MD | Namsang | cementing_issue | low | 2.3 hrs NPT
+    Cause: Excessive cement losses to formation while cementing across Namsang.
+    Remedy: Staged cement job with lightweight lead slurry and full tail string.
+  2012-12-24 | 529 m MD | Girujan | cementing_issue | low | 1.4 hrs NPT
+    Cause: Poor cement bond / losses during primary cementing of casing shoe in Girujan.
+    Remedy: Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  2012-12-26 | 1638 m MD | Tipam | mud_loss | medium | 2.5 hrs NPT
+    Cause: Lost circulation 64 bbl/hr while drilling Tipam sand, partial returns only.
+    Remedy: Pumped 112 bbl LCM pill, reduced ROP, regained partial returns.
+  2012-12-26 | 1816 m MD | Barail | cementing_issue | low | 3.3 hrs NPT
+    Cause: Poor cement bond / losses during primary cementing of casing shoe in Barail.
+    Remedy: Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  2012-12-27 | 2266 m MD | Barail | kick | high | 5.7 hrs NPT
+    Cause: Gas-cut mud and increasing pit volume observed drilling Barail, well flowing.
+    Remedy: Hard shut-in, recorded SIDPP/SICP, weighted up mud and circulated bottoms up.

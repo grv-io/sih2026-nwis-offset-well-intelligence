@@ -1,0 +1,62 @@
+WELL COMPLETION REPORT (WCR)
+Well: NKT-002  (Naharkatiya 2)   Field: Naharkatiya   Basin: Upper Assam
+Spud Date: 2025-10-20   Status: completed
+Lat/Lon: 27.3724, 95.1364   KB Elev: 114.2 m
+Trajectory: deviated   TD (MD): 2904 m   TD (TVD): 2853 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            21            21
+Dhekiajuli              21            21           154           154
+Namsang                154           154           360           360
+Girujan                360           360          1031          1025
+Tipam                 1031          1025          1675          1634
+Barail                1675          1634          2523          2472
+Kopili                2523          2472          2644          2593
+Sylhet                2644          2593          2860          2809
+Basement              2860          2809          2904          2853
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       154
+Girujan           9-5/8in intermediate                   360
+Tipam             9-5/8in intermediate-2                1031
+Barail            7in production                        1675
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2025-10-21 | 15 m MD | Alluvium | wellbore_instability | medium | 2.5 hrs NPT
+    Cause: Wellbore washout suspected in Alluvium, oversized cuttings at surface.
+    Remedy: Adjusted mud rheology, ran wiper trips before continuing.
+  2025-10-21 | 360 m MD | Girujan | cementing_issue | high | 21.6 hrs NPT
+    Cause: Excessive cement losses to formation while cementing across Girujan.
+    Remedy: Staged cement job with lightweight lead slurry and full tail string.
+  2025-10-24 | 1697 m MD | Barail | overpressure | high | 12.9 hrs NPT
+    Cause: SPP trend increasing and drag rising while drilling into Barail, suspected transition zone.
+    Remedy: Raised mud weight in 58-ppg steps, monitored trip gas, continued drilling with caution.
+  2025-10-25 | 1991 m MD | Barail | overpressure | high | 7.2 hrs NPT
+    Cause: SPP trend increasing and drag rising while drilling into Barail, suspected transition zone.
+    Remedy: Raised mud weight in 103-ppg steps, monitored trip gas, continued drilling with caution.
+  2025-10-25 | 2204 m MD | Barail | stuck_pipe | critical | 25.1 hrs NPT
+    Cause: Pipe stuck while tripping through Barail, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 71 bbl pipe-lax pill, freed after 25.1 hrs.
+  2025-10-27 | 2608 m MD | Kopili | kick | high | 11.1 hrs NPT
+    Cause: Flow-check positive, pit gain of 63 bbl and flow-out exceeding flow-in while in Kopili.
+    Remedy: Shut in well, closed BOP, circulated kill mud per driller's method.
+  2025-10-27 | 2644 m MD | Sylhet | mud_loss | high | 20.7 hrs NPT
+    Cause: Lost circulation 41 bbl/hr while drilling Sylhet sand, partial returns only.
+    Remedy: Pumped 51 bbl LCM pill, reduced ROP, regained partial returns.
+  2025-10-28 | 2789 m MD | Sylhet | overpressure | critical | 27.9 hrs NPT
+    Cause: SPP trend increasing and drag rising while drilling into Sylhet, suspected transition zone.
+    Remedy: Raised mud weight in 67-ppg steps, monitored trip gas, continued drilling with caution.

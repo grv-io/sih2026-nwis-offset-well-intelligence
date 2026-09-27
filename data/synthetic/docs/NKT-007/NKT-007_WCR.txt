@@ -1,0 +1,47 @@
+WELL COMPLETION REPORT (WCR)
+Well: NKT-007  (Naharkatiya 7)   Field: Naharkatiya   Basin: Upper Assam
+Spud Date: 2009-01-27   Status: completed
+Lat/Lon: 27.3086, 95.2003   KB Elev: 94.6 m
+Trajectory: vertical   TD (MD): 3395 m   TD (TVD): 3395 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            23            23
+Dhekiajuli              23            23           257           257
+Namsang                257           257           505           505
+Girujan                505           505          1401          1401
+Tipam                 1401          1401          2104          2104
+Barail                2104          2104          2886          2886
+Kopili                2886          2886          3095          3095
+Sylhet                3095          3095          3291          3291
+Basement              3291          3291          3395          3395
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       257
+Girujan           9-5/8in intermediate                   505
+Tipam             9-5/8in intermediate-2                1401
+Barail            7in production                        2104
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2009-01-28 | 9 m MD | Alluvium | npt_other | low | 1.2 hrs NPT
+    Cause: Rig repair / equipment downtime while working in Alluvium section.
+    Remedy: Repaired equipment, resumed operations after downtime.
+  2009-01-28 | 746 m MD | Girujan | stuck_pipe | high | 19.2 hrs NPT
+    Cause: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 40 bbl pipe-lax pill, freed after 19.2 hrs.
+  2009-01-30 | 2104 m MD | Barail | cementing_issue | medium | 5.8 hrs NPT
+    Cause: Excessive cement losses to formation while cementing across Barail.
+    Remedy: Staged cement job with lightweight lead slurry and full tail string.

@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-004  (Duliajan 4)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-10-30   Report Day: 5
+Depth: 2124 -> 2400 m MD  (progress 276 m)
+Current Fm: BARAIL
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg BARAIL.
+  Short wiper trip to condition hole, no issues.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

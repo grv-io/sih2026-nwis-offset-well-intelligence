@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-005  (Duliajan 5)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2025-02-03   Report Day: 2
+Depth: 561 -> 890 m MD  (progress 330 m)
+Current Fm: Girujan Fm
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of influx, drlg ahead.
+  Survey taken, inc/azi within plan.
+  Flow check ok, no signs of influx, drlg haead.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  2.7 hrs NPT - STUCK_PIPE @ 567 m MD (Girujan), sev=medium: Pipe stuck while trppg through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 90 bbl pipe-lax pill, freed after 2.7 hrs.

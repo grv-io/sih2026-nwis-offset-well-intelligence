@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-010  (Moran 10)   Field: Moran   Basin: Upper Assam
+Report Date: 2008-09-23   Report Day: 5
+Depth: 1694 -> 2053 m MD  (progress 359 m)
+Current Fm: Barail Gp
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drlg, monitoring torque/drag trend.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  4.7 hrs NPT - GAS_SHOW @ 1696 m MD (Tipam Sand), sev=medium: Background gas rise while drilling Tipam, conx gas trending up. Increased mud weight slightly, monitored trend, continued drilling.
+  1.2 hrs NPT - GAS_SHOW @ 1728 m MD (Tipam), sev=low: Background gas rise while drilling Tipam, connection gas trending up. Increased mud weight slightly, monitored trend, continued drilling.

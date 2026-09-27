@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-008  (Moran 8)   Field: Moran   Basin: Upper Assam
+Report Date: 2021-10-12   Report Day: 6
+Depth: 2994 -> 3209 m MD  (progress 215 m)
+Current Fm: BASEMENT
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of influx, drlg ahead.
+  Cnot'd drlg, monitoring torque/drag tredn.
+  Short wiper trip to condition hole, no issues.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  2.1 hrs NPT - TORQUE_SPIKE @ 3137 m MD (BASEMENT), sev=low: Sharp torque increase on contact with Basement, ROP dropped to near zero. Reduced WOB and RPM, reamed interval, resumed drlg at reduced parameters.

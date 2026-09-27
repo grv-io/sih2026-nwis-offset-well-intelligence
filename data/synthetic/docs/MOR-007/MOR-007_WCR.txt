@@ -1,0 +1,68 @@
+WELL COMPLETION REPORT (WCR)
+Well: MOR-007  (Moran 7)   Field: Moran   Basin: Upper Assam
+Spud Date: 2021-02-20   Status: completed
+Lat/Lon: 27.3585, 95.0562   KB Elev: 127.4 m
+Trajectory: deviated   TD (MD): 3485 m   TD (TVD): 3309 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            30            30
+Dhekiajuli              30            30           219           219
+Namsang                219           219           485           485
+Girujan                485           485          1323          1292
+Tipam                 1323          1292          2081          1935
+Barail                2081          1935          2798          2621
+Kopili                2798          2621          3193          3017
+Sylhet                3193          3017          3392          3215
+Basement              3392          3215          3485          3309
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       219
+Girujan           9-5/8in intermediate                   485
+Tipam             9-5/8in intermediate-2                1323
+Barail            7in production                        2081
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2021-02-21 | 485 m MD | Girujan | cementing_issue | low | 1.6 hrs NPT
+    Cause: Excessive cement losses to formation while cementing across Girujan.
+    Remedy: Staged cement job with lightweight lead slurry and full tail string.
+  2021-02-23 | 1862 m MD | Tipam | mud_loss | low | 1.4 hrs NPT
+    Cause: Losses seen while running casing through Tipam, static losses continuing on connections.
+    Remedy: Spotted 87 bbl high-fluid-loss pill across the loss zone and monitored pit levels.
+  2021-02-24 | 2065 m MD | Tipam | mud_loss | critical | 11.9 hrs NPT
+    Cause: Lost circulation 56 bbl/hr while drilling Tipam sand, partial returns only.
+    Remedy: Pumped 117 bbl LCM pill, reduced ROP, regained partial returns.
+  2021-02-24 | 2081 m MD | Barail | cementing_issue | medium | 16.0 hrs NPT
+    Cause: Poor cement bond / losses during primary cementing of casing shoe in Barail.
+    Remedy: Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  2021-02-24 | 2245 m MD | Barail | overpressure | medium | 6.9 hrs NPT
+    Cause: SPP trend increasing and drag rising while drilling into Barail, suspected transition zone.
+    Remedy: Raised mud weight in 52-ppg steps, monitored trip gas, continued drilling with caution.
+  2021-02-24 | 2253 m MD | Barail | stuck_pipe | high | 17.6 hrs NPT
+    Cause: Differential sticking in Barail, no rotation or reciprocation possible.
+    Remedy: Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  2021-02-25 | 2577 m MD | Barail | kick | high | 10.6 hrs NPT
+    Cause: Gas-cut mud and increasing pit volume observed drilling Barail, well flowing.
+    Remedy: Hard shut-in, recorded SIDPP/SICP, weighted up mud and circulated bottoms up.
+  2021-02-25 | 2664 m MD | Barail | overpressure | medium | 4.5 hrs NPT
+    Cause: Well kicked back while circulating out of Barail, gas readings elevated on trip gas.
+    Remedy: Weighted mud up to balance formation pressure, circulated bottoms up before resuming.
+  2021-02-26 | 2680 m MD | Barail | kick | high | 7.8 hrs NPT
+    Cause: Flow-check positive, pit gain of 95 bbl and flow-out exceeding flow-in while in Barail.
+    Remedy: Shut in well, closed BOP, circulated kill mud per driller's method.
+  2021-02-28 | 3446 m MD | Basement | torque_spike | low | 1.2 hrs NPT
+    Cause: Sharp torque increase on contact with Basement, ROP dropped to near zero.
+    Remedy: Reduced WOB and RPM, reamed interval, resumed drilling at reduced parameters.

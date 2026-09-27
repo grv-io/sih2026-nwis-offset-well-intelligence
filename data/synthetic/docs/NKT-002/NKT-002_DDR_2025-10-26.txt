@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-002  (Naharkatiya 2)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2025-10-26   Report Day: 6
+Depth: 2207 -> 2475 m MD  (progress 267 m)
+Current Fm: Barail
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  Short wiper trip to condition hole, no issues.
+  Slpis and mud checks per program, ops nromal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

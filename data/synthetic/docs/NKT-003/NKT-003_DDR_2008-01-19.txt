@@ -1,0 +1,16 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-003  (Naharkatiya 3)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2008-01-19   Report Day: 3
+Depth: 967 -> 1654 m MD  (progress 687 m)
+Current Fm: BARAIL
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiper trip to condition hole, no issues.
+  Short wiper trip to condition hole, no issues.
+  Drlg ahead in BARAIL @ 9 m/hr avg.
+  Drlg ahead in BRAAIL @ 7 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  2.2 hrs NPT - MUD_LOSS @ 1160 m MD (Tipam Ss), sev=medium: Losses seen while running casing through Tipam, static losses continuing on conxs. Spotted 83 bbl high-fluid-loss pill across the loss zone and monitored pit levels.
+  3.7 hrs NPT - MUD_LOSS @ 1168 m MD (Tipam), sev=medium: Losses seen while running casing through Tipam, static losses continuing on connections. Spotted 28 bbl high-fluid-loss pill across the loss zone and monitored pit levels.
+  2.0 hrs NPT - MUD_LOSS @ 1221 m MD (Tipam Sand), sev=medium: Total losses encountered in Tipam, no returns to surface for 2.0 hrs. Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.

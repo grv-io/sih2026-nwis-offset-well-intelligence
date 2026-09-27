@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-009  (Duliajan 9)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2012-09-05   Report Day: 8
+Depth: 2917 -> 3137 m MD  (progress 219 m)
+Current Fm: Bsmt
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  Cont'd drlg, monitoring torque/drag trend.
+  Flow check ok, no signs of influx, drlg ahead.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  37.3 hrs NPT - MUD_LOSS @ 3019 m MD (Sylhet), sev=critical: Lost circulation 64 bbl/hr while drlg Sylhet sand, partial returns only. Pumped 67 bbl LCM pill, reduced ROP, regained partial returns.

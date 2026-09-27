@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-006  (Naharkatiya 6)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2014-07-22   Report Day: 2
+Depth: 521 -> 860 m MD  (progress 339 m)
+Current Fm: Gurjan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Gurjan.
+  Survey taken, inc/azi within plan.
+  Drlg ahead in Gurjan @ 11 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

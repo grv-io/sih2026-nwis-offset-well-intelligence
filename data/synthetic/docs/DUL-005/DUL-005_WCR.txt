@@ -1,0 +1,50 @@
+WELL COMPLETION REPORT (WCR)
+Well: DUL-005  (Duliajan 5)   Field: Duliajan   Basin: Upper Assam
+Spud Date: 2025-02-01   Status: completed
+Lat/Lon: 27.4502, 95.3037   KB Elev: 104.5 m
+Trajectory: vertical   TD (MD): 3271 m   TD (TVD): 3271 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            16            16
+Dhekiajuli              16            16           237           237
+Namsang                237           237           413           413
+Girujan                413           413          1179          1179
+Tipam                 1179          1179          1746          1746
+Barail                1746          1746          2768          2768
+Kopili                2768          2768          3039          3039
+Sylhet                3039          3039          3221          3221
+Basement              3221          3221          3271          3271
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       237
+Girujan           9-5/8in intermediate                   413
+Tipam             9-5/8in intermediate-2                1179
+Barail            7in production                        1746
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2025-02-02 | 486 m MD | Girujan | stuck_pipe | medium | 6.2 hrs NPT
+    Cause: Differential sticking in Girujan, no rotation or reciprocation possible.
+    Remedy: Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  2025-02-03 | 567 m MD | Girujan | stuck_pipe | medium | 2.7 hrs NPT
+    Cause: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 90 bbl pipe-lax pill, freed after 2.7 hrs.
+  2025-02-05 | 1416 m MD | Tipam | gas_show | high | 32.8 hrs NPT
+    Cause: Background gas rise while drilling Tipam, connection gas trending up.
+    Remedy: Increased mud weight slightly, monitored trend, continued drilling.
+  2025-02-11 | 3161 m MD | Sylhet | mud_loss | low | 1.4 hrs NPT
+    Cause: Total losses encountered in Sylhet, no returns to surface for 1.5 hrs.
+    Remedy: Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.

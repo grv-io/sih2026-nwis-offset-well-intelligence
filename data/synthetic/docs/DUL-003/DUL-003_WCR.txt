@@ -1,0 +1,59 @@
+WELL COMPLETION REPORT (WCR)
+Well: DUL-003  (Duliajan 3)   Field: Duliajan   Basin: Upper Assam
+Spud Date: 2015-09-01   Status: completed
+Lat/Lon: 27.4422, 95.2829   KB Elev: 94.6 m
+Trajectory: deviated   TD (MD): 3440 m   TD (TVD): 3314 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            19            19
+Dhekiajuli              19            19           252           252
+Namsang                252           252           453           453
+Girujan                453           453          1269          1238
+Tipam                 1269          1238          1844          1745
+Barail                1844          1745          2898          2772
+Kopili                2898          2772          3192          3067
+Sylhet                3192          3067          3400          3274
+Basement              3400          3274          3440          3314
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       252
+Girujan           9-5/8in intermediate                   453
+Tipam             9-5/8in intermediate-2                1269
+Barail            7in production                        1844
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2015-09-02 | 563 m MD | Girujan | stuck_pipe | medium | 2.1 hrs NPT
+    Cause: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 66 bbl pipe-lax pill, freed after 2.1 hrs.
+  2015-09-04 | 1269 m MD | Tipam | mud_loss | high | 5.6 hrs NPT
+    Cause: Total losses encountered in Tipam, no returns to surface for 5.6 hrs.
+    Remedy: Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.
+  2015-09-04 | 1334 m MD | Tipam | mud_loss | low | 2.5 hrs NPT
+    Cause: Losses seen while running casing through Tipam, static losses continuing on connections.
+    Remedy: Spotted 39 bbl high-fluid-loss pill across the loss zone and monitored pit levels.
+  2015-09-07 | 2870 m MD | Barail | mud_loss | high | 12.5 hrs NPT
+    Cause: Losses seen while running casing through Barail, static losses continuing on connections.
+    Remedy: Spotted 94 bbl high-fluid-loss pill across the loss zone and monitored pit levels.
+  2015-09-07 | 2891 m MD | Barail | mud_loss | medium | 9.4 hrs NPT
+    Cause: Lost circulation 31 bbl/hr while drilling Barail sand, partial returns only.
+    Remedy: Pumped 66 bbl LCM pill, reduced ROP, regained partial returns.
+  2015-09-08 | 3094 m MD | Kopili | kick | high | 8.3 hrs NPT
+    Cause: Flow-check positive, pit gain of 81 bbl and flow-out exceeding flow-in while in Kopili.
+    Remedy: Shut in well, closed BOP, circulated kill mud per driller's method.
+  2015-09-08 | 3418 m MD | Basement | torque_spike | low | 1.4 hrs NPT
+    Cause: Sharp torque increase on contact with Basement, ROP dropped to near zero.
+    Remedy: Reduced WOB and RPM, reamed interval, resumed drilling at reduced parameters.

@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-001  (Moran 1)   Field: Moran   Basin: Upper Assam
+Report Date: 2010-08-12   Report Day: 6
+Depth: 3006 -> 3181 m MD  (progress 175 m)
+Current Fm: BASEMENT
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  Cont'd rdlg, monitoring toruqe/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

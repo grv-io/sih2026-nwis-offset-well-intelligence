@@ -1,0 +1,15 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-011  (Duliajan 11)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2013-12-22   Report Day: 1
+Depth: 0 -> 570 m MD  (progress 570 m)
+Current Fm: Gurjan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  Slips and mud checks per program, ops normal.
+  POOH for bit change, RIH, resumed drlg Gurjan.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  2.8 hrs NPT - WELLBORE_INSTABILITY @ 4 m MD (ALLUVIUM), sev=medium: Hole instability / cavings on surface while drilling Alluvium, tight hole on connections. Increased mud weight and viscosity, short-tripped to condition hole.
+  16.1 hrs NPT - STUCK_PIPE @ 501 m MD (Girujan), sev=high: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 71 bbl pipe-lax pill, freed after 16.1 hrs.

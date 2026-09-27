@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-010  (Duliajan 10)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2009-10-09   Report Day: 8
+Depth: 3071 -> 3444 m MD  (progress 373 m)
+Current Fm: SYLHET LST
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg SYLHET LST.
+  uSrvey taken, inc/azi within paln.
+  Drlg ahead in SYLHET LST @ 10 m/hr avg.
+  Short wiper trip to condition hole, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  8.4 hrs NPT - MUD_LOSS @ 3364 m MD (SYLHET LST), sev=medium: Total losses encountered in Sylhet, no returns to surface for 8.4 hrs. Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.

@@ -1,0 +1,2360 @@
+{
+  "Dhekiajuli": {
+    "0.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0938,
+        "n_wells": 30,
+        "n_pos_wells": 2
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      }
+    },
+    "100.0": {
+      "cementing_issue": {
+        "p": 0.04,
+        "n_wells": 23,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.04,
+        "n_wells": 23,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.04,
+        "n_wells": 23,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.04,
+        "n_wells": 23,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.04,
+        "n_wells": 23,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.04,
+        "n_wells": 23,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.04,
+        "n_wells": 23,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.04,
+        "n_wells": 23,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.04,
+        "n_wells": 23,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.04,
+        "n_wells": 23,
+        "n_pos_wells": 0
+      }
+    },
+    "200.0": {
+      "cementing_issue": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      }
+    }
+  },
+  "Namsang": {
+    "0.0": {
+      "cementing_issue": {
+        "p": 0.1562,
+        "n_wells": 30,
+        "n_pos_wells": 4
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.125,
+        "n_wells": 30,
+        "n_pos_wells": 3
+      }
+    },
+    "100.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      }
+    },
+    "200.0": {
+      "cementing_issue": {
+        "p": 0.0476,
+        "n_wells": 19,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0476,
+        "n_wells": 19,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0476,
+        "n_wells": 19,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0476,
+        "n_wells": 19,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0476,
+        "n_wells": 19,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0476,
+        "n_wells": 19,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0476,
+        "n_wells": 19,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0476,
+        "n_wells": 19,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0476,
+        "n_wells": 19,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0952,
+        "n_wells": 19,
+        "n_pos_wells": 1
+      }
+    }
+  },
+  "Girujan": {
+    "0.0": {
+      "cementing_issue": {
+        "p": 0.3125,
+        "n_wells": 30,
+        "n_pos_wells": 9
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.2188,
+        "n_wells": 30,
+        "n_pos_wells": 6
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      }
+    },
+    "100.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.2812,
+        "n_wells": 30,
+        "n_pos_wells": 8
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "200.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0938,
+        "n_wells": 30,
+        "n_pos_wells": 2
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "300.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0938,
+        "n_wells": 30,
+        "n_pos_wells": 2
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.1562,
+        "n_wells": 30,
+        "n_pos_wells": 4
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "400.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0938,
+        "n_wells": 30,
+        "n_pos_wells": 2
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "500.0": {
+      "cementing_issue": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0645,
+        "n_wells": 29,
+        "n_pos_wells": 1
+      },
+      "torque_spike": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      }
+    },
+    "600.0": {
+      "cementing_issue": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.1429,
+        "n_wells": 26,
+        "n_pos_wells": 3
+      },
+      "torque_spike": {
+        "p": 0.0714,
+        "n_wells": 26,
+        "n_pos_wells": 1
+      },
+      "wellbore_instability": {
+        "p": 0.0714,
+        "n_wells": 26,
+        "n_pos_wells": 1
+      }
+    },
+    "700.0": {
+      "cementing_issue": {
+        "p": 0.05,
+        "n_wells": 18,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.05,
+        "n_wells": 18,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.05,
+        "n_wells": 18,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.05,
+        "n_wells": 18,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.05,
+        "n_wells": 18,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.05,
+        "n_wells": 18,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.05,
+        "n_wells": 18,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.05,
+        "n_wells": 18,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.1,
+        "n_wells": 18,
+        "n_pos_wells": 1
+      },
+      "wellbore_instability": {
+        "p": 0.15,
+        "n_wells": 18,
+        "n_pos_wells": 2
+      }
+    },
+    "800.0": {
+      "cementing_issue": {
+        "p": 0.2,
+        "n_wells": 3,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.2,
+        "n_wells": 3,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.2,
+        "n_wells": 3,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.2,
+        "n_wells": 3,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.2,
+        "n_wells": 3,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.2,
+        "n_wells": 3,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.2,
+        "n_wells": 3,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.2,
+        "n_wells": 3,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.2,
+        "n_wells": 3,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.2,
+        "n_wells": 3,
+        "n_pos_wells": 0
+      }
+    }
+  },
+  "Tipam": {
+    "0.0": {
+      "cementing_issue": {
+        "p": 0.1875,
+        "n_wells": 30,
+        "n_pos_wells": 5
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0938,
+        "n_wells": 30,
+        "n_pos_wells": 2
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "100.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0938,
+        "n_wells": 30,
+        "n_pos_wells": 2
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "200.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.125,
+        "n_wells": 30,
+        "n_pos_wells": 3
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0938,
+        "n_wells": 30,
+        "n_pos_wells": 2
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "300.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.125,
+        "n_wells": 30,
+        "n_pos_wells": 3
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "400.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.125,
+        "n_wells": 30,
+        "n_pos_wells": 3
+      },
+      "kick": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      },
+      "mud_loss": {
+        "p": 0.125,
+        "n_wells": 30,
+        "n_pos_wells": 3
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "500.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "600.0": {
+      "cementing_issue": {
+        "p": 0.0455,
+        "n_wells": 20,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0455,
+        "n_wells": 20,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0455,
+        "n_wells": 20,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0455,
+        "n_wells": 20,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.1364,
+        "n_wells": 20,
+        "n_pos_wells": 2
+      },
+      "npt_other": {
+        "p": 0.0455,
+        "n_wells": 20,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0455,
+        "n_wells": 20,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0455,
+        "n_wells": 20,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0455,
+        "n_wells": 20,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0455,
+        "n_wells": 20,
+        "n_pos_wells": 0
+      }
+    },
+    "700.0": {
+      "cementing_issue": {
+        "p": 0.0833,
+        "n_wells": 10,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0833,
+        "n_wells": 10,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0833,
+        "n_wells": 10,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0833,
+        "n_wells": 10,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0833,
+        "n_wells": 10,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0833,
+        "n_wells": 10,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0833,
+        "n_wells": 10,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0833,
+        "n_wells": 10,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0833,
+        "n_wells": 10,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0833,
+        "n_wells": 10,
+        "n_pos_wells": 0
+      }
+    },
+    "800.0": {
+      "cementing_issue": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.1667,
+        "n_wells": 4,
+        "n_pos_wells": 0
+      }
+    },
+    "900.0": {
+      "cementing_issue": {
+        "p": 0.9333,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.1667,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.3333,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.5667,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 1.2333,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.1333,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.8,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 1.1667,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.3,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.4333,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      }
+    }
+  },
+  "Barail": {
+    "0.0": {
+      "cementing_issue": {
+        "p": 0.3438,
+        "n_wells": 30,
+        "n_pos_wells": 10
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0938,
+        "n_wells": 30,
+        "n_pos_wells": 2
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "100.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.125,
+        "n_wells": 30,
+        "n_pos_wells": 3
+      },
+      "stuck_pipe": {
+        "p": 0.0938,
+        "n_wells": 30,
+        "n_pos_wells": 2
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "200.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.125,
+        "n_wells": 30,
+        "n_pos_wells": 3
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "300.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0938,
+        "n_wells": 30,
+        "n_pos_wells": 2
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "400.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0938,
+        "n_wells": 30,
+        "n_pos_wells": 2
+      },
+      "mud_loss": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "500.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      },
+      "mud_loss": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0938,
+        "n_wells": 30,
+        "n_pos_wells": 2
+      },
+      "stuck_pipe": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "600.0": {
+      "cementing_issue": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0645,
+        "n_wells": 29,
+        "n_pos_wells": 1
+      },
+      "stuck_pipe": {
+        "p": 0.0645,
+        "n_wells": 29,
+        "n_pos_wells": 1
+      },
+      "torque_spike": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0323,
+        "n_wells": 29,
+        "n_pos_wells": 0
+      }
+    },
+    "700.0": {
+      "cementing_issue": {
+        "p": 0.0435,
+        "n_wells": 21,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.087,
+        "n_wells": 21,
+        "n_pos_wells": 1
+      },
+      "gas_show": {
+        "p": 0.0435,
+        "n_wells": 21,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0435,
+        "n_wells": 21,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0435,
+        "n_wells": 21,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0435,
+        "n_wells": 21,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.1739,
+        "n_wells": 21,
+        "n_pos_wells": 3
+      },
+      "stuck_pipe": {
+        "p": 0.087,
+        "n_wells": 21,
+        "n_pos_wells": 1
+      },
+      "torque_spike": {
+        "p": 0.0435,
+        "n_wells": 21,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0435,
+        "n_wells": 21,
+        "n_pos_wells": 0
+      }
+    },
+    "800.0": {
+      "cementing_issue": {
+        "p": 0.0714,
+        "n_wells": 12,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0714,
+        "n_wells": 12,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0714,
+        "n_wells": 12,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0714,
+        "n_wells": 12,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0714,
+        "n_wells": 12,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0714,
+        "n_wells": 12,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0714,
+        "n_wells": 12,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0714,
+        "n_wells": 12,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0714,
+        "n_wells": 12,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0714,
+        "n_wells": 12,
+        "n_pos_wells": 0
+      }
+    },
+    "900.0": {
+      "cementing_issue": {
+        "p": 0.1429,
+        "n_wells": 5,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.1429,
+        "n_wells": 5,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.1429,
+        "n_wells": 5,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.1429,
+        "n_wells": 5,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.2857,
+        "n_wells": 5,
+        "n_pos_wells": 1
+      },
+      "npt_other": {
+        "p": 0.1429,
+        "n_wells": 5,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.1429,
+        "n_wells": 5,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.1429,
+        "n_wells": 5,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.1429,
+        "n_wells": 5,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.1429,
+        "n_wells": 5,
+        "n_pos_wells": 0
+      }
+    },
+    "1000.0": {
+      "cementing_issue": {
+        "p": 0.9333,
+        "n_wells": 1,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.1667,
+        "n_wells": 1,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.3333,
+        "n_wells": 1,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.5667,
+        "n_wells": 1,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 1.2333,
+        "n_wells": 1,
+        "n_pos_wells": 1
+      },
+      "npt_other": {
+        "p": 0.1333,
+        "n_wells": 1,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.8,
+        "n_wells": 1,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 1.1667,
+        "n_wells": 1,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.3,
+        "n_wells": 1,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.4333,
+        "n_wells": 1,
+        "n_pos_wells": 0
+      }
+    }
+  },
+  "Kopili": {
+    "0.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0938,
+        "n_wells": 30,
+        "n_pos_wells": 2
+      },
+      "mud_loss": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0938,
+        "n_wells": 30,
+        "n_pos_wells": 2
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "100.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.3125,
+        "n_wells": 30,
+        "n_pos_wells": 9
+      },
+      "mud_loss": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.125,
+        "n_wells": 30,
+        "n_pos_wells": 3
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      }
+    },
+    "200.0": {
+      "cementing_issue": {
+        "p": 0.0526,
+        "n_wells": 17,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0526,
+        "n_wells": 17,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0526,
+        "n_wells": 17,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.1053,
+        "n_wells": 17,
+        "n_pos_wells": 1
+      },
+      "mud_loss": {
+        "p": 0.0526,
+        "n_wells": 17,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0526,
+        "n_wells": 17,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0526,
+        "n_wells": 17,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0526,
+        "n_wells": 17,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0526,
+        "n_wells": 17,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0526,
+        "n_wells": 17,
+        "n_pos_wells": 0
+      }
+    },
+    "300.0": {
+      "cementing_issue": {
+        "p": 0.9333,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.1667,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.3333,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.5667,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 1.2333,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.1333,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.8,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 1.1667,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.3,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.4333,
+        "n_wells": 2,
+        "n_pos_wells": 0
+      }
+    }
+  },
+  "Sylhet": {
+    "0.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.2188,
+        "n_wells": 30,
+        "n_pos_wells": 6
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "100.0": {
+      "cementing_issue": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.25,
+        "n_wells": 30,
+        "n_pos_wells": 7
+      },
+      "npt_other": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0625,
+        "n_wells": 30,
+        "n_pos_wells": 1
+      },
+      "stuck_pipe": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0312,
+        "n_wells": 30,
+        "n_pos_wells": 0
+      }
+    },
+    "200.0": {
+      "cementing_issue": {
+        "p": 0.0625,
+        "n_wells": 14,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0625,
+        "n_wells": 14,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0625,
+        "n_wells": 14,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0625,
+        "n_wells": 14,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0625,
+        "n_wells": 14,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0625,
+        "n_wells": 14,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0625,
+        "n_wells": 14,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0625,
+        "n_wells": 14,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0625,
+        "n_wells": 14,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.0625,
+        "n_wells": 14,
+        "n_pos_wells": 0
+      }
+    }
+  },
+  "Basement": {
+    "0.0": {
+      "cementing_issue": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "overpressure": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.2857,
+        "n_wells": 26,
+        "n_pos_wells": 7
+      },
+      "wellbore_instability": {
+        "p": 0.0357,
+        "n_wells": 26,
+        "n_pos_wells": 0
+      }
+    }
+  },
+  "Alluvium": {
+    "0.0": {
+      "cementing_issue": {
+        "p": 0.0556,
+        "n_wells": 16,
+        "n_pos_wells": 0
+      },
+      "fishing_operation": {
+        "p": 0.0556,
+        "n_wells": 16,
+        "n_pos_wells": 0
+      },
+      "gas_show": {
+        "p": 0.0556,
+        "n_wells": 16,
+        "n_pos_wells": 0
+      },
+      "kick": {
+        "p": 0.0556,
+        "n_wells": 16,
+        "n_pos_wells": 0
+      },
+      "mud_loss": {
+        "p": 0.0556,
+        "n_wells": 16,
+        "n_pos_wells": 0
+      },
+      "npt_other": {
+        "p": 0.1111,
+        "n_wells": 16,
+        "n_pos_wells": 1
+      },
+      "overpressure": {
+        "p": 0.0556,
+        "n_wells": 16,
+        "n_pos_wells": 0
+      },
+      "stuck_pipe": {
+        "p": 0.0556,
+        "n_wells": 16,
+        "n_pos_wells": 0
+      },
+      "torque_spike": {
+        "p": 0.0556,
+        "n_wells": 16,
+        "n_pos_wells": 0
+      },
+      "wellbore_instability": {
+        "p": 0.1111,
+        "n_wells": 16,
+        "n_pos_wells": 1
+      }
+    }
+  }
+}

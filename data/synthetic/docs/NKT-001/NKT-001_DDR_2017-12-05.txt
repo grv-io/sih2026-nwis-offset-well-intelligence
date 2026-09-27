@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-001  (Naharkatiya 1)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2017-12-05   Report Day: 3
+Depth: 1811 -> 2276 m MD  (progress 465 m)
+Current Fm: BARAIL
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed drlg.
+  Circ btms up, checked for gas, resumed drlg.
+  Short wiper trip to condition hole, no issues.
+  Short wiper trip to condition hole, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  2.7 hrs NPT - CEMENTING_ISSUE @ 2038 m MD (Barail Gp), sev=low: Excessive cement losses to formation while cementing across Barail. Staged cement job with lightweight lead slurry and full tail string.

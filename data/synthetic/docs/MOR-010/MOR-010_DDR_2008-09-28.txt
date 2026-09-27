@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-010  (Moran 10)   Field: Moran   Basin: Upper Assam
+Report Date: 2008-09-28   Report Day: 10
+Depth: 2904 -> 3050 m MD  (progress 146 m)
+Current Fm: BASEMENT
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, hcecked for gas, resumed drlg.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  7.5 hrs NPT - MUD_LOSS @ 2970 m MD (Sylhet Lst), sev=medium: Losses seen while running casing through Sylhet, static losses continuing on conxs. Spotted 42 bbl high-fluid-loss pill across the loss zone and monitored pit levels.
+  2.3 hrs NPT - MUD_LOSS @ 2978 m MD (Sylhet), sev=low: Losses seen while running casing through Sylhet, static losses continuing on connections. Spotted 103 bbl high-fluid-loss pill across the loss zone and monitored pit levels.

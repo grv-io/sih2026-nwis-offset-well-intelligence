@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-010  (Duliajan 10)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2009-10-06   Report Day: 5
+Depth: 2261 -> 2522 m MD  (progress 261 m)
+Current Fm: BARAIL
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  Survey taken, inc/azi wihtin plan.
+  Flow check ok, no signs of influx, drlg ahead.
+  Cont'd drgl, omnitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  4.8 hrs NPT - STUCK_PIPE @ 2451 m MD (Barail Gp), sev=medium: Differential sticking in Barail, no rotation or reciprocation possible. Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.

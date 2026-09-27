@@ -1,0 +1,50 @@
+WELL COMPLETION REPORT (WCR)
+Well: NKT-004  (Naharkatiya 4)   Field: Naharkatiya   Basin: Upper Assam
+Spud Date: 2017-09-13   Status: completed
+Lat/Lon: 27.3541, 95.1176   KB Elev: 113.1 m
+Trajectory: vertical   TD (MD): 3193 m   TD (TVD): 3193 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            17            17
+Dhekiajuli              17            17           235           235
+Namsang                235           235           484           484
+Girujan                484           484          1297          1297
+Tipam                 1297          1297          1953          1953
+Barail                1953          1953          2626          2626
+Kopili                2626          2626          2856          2856
+Sylhet                2856          2856          3079          3079
+Basement              3079          3079          3193          3193
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       235
+Girujan           9-5/8in intermediate                   484
+Tipam             9-5/8in intermediate-2                1297
+Barail            7in production                        1953
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2017-09-14 | 484 m MD | Girujan | cementing_issue | high | 5.7 hrs NPT
+    Cause: Excessive cement losses to formation while cementing across Girujan.
+    Remedy: Staged cement job with lightweight lead slurry and full tail string.
+  2017-09-14 | 554 m MD | Girujan | stuck_pipe | medium | 4.8 hrs NPT
+    Cause: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 113 bbl pipe-lax pill, freed after 4.8 hrs.
+  2017-09-17 | 1743 m MD | Tipam | gas_show | low | 1.1 hrs NPT
+    Cause: Background gas rise while drilling Tipam, connection gas trending up.
+    Remedy: Increased mud weight slightly, monitored trend, continued drilling.
+  2017-09-18 | 2098 m MD | Barail | overpressure | medium | 3.0 hrs NPT
+    Cause: Well kicked back while circulating out of Barail, gas readings elevated on trip gas.
+    Remedy: Weighted mud up to balance formation pressure, circulated bottoms up before resuming.

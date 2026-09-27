@@ -1,0 +1,62 @@
+[
+  {
+    "id": "HZ-DUL-GIRUJAN",
+    "lat": 27.48,
+    "lon": 95.32,
+    "radius_km": 14.0,
+    "formation": "Girujan",
+    "multiplier": 4.0,
+    "note": "Duliajan field \u2014 sticky Girujan clay, correlated differential-sticking history",
+    "hazard": "stuck_pipe"
+  },
+  {
+    "id": "HZ-MOR-TIPAM",
+    "lat": 27.3,
+    "lon": 95.03,
+    "radius_km": 12.0,
+    "formation": "Tipam",
+    "multiplier": 4.0,
+    "note": "Moran field \u2014 depleted/weak Tipam sand, recurring lost circulation",
+    "hazard": "mud_loss"
+  },
+  {
+    "id": "HZ-NKT-BARAIL",
+    "lat": 27.36,
+    "lon": 95.2,
+    "radius_km": 12.0,
+    "formation": "Barail",
+    "multiplier": 4.0,
+    "note": "Naharkatiya field \u2014 Barail coal-shale abnormal geopressure belt",
+    "hazard": "overpressure"
+  },
+  {
+    "id": "HZ-DUL-KOPILI",
+    "lat": 27.5,
+    "lon": 95.38,
+    "radius_km": 8.0,
+    "formation": "Kopili",
+    "multiplier": 3.5,
+    "note": "NE Duliajan \u2014 deep Kopili overpressured shale, kick history",
+    "hazard": "kick"
+  },
+  {
+    "id": "HZ-MOR-SYLHET",
+    "lat": 27.27,
+    "lon": 95.08,
+    "radius_km": 8.0,
+    "formation": "Sylhet",
+    "multiplier": 3.5,
+    "note": "SW Moran \u2014 fractured Sylhet carbonate, circulation losses",
+    "hazard": "mud_loss"
+  },
+  {
+    "id": "HZ-NKT-GIRUJAN",
+    "lat": 27.33,
+    "lon": 95.23,
+    "radius_km": 8.0,
+    "formation": "Girujan",
+    "multiplier": 3.0,
+    "note": "Naharkatiya \u2014 Girujan hole instability cluster",
+    "hazard": "wellbore_instability"
+  }
+]

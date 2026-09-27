@@ -1,0 +1,15 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-002  (Moran 2)   Field: Moran   Basin: Upper Assam
+Report Date: 2010-05-18   Report Day: 1
+Depth: 0 -> 605 m MD  (progress 605 m)
+Current Fm: Girujan Fm
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  POOH for bit change, RIH, resumed drlg Girujan Fm.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  2.9 hrs NPT - CEMENTING_ISSUE @ 161 m MD (Namsang), sev=medium: Poor cement bond / losses during primary cementing of casing shoe in Namsang. Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  4.2 hrs NPT - WELLBORE_INSTABILITY @ 223 m MD (Namsang Fm), sev=medium: Wellbore washout suspected in Namsang, oversized cuttings at surface. Adjusted mud rheology, ran wiper trips before continuing.
+  3.9 hrs NPT - WELLBORE_INSTABILITY @ 422 m MD (NAMSANG FM), sev=medium: Hole instability / cavings on surface while drilling Namsang, tight hole on conxs. Increased mud weight and viscosity, short-tripped to condition hole.

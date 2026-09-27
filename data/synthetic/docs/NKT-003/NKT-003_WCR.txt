@@ -1,0 +1,62 @@
+WELL COMPLETION REPORT (WCR)
+Well: NKT-003  (Naharkatiya 3)   Field: Naharkatiya   Basin: Upper Assam
+Spud Date: 2008-01-16   Status: completed
+Lat/Lon: 27.2933, 95.0950   KB Elev: 114.7 m
+Trajectory: deviated   TD (MD): 3085 m   TD (TVD): 3036 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            38            38
+Dhekiajuli              38            38           161           161
+Namsang                161           161           326           326
+Girujan                326           326           875           875
+Tipam                  875           875          1599          1565
+Barail                1599          1565          2525          2477
+Kopili                2525          2477          2746          2697
+Sylhet                2746          2697          2980          2931
+Basement              2980          2931          3085          3036
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       161
+Girujan           9-5/8in intermediate                   326
+Tipam             9-5/8in intermediate-2                 875
+Barail            7in production                        1599
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2008-01-17 | 317 m MD | Namsang | wellbore_instability | medium | 4.5 hrs NPT
+    Cause: Hole instability / cavings on surface while drilling Namsang, tight hole on connections.
+    Remedy: Increased mud weight and viscosity, short-tripped to condition hole.
+  2008-01-17 | 326 m MD | Girujan | cementing_issue | high | 19.0 hrs NPT
+    Cause: Excessive cement losses to formation while cementing across Girujan.
+    Remedy: Staged cement job with lightweight lead slurry and full tail string.
+  2008-01-18 | 683 m MD | Girujan | stuck_pipe | high | 12.9 hrs NPT
+    Cause: Differential sticking in Girujan, no rotation or reciprocation possible.
+    Remedy: Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  2008-01-19 | 1160 m MD | Tipam | mud_loss | medium | 2.2 hrs NPT
+    Cause: Losses seen while running casing through Tipam, static losses continuing on connections.
+    Remedy: Spotted 83 bbl high-fluid-loss pill across the loss zone and monitored pit levels.
+  2008-01-19 | 1168 m MD | Tipam | mud_loss | medium | 3.7 hrs NPT
+    Cause: Losses seen while running casing through Tipam, static losses continuing on connections.
+    Remedy: Spotted 28 bbl high-fluid-loss pill across the loss zone and monitored pit levels.
+  2008-01-19 | 1221 m MD | Tipam | mud_loss | medium | 2.0 hrs NPT
+    Cause: Total losses encountered in Tipam, no returns to surface for 2.0 hrs.
+    Remedy: Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.
+  2008-01-21 | 2248 m MD | Barail | stuck_pipe | medium | 7.1 hrs NPT
+    Cause: Differential sticking in Barail, no rotation or reciprocation possible.
+    Remedy: Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  2008-01-23 | 2997 m MD | Basement | torque_spike | medium | 9.3 hrs NPT
+    Cause: Sharp torque increase on contact with Basement, ROP dropped to near zero.
+    Remedy: Reduced WOB and RPM, reamed interval, resumed drilling at reduced parameters.

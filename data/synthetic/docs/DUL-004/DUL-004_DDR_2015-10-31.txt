@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-004  (Duliajan 4)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-10-31   Report Day: 6
+Depth: 2400 -> 2677 m MD  (progress 276 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahaed in aBrail Coal-Shale @ 11 m/hr avg.
+  Flow check ok, no signs of influx, drlg ahead.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

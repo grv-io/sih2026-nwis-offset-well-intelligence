@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-007  (Duliajan 7)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2019-02-27   Report Day: 5
+Depth: 2070 -> 2315 m MD  (progress 244 m)
+Current Fm: Barail Gp
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit chnage, RIH, resumed drlg Barail Gp.
+  Slips and mud checks per program, ops normal.
+  POOH for bit change, RIH, resumed drlg Barail Gp.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  22.4 hrs NPT - STUCK_PIPE @ 2112 m MD (Barail), sev=critical: Pipe stuck while tripping through Barail, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 105 bbl pipe-lax pill, freed after 22.4 hrs.

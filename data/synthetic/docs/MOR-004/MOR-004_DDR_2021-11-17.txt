@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-004  (Moran 4)   Field: Moran   Basin: Upper Assam
+Report Date: 2021-11-17   Report Day: 1
+Depth: 0 -> 873 m MD  (progress 873 m)
+Current Fm: Gurjan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Surevy taken, inc/azi within plan.
+  Cont'd drlg, monitoring torque/drag trend.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  5.8 hrs NPT - STUCK_PIPE @ 408 m MD (Girujan), sev=medium: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 54 bbl pipe-lax pill, freed after 5.8 hrs.

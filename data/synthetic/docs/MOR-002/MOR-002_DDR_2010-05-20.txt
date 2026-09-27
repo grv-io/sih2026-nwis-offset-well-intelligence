@@ -1,0 +1,16 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-002  (Moran 2)   Field: Moran   Basin: Upper Assam
+Report Date: 2010-05-20   Report Day: 3
+Depth: 1024 -> 1537 m MD  (progress 513 m)
+Current Fm: Tipam Sand
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wpier trip to conidtion hole, no issues.
+  Flow check ok, no signs of influx, drlg ahead.
+  Drlg ahead in Tipam Sand @ 24 m/hr avg.
+  POOH for bit change, RIH, resumed drlg Tipam Sand.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  4.4 hrs NPT - WELLBORE_INSTABILITY @ 1227 m MD (Girujan Fm), sev=low: Hole instability / cavings on surface while drlg Girujan, tight hole on conxs. Increased mud weight and viscosity, short-tripped to condition hole.
+  4.2 hrs NPT - CEMENTING_ISSUE @ 1264 m MD (Tipam Ss), sev=medium: Poor cement bond / losses during primary cementing of casing shoe in Tipam. Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  5.9 hrs NPT - MUD_LOSS @ 1323 m MD (Tipam), sev=medium: Lost circ 49 bbl/hr while drilling Tipam sand, partial returns only. Pumped 85 bbl LCM pill, reduced ROP, regained partial returns.

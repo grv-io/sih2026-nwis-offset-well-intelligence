@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-005  (Naharkatiya 5)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2010-06-06   Report Day: 7
+Depth: 2249 -> 2488 m MD  (progress 238 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Barail Coal-Shale.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

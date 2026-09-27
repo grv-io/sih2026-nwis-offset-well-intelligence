@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-002  (Moran 2)   Field: Moran   Basin: Upper Assam
+Report Date: 2010-05-25   Report Day: 8
+Depth: 2779 -> 2917 m MD  (progress 138 m)
+Current Fm: BASEMENT
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiepr trip to condition hole, no issues.
+  Circ btms up, checked for gas, resumed drlg.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

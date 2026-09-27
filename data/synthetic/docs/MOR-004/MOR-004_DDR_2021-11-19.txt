@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-004  (Moran 4)   Field: Moran   Basin: Upper Assam
+Report Date: 2021-11-19   Report Day: 3
+Depth: 1756 -> 2081 m MD  (progress 325 m)
+Current Fm: BARAIL
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed drlg.
+  Survey taken, in/cazi within plan.
+  Slips and mud checks per progarm, ops normal.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

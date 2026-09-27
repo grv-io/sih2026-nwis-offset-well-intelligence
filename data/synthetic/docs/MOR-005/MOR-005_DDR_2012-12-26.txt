@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-005  (Moran 5)   Field: Moran   Basin: Upper Assam
+Report Date: 2012-12-26   Report Day: 3
+Depth: 1307 -> 2009 m MD  (progress 701 m)
+Current Fm: BARAIL
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed drlg.
+  Slips and mud checks per program, ops normal.
+  POOH for bit change, RIH, resumed drlg BARAIL.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  2.5 hrs NPT - MUD_LOSS @ 1638 m MD (Tipam Sand), sev=medium: Lost circulation 64 bbl/hr while drilling Tipam sand, partial returns only. Pumped 112 bbl LCM pill, reduced ROP, regained partial returns.
+  3.3 hrs NPT - CEMENTING_ISSUE @ 1816 m MD (Barail), sev=low: Poor cement bond / losses during primary cementing of casing shoe in Barail. Squeeze cemented shoe track, pressure tested to spec before drilling out.

@@ -1,0 +1,17 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-007  (Moran 7)   Field: Moran   Basin: Upper Assam
+Report Date: 2021-02-24   Report Day: 4
+Depth: 2031 -> 2367 m MD  (progress 336 m)
+Current Fm: Barail
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Slips and mud checks per program, ops normal.
+  Short wiper trip to condition hole, no issues.
+  Circ btms up, checked for gas, resumed drlg.
+  Survey taken, inc/azi within plan.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  11.9 hrs NPT - MUD_LOSS @ 2065 m MD (Tipam Sand), sev=critical: Lost circ 56 bbl/hr while drilling Tipam sand, partial returns only. Pumped 117 bbl LCM pill, reduced ROP, regained partial returns.
+  16.0 hrs NPT - CEMENTING_ISSUE @ 2081 m MD (Barail Gp), sev=medium: Poor cement bond / losses during primary cementing of casing shoe in Barail. Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  6.9 hrs NPT - OVERPRESSURE @ 2245 m MD (BARAIL), sev=medium: SPP trend increasing and drag rising while drilling into Barail, suspected transition zone. Raised mud weight in 52-ppg steps, monitored trip gas, continued drilling with caution.
+  17.6 hrs NPT - STUCK_PIPE @ 2253 m MD (Barail Gp), sev=high: Differential sticking in Barail, no rotation or reciprocation possible. Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.

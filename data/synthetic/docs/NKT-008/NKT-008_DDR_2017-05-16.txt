@@ -1,0 +1,17 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-008  (Naharkatiya 8)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2017-05-16   Report Day: 2
+Depth: 747 -> 1359 m MD  (progress 612 m)
+Current Fm: Tipam Ss
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drlg, monitoring torque/drag trend.
+  Slips and mud checks per program, ops normal.
+  Flow check ok, no signs of influx, drlg ahead.
+  Drlg haead in Tipam Ss @ 28 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  15.8 hrs NPT - STUCK_PIPE @ 760 m MD (GIRUJAN CLAY), sev=critical: Differential sticking in Girujan, no rotation or reciprocation possible. Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  7.8 hrs NPT - STUCK_PIPE @ 769 m MD (Girujan), sev=high: Pipe stuck while trppg through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 40 bbl pipe-lax pill, freed after 7.8 hrs.
+  5.4 hrs NPT - FISHING_OPERATION @ 774 m MD (GIRUJAN CLAY), sev=high: Following stuck pipe in Girujan, back-off performed, fish left in hole. Ran fishing BHA, latched fish with overshot, recovered string to surface.
+  7.2 hrs NPT - FISHING_OPERATION @ 781 m MD (Gurjan), sev=high: Following stuck pipe in Girujan, back-off performed, fish left in hole. Ran fishing BHA, latched fish with overshot, recovered string to surface.

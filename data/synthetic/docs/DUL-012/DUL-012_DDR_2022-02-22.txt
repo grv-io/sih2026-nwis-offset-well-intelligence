@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-012  (Duliajan 12)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2022-02-22   Report Day: 5
+Depth: 2531 -> 2955 m MD  (progress 424 m)
+Current Fm: KOPILI SH
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of influx, drlg ahead.
+  Flow check ok, no isgns of influx, drlg ahead.
+  Cont'd drlg, monitoring torque/drag trend.
+  POOH for bit change, RIH, resumed drlg KOPILI SH.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  11.8 hrs NPT - OVERPRESSURE @ 2799 m MD (BARAIL), sev=high: Well kicked back while circulating out of Barail, gas readings elevated on trip gas. Weighted mud up to balance fm pressure, circulated btms up before resuming.

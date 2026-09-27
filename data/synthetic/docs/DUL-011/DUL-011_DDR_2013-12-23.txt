@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-011  (Duliajan 11)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2013-12-23   Report Day: 2
+Depth: 570 -> 829 m MD  (progress 259 m)
+Current Fm: Girujan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Girujan @ 20 m/hr avg.
+  Drlg ahead in Girujan @ 11 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-002  (Moran 2)   Field: Moran   Basin: Upper Assam
+Report Date: 2010-05-24   Report Day: 7
+Depth: 2501 -> 2779 m MD  (progress 278 m)
+Current Fm: SYLHET LST
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  Drlg ahead in SYLHET LST @ 5 m/hr avg.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  7.5 hrs NPT - MUD_LOSS @ 2702 m MD (Sylhet Lst), sev=high: Total losses encountered in Sylhet, no returns to surface for 7.5 hrs. Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.
+  1.4 hrs NPT - MUD_LOSS @ 2721 m MD (SYLHET LST), sev=low: Total losses encountered in Sylhet, no returns to surface for 1.4 hrs. Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.

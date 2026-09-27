@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-010  (Duliajan 10)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2009-10-07   Report Day: 6
+Depth: 2522 -> 2783 m MD  (progress 261 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, rseumed drlg Barail Coal-Shale.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  19.0 hrs NPT - STUCK_PIPE @ 2725 m MD (Barail), sev=high: Differential sticking in Barail, no rotation or reciprocation possible. Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  6.2 hrs NPT - FISHING_OPERATION @ 2731 m MD (Barail Coal-Shale), sev=high: Following stuck pipe in Barail, back-off performed, fish left in hole. Ran fishing BHA, latched fish with overshot, recovered string to surface.

@@ -1,0 +1,56 @@
+WELL COMPLETION REPORT (WCR)
+Well: DUL-002  (Duliajan 2)   Field: Duliajan   Basin: Upper Assam
+Spud Date: 2016-02-17   Status: completed
+Lat/Lon: 27.4413, 95.3366   KB Elev: 97.6 m
+Trajectory: deviated   TD (MD): 3426 m   TD (TVD): 3279 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            23            23
+Dhekiajuli              23            23           209           209
+Namsang                209           209           415           415
+Girujan                415           415          1187          1127
+Tipam                 1187          1127          1982          1839
+Barail                1982          1839          2917          2770
+Kopili                2917          2770          3168          3021
+Sylhet                3168          3021          3360          3212
+Basement              3360          3212          3426          3279
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       209
+Girujan           9-5/8in intermediate                   415
+Tipam             9-5/8in intermediate-2                1187
+Barail            7in production                        1982
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2016-02-18 | 8 m MD | Alluvium | npt_other | low | 3.8 hrs NPT
+    Cause: Rig repair / equipment downtime while working in Alluvium section.
+    Remedy: Repaired equipment, resumed operations after downtime.
+  2016-02-18 | 209 m MD | Namsang | cementing_issue | low | 1.9 hrs NPT
+    Cause: Poor cement bond / losses during primary cementing of casing shoe in Namsang.
+    Remedy: Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  2016-02-18 | 616 m MD | Girujan | stuck_pipe | critical | 40.4 hrs NPT
+    Cause: Differential sticking in Girujan, no rotation or reciprocation possible.
+    Remedy: Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  2016-02-18 | 749 m MD | Girujan | stuck_pipe | high | 7.1 hrs NPT
+    Cause: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 78 bbl pipe-lax pill, freed after 7.1 hrs.
+  2016-02-19 | 1096 m MD | Girujan | stuck_pipe | high | 28.6 hrs NPT
+    Cause: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 100 bbl pipe-lax pill, freed after 28.6 hrs.
+  2016-02-24 | 3100 m MD | Kopili | kick | high | 14.5 hrs NPT
+    Cause: Gas-cut mud and increasing pit volume observed drilling Kopili, well flowing.
+    Remedy: Hard shut-in, recorded SIDPP/SICP, weighted up mud and circulated bottoms up.

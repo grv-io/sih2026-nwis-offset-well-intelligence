@@ -1,0 +1,28 @@
+# core
+pydantic>=2.7
+sqlmodel>=0.0.22
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+xgboost
+shap
+# llm
+openai>=1.40          # Ollama OpenAI-compatible endpoint
+instructor>=1.5
+httpx
+rapidfuzz
+# docs
+pdfplumber
+reportlab
+pillow
+rapidocr-onnxruntime
+# api / app
+fastapi
+uvicorn[standard]
+python-multipart
+plotly
+# dev
+pytest
+python-dotenv

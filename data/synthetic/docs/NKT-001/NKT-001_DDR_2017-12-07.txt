@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-001  (Naharkatiya 1)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2017-12-07   Report Day: 5
+Depth: 2594 -> 3083 m MD  (progress 489 m)
+Current Fm: Sylhet
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Slips and mud chekcs per program, ops normal.
+  Drlg ahead in Sylhet @ 11 m/hr avg.
+  Drlg ahead in Sylhet @ 6 m/hr avg.
+  Drlg ahead in Sylhet @ 11 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

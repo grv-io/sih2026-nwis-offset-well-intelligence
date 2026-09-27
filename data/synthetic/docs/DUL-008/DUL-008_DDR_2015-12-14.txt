@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-008  (Duliajan 8)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-12-14   Report Day: 5
+Depth: 2695 -> 3053 m MD  (progress 358 m)
+Current Fm: SYLHET LST
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed drlg.
+  Drlg ahead in SLYHET LST @ 6 m/hr avg.
+  Survey taken, inc/azi within plan.
+  POOH for bit change, RIH, rseumed drlg SYLHET LST.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

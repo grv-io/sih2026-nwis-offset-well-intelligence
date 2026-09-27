@@ -1,0 +1,15 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-003  (Duliajan 3)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-09-08   Report Day: 7
+Depth: 2985 -> 3440 m MD  (progress 455 m)
+Current Fm: Bsmt
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Bsmt.
+  Circ btms up, hcecked for gas, resumed drlg.
+  Survey taken, inc/azi within plan.
+  Survey taken, inc/azi within plan.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  8.3 hrs NPT - KICK @ 3094 m MD (Kopili), sev=high: Flow-check positive, pit gain of 81 bbl and flow-out exceeding flow-in while in Kopili. Shut in well, closed BOP, circulated kill mud per driller's method.
+  1.4 hrs NPT - TORQUE_SPIKE @ 3418 m MD (Bsmt), sev=low: Sharp torque increase on contact with Basement, ROP dropped to near zero. Reduced WOB and RPM, reamed interval, resumed drilling at reduced parameters.

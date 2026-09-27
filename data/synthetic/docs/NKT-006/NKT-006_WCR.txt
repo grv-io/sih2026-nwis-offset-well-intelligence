@@ -1,0 +1,47 @@
+WELL COMPLETION REPORT (WCR)
+Well: NKT-006  (Naharkatiya 6)   Field: Naharkatiya   Basin: Upper Assam
+Spud Date: 2014-07-20   Status: completed
+Lat/Lon: 27.2885, 95.1067   KB Elev: 121.5 m
+Trajectory: vertical   TD (MD): 2991 m   TD (TVD): 2991 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            35            35
+Dhekiajuli              35            35           153           153
+Namsang                153           153           332           332
+Girujan                332           332           887           887
+Tipam                  887           887          1547          1547
+Barail                1547          1547          2458          2458
+Kopili                2458          2458          2670          2670
+Sylhet                2670          2670          2906          2906
+Basement              2906          2906          2991          2991
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       153
+Girujan           9-5/8in intermediate                   332
+Tipam             9-5/8in intermediate-2                 887
+Barail            7in production                        1547
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2014-07-23 | 887 m MD | Tipam | cementing_issue | low | 3.5 hrs NPT
+    Cause: Poor cement bond / losses during primary cementing of casing shoe in Tipam.
+    Remedy: Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  2014-07-26 | 2564 m MD | Kopili | kick | high | 10.6 hrs NPT
+    Cause: Gas-cut mud and increasing pit volume observed drilling Kopili, well flowing.
+    Remedy: Hard shut-in, recorded SIDPP/SICP, weighted up mud and circulated bottoms up.
+  2014-07-27 | 2823 m MD | Sylhet | mud_loss | high | 14.0 hrs NPT
+    Cause: Lost circulation 43 bbl/hr while drilling Sylhet sand, partial returns only.
+    Remedy: Pumped 21 bbl LCM pill, reduced ROP, regained partial returns.

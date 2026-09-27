@@ -1,0 +1,53 @@
+WELL COMPLETION REPORT (WCR)
+Well: DUL-011  (Duliajan 11)   Field: Duliajan   Basin: Upper Assam
+Spud Date: 2013-12-21   Status: completed
+Lat/Lon: 27.4872, 95.3147   KB Elev: 121.1 m
+Trajectory: deviated   TD (MD): 3455 m   TD (TVD): 3413 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            34            34
+Dhekiajuli              34            34           175           175
+Namsang                175           175           471           471
+Girujan                471           471          1178          1171
+Tipam                 1178          1171          2159          2117
+Barail                2159          2117          2934          2892
+Kopili                2934          2892          3152          3110
+Sylhet                3152          3110          3411          3369
+Basement              3411          3369          3455          3413
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       175
+Girujan           9-5/8in intermediate                   471
+Tipam             9-5/8in intermediate-2                1178
+Barail            7in production                        2159
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2013-12-22 | 4 m MD | Alluvium | wellbore_instability | medium | 2.8 hrs NPT
+    Cause: Hole instability / cavings on surface while drilling Alluvium, tight hole on connections.
+    Remedy: Increased mud weight and viscosity, short-tripped to condition hole.
+  2013-12-22 | 501 m MD | Girujan | stuck_pipe | high | 16.1 hrs NPT
+    Cause: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 71 bbl pipe-lax pill, freed after 16.1 hrs.
+  2013-12-27 | 2159 m MD | Barail | cementing_issue | medium | 3.6 hrs NPT
+    Cause: Poor cement bond / losses during primary cementing of casing shoe in Barail.
+    Remedy: Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  2013-12-30 | 3054 m MD | Kopili | overpressure | medium | 6.8 hrs NPT
+    Cause: Well kicked back while circulating out of Kopili, gas readings elevated on trip gas.
+    Remedy: Weighted mud up to balance formation pressure, circulated bottoms up before resuming.
+  2013-12-30 | 3057 m MD | Kopili | kick | high | 7.8 hrs NPT
+    Cause: Flow-check positive, pit gain of 107 bbl and flow-out exceeding flow-in while in Kopili.
+    Remedy: Shut in well, closed BOP, circulated kill mud per driller's method.

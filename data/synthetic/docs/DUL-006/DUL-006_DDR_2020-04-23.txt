@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-006  (Duliajan 6)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2020-04-23   Report Day: 2
+Depth: 631 -> 1080 m MD  (progress 450 m)
+Current Fm: Girujan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  2.8 hrs NPT - TORQUE_SPIKE @ 1043 m MD (Girujan), sev=medium: Sharp torque increase on contact with Girujan, ROP dropped to near zero. Reduced WOB and RPM, reamed interval, resumed drilling at reduced parameters.

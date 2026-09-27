@@ -1,0 +1,15 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-006  (Moran 6)   Field: Moran   Basin: Upper Assam
+Report Date: 2012-04-25   Report Day: 7
+Depth: 2883 -> 3159 m MD  (progress 276 m)
+Current Fm: Bsmt
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Bsmt.
+  Drlg ahead in Bsmt @ 2 m/hr avg.
+  POOH for bit change, RIH, resumed drlg Bsmt.
+  Short iwper trip to condition hole, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.9 hrs NPT - MUD_LOSS @ 2996 m MD (SYLHET LST), sev=medium: Total losses encountered in Sylhet, no returns to surface for 1.9 hrs. Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.
+  9.5 hrs NPT - MUD_LOSS @ 3067 m MD (Sylhet), sev=medium: Lost circulation 32 bbl/hr while drilling Sylhet sand, partial returns only. Pumped 58 bbl LCM pill, reduced ROP, regained partial returns.

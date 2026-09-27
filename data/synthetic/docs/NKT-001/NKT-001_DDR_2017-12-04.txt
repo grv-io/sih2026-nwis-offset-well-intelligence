@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-001  (Naharkatiya 1)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2017-12-04   Report Day: 2
+Depth: 974 -> 1811 m MD  (progress 837 m)
+Current Fm: Tipam Ss
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  POOH for bit change, RIH, resumed drlg Tipam Ss.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  3.8 hrs NPT - WELLBORE_INSTABILITY @ 1269 m MD (Girujan Fm), sev=medium: Wellbore washout suspected in Girujan, oversized cuttings at surface. Adjusted mud rheology, ran wiper trips before continuing.

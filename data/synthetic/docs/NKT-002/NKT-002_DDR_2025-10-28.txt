@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-002  (Naharkatiya 2)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2025-10-28   Report Day: 8
+Depth: 2749 -> 2904 m MD  (progress 155 m)
+Current Fm: Basement
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Basement.
+  Flow check ok, no signs of influx, drlg ahead.
+  POOH for bit change, RIH, resumed drlg Bsaement.
+  Short wiper trip to condition hole, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  27.9 hrs NPT - OVERPRESSURE @ 2789 m MD (Sylhet Lst), sev=critical: SPP trend increasing and drag rising while drilling into Sylhet, suspected transition zone. Raised mud weight in 67-ppg steps, monitored trip gas, continued drilling with caution.

@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-001  (Naharkatiya 1)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2017-12-03   Report Day: 1
+Depth: 0 -> 974 m MD  (progress 974 m)
+Current Fm: Girujan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Girujan @ 15 m/hr avg.
+  Survey taken, inc/azi within plan.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  2.4 hrs NPT - CEMENTING_ISSUE @ 250 m MD (Namsang Fm), sev=low: Poor cement bond / losses during primary cementing of casing shoe in Namsang. Squeeze cemented shoe track, pressure tested to spec before drilling out.

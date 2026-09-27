@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-006  (Moran 6)   Field: Moran   Basin: Upper Assam
+Report Date: 2012-04-21   Report Day: 3
+Depth: 1103 -> 1893 m MD  (progress 790 m)
+Current Fm: Barail Gp
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Slips and mud checks per program, ops normal.
+  Circ btms up, checked for gas, resumed drlg.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.5 hrs NPT - MUD_LOSS @ 1444 m MD (Tipam), sev=low: Total losses encountered in Tipam, no returns to surface for 1.5 hrs. Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.
+  27.7 hrs NPT - MUD_LOSS @ 1877 m MD (Tipam), sev=critical: Lost circ 20 bbl/hr while drlg Tipam sand, partial returns only. Pumped 94 bbl LCM pill, reduced ROP, regained partial returns.

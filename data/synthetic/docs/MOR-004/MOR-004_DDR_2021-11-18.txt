@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-004  (Moran 4)   Field: Moran   Basin: Upper Assam
+Report Date: 2021-11-18   Report Day: 2
+Depth: 873 -> 1756 m MD  (progress 883 m)
+Current Fm: BARAIL
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg BARAIL.
+  Cont'd drlg, monitoring torque/drag rtend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.7 hrs NPT - MUD_LOSS @ 1438 m MD (Tipam Sand), sev=low: Total losses encountered in Tipam, no returns to surface for 1.7 hrs. Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.

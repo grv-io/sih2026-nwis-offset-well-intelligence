@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-002  (Moran 2)   Field: Moran   Basin: Upper Assam
+Report Date: 2010-05-22   Report Day: 5
+Depth: 1954 -> 2221 m MD  (progress 267 m)
+Current Fm: Barail Gp
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Slips and mud checks per program, ops normal.
+  Drlg ahead in Barail Gp @ 7 m/hr avg.
+  Flow check ok, no signs of influx, drlg ahead.
+  Short wiper trip to condition hole, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  7.2 hrs NPT - OVERPRESSURE @ 2093 m MD (Barail), sev=high: SPP trend increasing and drag rising while drilling into Barail, suspected transition zone. Raised mud weight in 97-ppg steps, monitored trip gas, continued drilling with caution.

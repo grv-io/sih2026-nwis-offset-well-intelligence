@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-007  (Moran 7)   Field: Moran   Basin: Upper Assam
+Report Date: 2021-02-28   Report Day: 8
+Depth: 3281 -> 3485 m MD  (progress 204 m)
+Current Fm: Bsmt
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Bsmt.
+  Flow check ok, no signs of influx, drlg ahead.
+  Circ btms up, checked for gas, resumed drlg.
+  POOH for bit change, RIH, resumed drlg Bsmt.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.2 hrs NPT - TORQUE_SPIKE @ 3446 m MD (BASEMENT), sev=low: Sharp torque increase on contact with Basement, ROP dropped to near zero. Reduced WOB and RPM, reamed interval, resumed drlg at reduced parameters.

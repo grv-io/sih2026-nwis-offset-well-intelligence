@@ -1,0 +1,68 @@
+WELL COMPLETION REPORT (WCR)
+Well: DUL-010  (Duliajan 10)   Field: Duliajan   Basin: Upper Assam
+Spud Date: 2009-10-01   Status: completed
+Lat/Lon: 27.5400, 95.3259   KB Elev: 125.7 m
+Trajectory: deviated   TD (MD): 3651 m   TD (TVD): 3603 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            40            40
+Dhekiajuli              40            40           274           274
+Namsang                274           274           531           531
+Girujan                531           531          1430          1393
+Tipam                 1430          1393          2003          1960
+Barail                2003          1960          2986          2940
+Kopili                2986          2940          3316          3269
+Sylhet                3316          3269          3535          3488
+Basement              3535          3488          3651          3603
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       274
+Girujan           9-5/8in intermediate                   531
+Tipam             9-5/8in intermediate-2                1430
+Barail            7in production                        2003
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2009-10-02 | 304 m MD | Namsang | wellbore_instability | high | 12.2 hrs NPT
+    Cause: Wellbore washout suspected in Namsang, oversized cuttings at surface.
+    Remedy: Adjusted mud rheology, ran wiper trips before continuing.
+  2009-10-02 | 531 m MD | Girujan | cementing_issue | high | 14.4 hrs NPT
+    Cause: Excessive cement losses to formation while cementing across Girujan.
+    Remedy: Staged cement job with lightweight lead slurry and full tail string.
+  2009-10-02 | 716 m MD | Girujan | stuck_pipe | high | 13.2 hrs NPT
+    Cause: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 58 bbl pipe-lax pill, freed after 13.2 hrs.
+  2009-10-03 | 887 m MD | Girujan | stuck_pipe | high | 6.4 hrs NPT
+    Cause: Differential sticking in Girujan, no rotation or reciprocation possible.
+    Remedy: Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  2009-10-04 | 1722 m MD | Tipam | gas_show | medium | 4.0 hrs NPT
+    Cause: Background gas rise while drilling Tipam, connection gas trending up.
+    Remedy: Increased mud weight slightly, monitored trend, continued drilling.
+  2009-10-05 | 2003 m MD | Barail | cementing_issue | low | 1.6 hrs NPT
+    Cause: Excessive cement losses to formation while cementing across Barail.
+    Remedy: Staged cement job with lightweight lead slurry and full tail string.
+  2009-10-06 | 2451 m MD | Barail | stuck_pipe | medium | 4.8 hrs NPT
+    Cause: Differential sticking in Barail, no rotation or reciprocation possible.
+    Remedy: Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  2009-10-07 | 2725 m MD | Barail | stuck_pipe | high | 19.0 hrs NPT
+    Cause: Differential sticking in Barail, no rotation or reciprocation possible.
+    Remedy: Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  2009-10-07 | 2731 m MD | Barail | fishing_operation | high | 6.2 hrs NPT
+    Cause: Following stuck pipe in Barail, back-off performed, fish left in hole.
+    Remedy: Ran fishing BHA, latched fish with overshot, recovered string to surface.
+  2009-10-09 | 3364 m MD | Sylhet | mud_loss | medium | 8.4 hrs NPT
+    Cause: Total losses encountered in Sylhet, no returns to surface for 8.4 hrs.
+    Remedy: Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.

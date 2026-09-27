@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-005  (Naharkatiya 5)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2010-06-01   Report Day: 2
+Depth: 555 -> 904 m MD  (progress 350 m)
+Current Fm: Girujan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of influx, drlg ahead.
+  Flow check ok, no sings of influx, drlg ahead.
+  Slips and mud checks per program, ops normal.
+  Circ btms up, checked for gas, resumed dlrg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

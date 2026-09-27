@@ -1,0 +1,15 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-003  (Moran 3)   Field: Moran   Basin: Upper Assam
+Report Date: 2024-02-28   Report Day: 6
+Depth: 2379 -> 2746 m MD  (progress 367 m)
+Current Fm: Kopili
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiper trip to condition hole, no issues.
+  Survey taken, inc/azi within plan.
+  POOH for bit change, RIH, resumed drlg Kopili.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.0 hrs NPT - WELLBORE_INSTABILITY @ 2690 m MD (Kopili), sev=low: Hole instability / cavings on surface while drlg Kopili, tight hole on connections. Increased mud weight and viscosity, short-tripped to condition hole.
+  6.5 hrs NPT - KICK @ 2706 m MD (Kopili Shale), sev=medium: Gas-cut mud and increasing pit volume observed drilling Kopili, well flowing. Hard shut-in, recorded SIDPP/SICP, weighted up mud and circulated bottoms up.

@@ -1,0 +1,33 @@
+.venv/
+__pycache__/
+*.pyc
+data/volve.sqlite
+data/synthetic/docs/**/*.pdf
+data/synthetic/docs/**/*.ocr.json
+data/synthetic/logs/
+models/*.pkl
+models/*.json.bak
+.env
+.streamlit/secrets.toml
+
+# data/external/ is git-ignored (downloaded/derived Volve data), except the small
+# reference/methodology files judges can read without pulling the raw dataset.
+data/external/*
+!data/external/volve/
+data/external/volve/*
+!data/external/volve/README.md
+!data/external/volve/HAND_LABELS.md
+!data/external/volve/SUMMARY.md
+!data/external/volve/hand_truth.json
+!data/external/volve/weak_truth.json
+!data/external/volve/weak_truth_ingested.json
+!data/external/volve/formation_tops_reference.json
+
+# web build artifacts
+web/node_modules/
+web/dist/
+web/test-results/
+web/playwright-report/
+web/tsconfig.tsbuildinfo
+web/.env
+.run/

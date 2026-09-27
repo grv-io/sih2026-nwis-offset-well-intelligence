@@ -1,0 +1,65 @@
+WELL COMPLETION REPORT (WCR)
+Well: DUL-007  (Duliajan 7)   Field: Duliajan   Basin: Upper Assam
+Spud Date: 2019-02-22   Status: completed
+Lat/Lon: 27.4907, 95.2933   KB Elev: 103.2 m
+Trajectory: vertical   TD (MD): 3193 m   TD (TVD): 3193 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            25            25
+Dhekiajuli              25            25           151           151
+Namsang                151           151           397           397
+Girujan                397           397          1092          1092
+Tipam                 1092          1092          1982          1982
+Barail                1982          1982          2762          2762
+Kopili                2762          2762          2932          2932
+Sylhet                2932          2932          3168          3168
+Basement              3168          3168          3193          3193
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       151
+Girujan           9-5/8in intermediate                   397
+Tipam             9-5/8in intermediate-2                1092
+Barail            7in production                        1982
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2019-02-25 | 1092 m MD | Tipam | cementing_issue | low | 2.0 hrs NPT
+    Cause: Poor cement bond / losses during primary cementing of casing shoe in Tipam.
+    Remedy: Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  2019-02-26 | 1982 m MD | Barail | cementing_issue | low | 1.8 hrs NPT
+    Cause: Poor cement bond / losses during primary cementing of casing shoe in Barail.
+    Remedy: Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  2019-02-26 | 2044 m MD | Barail | mud_loss | medium | 3.1 hrs NPT
+    Cause: Lost circulation 43 bbl/hr while drilling Barail sand, partial returns only.
+    Remedy: Pumped 55 bbl LCM pill, reduced ROP, regained partial returns.
+  2019-02-27 | 2112 m MD | Barail | stuck_pipe | critical | 22.4 hrs NPT
+    Cause: Pipe stuck while tripping through Barail, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 105 bbl pipe-lax pill, freed after 22.4 hrs.
+  2019-03-01 | 2791 m MD | Kopili | overpressure | critical | 20.0 hrs NPT
+    Cause: SPP trend increasing and drag rising while drilling into Kopili, suspected transition zone.
+    Remedy: Raised mud weight in 24-ppg steps, monitored trip gas, continued drilling with caution.
+  2019-03-02 | 2876 m MD | Kopili | kick | critical | 20.2 hrs NPT
+    Cause: Flow-check positive, pit gain of 76 bbl and flow-out exceeding flow-in while in Kopili.
+    Remedy: Shut in well, closed BOP, circulated kill mud per driller's method.
+  2019-03-02 | 2906 m MD | Kopili | overpressure | medium | 4.2 hrs NPT
+    Cause: Well kicked back while circulating out of Kopili, gas readings elevated on trip gas.
+    Remedy: Weighted mud up to balance formation pressure, circulated bottoms up before resuming.
+  2019-03-03 | 3113 m MD | Sylhet | mud_loss | medium | 1.4 hrs NPT
+    Cause: Lost circulation 79 bbl/hr while drilling Sylhet sand, partial returns only.
+    Remedy: Pumped 36 bbl LCM pill, reduced ROP, regained partial returns.
+  2019-03-03 | 3180 m MD | Basement | torque_spike | medium | 3.9 hrs NPT
+    Cause: Sharp torque increase on contact with Basement, ROP dropped to near zero.
+    Remedy: Reduced WOB and RPM, reamed interval, resumed drilling at reduced parameters.

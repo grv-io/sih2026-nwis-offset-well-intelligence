@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-010  (Moran 10)   Field: Moran   Basin: Upper Assam
+Report Date: 2008-09-21   Report Day: 3
+Depth: 873 -> 1185 m MD  (progress 311 m)
+Current Fm: GIRUJAN CLAY
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of influx, drlg ahead.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-011  (Duliajan 11)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2013-12-31   Report Day: 10
+Depth: 3286 -> 3455 m MD  (progress 169 m)
+Current Fm: BASEMENT
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiper trip to condition hole, no issues.
+  Slips and mud checks per program, ops normal.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-009  (Duliajan 9)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2012-09-04   Report Day: 7
+Depth: 2572 -> 2917 m MD  (progress 346 m)
+Current Fm: Sylhet Lst
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Slips and mud checks per program, ops normal.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

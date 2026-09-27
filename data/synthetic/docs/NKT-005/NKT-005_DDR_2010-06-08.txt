@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-005  (Naharkatiya 5)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2010-06-08   Report Day: 9
+Depth: 2801 -> 3070 m MD  (progress 269 m)
+Current Fm: SYLHET LST
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Slips and mud checks per program, ops normal.
+  Cont'd drlg, mointoring torque/drag trend.
+  Survey taken, inc/azi within plan.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

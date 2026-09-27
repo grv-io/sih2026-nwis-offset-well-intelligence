@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-001  (Moran 1)   Field: Moran   Basin: Upper Assam
+Report Date: 2010-08-10   Report Day: 4
+Depth: 2184 -> 2563 m MD  (progress 379 m)
+Current Fm: Barail Gp
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  Cont'd drlg, monitoring torque/drag trend.
+  Circ btms up, checked for gas, resumed drlg.
+  POOH for bit hcange, RIH, resumed drlg Barail Gp.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

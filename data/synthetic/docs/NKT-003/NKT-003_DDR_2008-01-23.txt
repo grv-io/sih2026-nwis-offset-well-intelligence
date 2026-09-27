@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-003  (Naharkatiya 3)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2008-01-23   Report Day: 7
+Depth: 2740 -> 3005 m MD  (progress 265 m)
+Current Fm: Bsmt
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Slips and mud checks per program, ops normal.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  9.3 hrs NPT - TORQUE_SPIKE @ 2997 m MD (BASEMENT), sev=medium: Sharp torque increase on contact with Basement, ROP dropped to near zero. Reduced WOB and RPM, reamed interval, resumed drilling at reduced parameters.

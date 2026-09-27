@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-009  (Duliajan 9)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2012-08-29   Report Day: 1
+Depth: 0 -> 693 m MD  (progress 693 m)
+Current Fm: Girujan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drlg, monitoring torque/drag trend.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  7.7 hrs NPT - STUCK_PIPE @ 636 m MD (GIRUJAN CLAY), sev=high: Pipe stuck while trppg through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 77 bbl pipe-lax pill, freed after 7.7 hrs.

@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-005  (Moran 5)   Field: Moran   Basin: Upper Assam
+Report Date: 2012-12-25   Report Day: 2
+Depth: 766 -> 1307 m MD  (progress 542 m)
+Current Fm: TIPAM SST
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drlg, monitoring torque/drag trend.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

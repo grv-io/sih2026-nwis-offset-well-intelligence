@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-006  (Duliajan 6)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2020-04-22   Report Day: 1
+Depth: 0 -> 631 m MD  (progress 631 m)
+Current Fm: GIRUJAN CLAY
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed drlg.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

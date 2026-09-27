@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-003  (Moran 3)   Field: Moran   Basin: Upper Assam
+Report Date: 2024-02-26   Report Day: 4
+Depth: 1769 -> 2074 m MD  (progress 305 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drlg, monitoring torque/drag trend.
+  Flow check ok, no signs of influx, drlg ahead.
+  Slips and mud checks per program, ops normal.
+  Flow check ok, no signs of influx, drlg haead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

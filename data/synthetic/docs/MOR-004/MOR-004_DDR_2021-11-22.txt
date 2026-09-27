@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-004  (Moran 4)   Field: Moran   Basin: Upper Assam
+Report Date: 2021-11-22   Report Day: 6
+Depth: 2783 -> 3090 m MD  (progress 307 m)
+Current Fm: Bsmt
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Bsmt @ 4 m/hr avg.
+  Cont'd drlg, monitoring torque/drag trend.
+  Drlg ahead in Bsmt @ 4 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  3.3 hrs NPT - MUD_LOSS @ 3010 m MD (SYLHET LST), sev=low: Lost circulation 67 bbl/hr while drilling Sylhet sand, partial returns only. Pumped 65 bbl LCM pill, reduced ROP, regained partial returns.

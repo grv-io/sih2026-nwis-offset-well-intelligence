@@ -1,0 +1,15 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-010  (Moran 10)   Field: Moran   Basin: Upper Assam
+Report Date: 2008-09-22   Report Day: 4
+Depth: 1185 -> 1694 m MD  (progress 509 m)
+Current Fm: Tipam
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Tipam.
+  Drlg ahead in Tipam @ 18 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  11.1 hrs NPT - TORQUE_SPIKE @ 1260 m MD (Gurjan), sev=high: Sharp torque increase on contact with Girujan, ROP dropped to near zero. Reduced WOB and RPM, reamed interval, resumed drlg at reduced parameters.
+  2.5 hrs NPT - CEMENTING_ISSUE @ 1320 m MD (Tipam Sand), sev=medium: Excessive cement losses to fm while cementing across Tipam. Staged cement job with lightweight lead slurry and full tail string.
+  4.5 hrs NPT - GAS_SHOW @ 1616 m MD (TIPAM SST), sev=medium: Background gas rise while drilling Tipam, connection gas trending up. Increased mud weight slightly, monitored trend, continued drilling.
+  10.1 hrs NPT - MUD_LOSS @ 1620 m MD (TIPAM SST), sev=high: Losses seen while running casing through Tipam, static losses continuing on connections. Spotted 30 bbl high-fluid-loss pill across the loss zone and monitored pit levels.

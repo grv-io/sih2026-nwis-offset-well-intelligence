@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-001  (Moran 1)   Field: Moran   Basin: Upper Assam
+Report Date: 2010-08-07   Report Day: 1
+Depth: 0 -> 876 m MD  (progress 876 m)
+Current Fm: Gurjan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Gurjan.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  16.9 hrs NPT - WELLBORE_INSTABILITY @ 251 m MD (Namsang), sev=high: Wellbore washout suspected in Namsang, oversized cuttings at surface. Adjusted mud rheology, ran wiper trips before continuing.

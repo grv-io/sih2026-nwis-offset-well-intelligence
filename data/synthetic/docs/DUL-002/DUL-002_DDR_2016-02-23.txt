@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-002  (Duliajan 2)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2016-02-23   Report Day: 6
+Depth: 2741 -> 3045 m MD  (progress 304 m)
+Current Fm: Kopili Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Kopili Shale @ 10 m/hr avg.
+  POOH for bit change, RIH, resumed drlg Kopili Shale.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

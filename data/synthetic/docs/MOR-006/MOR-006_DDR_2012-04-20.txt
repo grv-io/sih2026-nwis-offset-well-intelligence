@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-006  (Moran 6)   Field: Moran   Basin: Upper Assam
+Report Date: 2012-04-20   Report Day: 2
+Depth: 681 -> 1103 m MD  (progress 422 m)
+Current Fm: Girujan Fm
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Girujan Fm.
+  Cont'd rdlg, monitoring torque/drag trend.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

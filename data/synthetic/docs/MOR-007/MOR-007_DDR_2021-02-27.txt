@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-007  (Moran 7)   Field: Moran   Basin: Upper Assam
+Report Date: 2021-02-27   Report Day: 7
+Depth: 2995 -> 3281 m MD  (progress 287 m)
+Current Fm: Sylhet
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Sylhet.
+  POOH for bit change, RIH, resumed drlg Sylhet.
+  Short wiper trip to condition hole, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

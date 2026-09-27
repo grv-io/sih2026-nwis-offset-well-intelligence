@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-007  (Duliajan 7)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2019-02-26   Report Day: 4
+Depth: 1628 -> 2070 m MD  (progress 443 m)
+Current Fm: Barail
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  POOH for bit change, RIH, resumed drlg Barail.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.8 hrs NPT - CEMENTING_ISSUE @ 1982 m MD (Barail), sev=low: Poor cement bond / losses during primary cementing of casing shoe in Barail. Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  3.1 hrs NPT - MUD_LOSS @ 2044 m MD (Barail), sev=medium: Lost circ 43 bbl/hr while drlg Barail sand, partial returns only. Pumped 55 bbl LCM pill, reduced ROP, regained partial returns.

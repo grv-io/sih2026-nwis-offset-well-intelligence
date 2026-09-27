@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-003  (Duliajan 3)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-09-04   Report Day: 3
+Depth: 1223 -> 1949 m MD  (progress 727 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed drlg.
+  Short wiper trip to condition hole, no issues.
+  Cont'd drlg, omnitoring torque/darg trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  5.6 hrs NPT - MUD_LOSS @ 1269 m MD (TIPAM SST), sev=high: Total losses encountered in Tipam, no returns to surface for 5.6 hrs. Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.
+  2.5 hrs NPT - MUD_LOSS @ 1334 m MD (Tipam Ss), sev=low: Losses seen while running casing through Tipam, static losses continuing on connections. Spotted 39 bbl high-fluid-loss pill across the loss zone and monitored pit levels.

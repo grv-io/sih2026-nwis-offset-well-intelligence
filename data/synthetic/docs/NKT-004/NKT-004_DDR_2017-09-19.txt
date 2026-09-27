@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-004  (Naharkatiya 4)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2017-09-19   Report Day: 6
+Depth: 2185 -> 2412 m MD  (progress 226 m)
+Current Fm: Barail Gp
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no sings of influx, drlg ahead.
+  Circ btms up, cehcked for gas, resumed drlg.
+  Survey taken, inc/azi within plan.
+  Drlg ahead in Barail Gp @ 14 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

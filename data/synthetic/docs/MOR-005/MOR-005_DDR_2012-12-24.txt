@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-005  (Moran 5)   Field: Moran   Basin: Upper Assam
+Report Date: 2012-12-24   Report Day: 1
+Depth: 0 -> 766 m MD  (progress 766 m)
+Current Fm: GIRUJAN CLAY
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg GIURJAN CLAY.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  2.3 hrs NPT - CEMENTING_ISSUE @ 248 m MD (NAMSANG FM), sev=low: Excessive cement losses to formation while cementing across Namsang. Staged cement job with lightweight lead slurry and full tail string.
+  1.4 hrs NPT - CEMENTING_ISSUE @ 529 m MD (GIRUJAN CLAY), sev=low: Poor cement bond / losses during primary cementing of casing shoe in Girujan. Squeeze cemented shoe track, pressure tested to spec before drlg out.

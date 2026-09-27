@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-001  (Duliajan 1)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2017-06-13   Report Day: 2
+Depth: 636 -> 1100 m MD  (progress 464 m)
+Current Fm: GIRUJAN CLAY
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  Slips and mud checks per program, ops normal.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  3.2 hrs NPT - STUCK_PIPE @ 768 m MD (Girujan), sev=medium: Differential sticking in Girujan, no rotation or reciprocation possible. Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.

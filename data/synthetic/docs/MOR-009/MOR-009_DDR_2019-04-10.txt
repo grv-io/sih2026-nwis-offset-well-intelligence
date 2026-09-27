@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-009  (Moran 9)   Field: Moran   Basin: Upper Assam
+Report Date: 2019-04-10   Report Day: 1
+Depth: 0 -> 597 m MD  (progress 597 m)
+Current Fm: Gurjan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed drlg.
+  POOH for bit change, RIH, resumed drlg Gurjan.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  2.2 hrs NPT - CEMENTING_ISSUE @ 387 m MD (GIRUJAN CLAY), sev=low: Excessive cement losses to fm while cementing across Girujan. Staged cement job with lightweight lead slurry and full tail string.

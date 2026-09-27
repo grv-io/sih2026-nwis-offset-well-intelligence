@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-006  (Naharkatiya 6)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2014-07-24   Report Day: 4
+Depth: 1602 -> 1941 m MD  (progress 339 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed drlg.
+  Circ btms up, checked for gas, resumed drlg.
+  Cont'd drlg, monitoring torque/drag trend.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

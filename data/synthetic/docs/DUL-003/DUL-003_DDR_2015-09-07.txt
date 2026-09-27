@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-003  (Duliajan 3)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-09-07   Report Day: 6
+Depth: 2615 -> 2985 m MD  (progress 370 m)
+Current Fm: KOPILI SH
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drlg, monitoring torque/drag trend.
+  Drlg ahead in OKPILI SH @ 14 m/hr avg.
+  Drlg ahead in KOPILI SH @ 13 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  12.5 hrs NPT - MUD_LOSS @ 2870 m MD (BARAIL), sev=high: Losses seen while running casing through Barail, static losses continuing on conxs. Spotted 94 bbl high-fluid-loss pill across the loss zone and monitored pit levels.
+  9.4 hrs NPT - MUD_LOSS @ 2891 m MD (BARAIL), sev=medium: Lost circ 31 bbl/hr while drlg Barail sand, partial returns only. Pumped 66 bbl LCM pill, reduced ROP, regained partial returns.

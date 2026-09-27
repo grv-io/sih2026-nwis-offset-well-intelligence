@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-007  (Moran 7)   Field: Moran   Basin: Upper Assam
+Report Date: 2021-02-21   Report Day: 1
+Depth: 0 -> 703 m MD  (progress 703 m)
+Current Fm: Girujan Fm
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  Drlg ahead in Girujan Fm @ 13 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.6 hrs NPT - CEMENTING_ISSUE @ 485 m MD (GIRUJAN CLAY), sev=low: Excessive cement losses to fm while cementing across Girujan. Staged cement job with lightweight lead slurry and full tail string.

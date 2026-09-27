@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-005  (Naharkatiya 5)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2010-06-02   Report Day: 3
+Depth: 904 -> 1404 m MD  (progress 500 m)
+Current Fm: Tipam Ss
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Tipam Ss @ 30 m/hr avg.
+  Flow check ok, no signs of influx, drlg ahead.
+  Cont'd drlg, monitoring toruqe/drag trend.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.6 hrs NPT - GAS_SHOW @ 1236 m MD (Tipam Sand), sev=low: Background gas rise while drilling Tipam, conx gas trending up. Increased mud weight slightly, monitored trend, cont'd drilling.

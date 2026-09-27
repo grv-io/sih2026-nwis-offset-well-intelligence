@@ -1,0 +1,2126 @@
+[
+  {
+    "document_id": "DUL-001_DDR_2017-06-12",
+    "well_id": "DUL-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-001/DUL-001_DDR_2017-06-12.pdf",
+    "report_date": "2017-06-12",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-001_DDR_2017-06-13",
+    "well_id": "DUL-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-001/DUL-001_DDR_2017-06-13.pdf",
+    "report_date": "2017-06-13",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-001_DDR_2017-06-14",
+    "well_id": "DUL-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-001/DUL-001_DDR_2017-06-14.pdf",
+    "report_date": "2017-06-14",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-001_DDR_2017-06-16",
+    "well_id": "DUL-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-001/DUL-001_DDR_2017-06-16.pdf",
+    "report_date": "2017-06-16",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-001_DDR_2017-06-19",
+    "well_id": "DUL-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-001/DUL-001_DDR_2017-06-19.pdf",
+    "report_date": "2017-06-19",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-001_DDR_2017-06-20",
+    "well_id": "DUL-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-001/DUL-001_DDR_2017-06-20.pdf",
+    "report_date": "2017-06-20",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-001_WCR",
+    "well_id": "DUL-001",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/DUL-001/DUL-001_WCR.pdf",
+    "report_date": "2017-06-20",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-002_DDR_2016-02-18",
+    "well_id": "DUL-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-002/DUL-002_DDR_2016-02-18.pdf",
+    "report_date": "2016-02-18",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-002_DDR_2016-02-19",
+    "well_id": "DUL-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-002/DUL-002_DDR_2016-02-19.pdf",
+    "report_date": "2016-02-19",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-002_DDR_2016-02-20",
+    "well_id": "DUL-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-002/DUL-002_DDR_2016-02-20.pdf",
+    "report_date": "2016-02-20",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-002_DDR_2016-02-22",
+    "well_id": "DUL-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-002/DUL-002_DDR_2016-02-22.pdf",
+    "report_date": "2016-02-22",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-002_DDR_2016-02-23",
+    "well_id": "DUL-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-002/DUL-002_DDR_2016-02-23.pdf",
+    "report_date": "2016-02-23",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-002_DDR_2016-02-24",
+    "well_id": "DUL-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-002/DUL-002_DDR_2016-02-24.pdf",
+    "report_date": "2016-02-24",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-002_WCR",
+    "well_id": "DUL-002",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/DUL-002/DUL-002_WCR.pdf",
+    "report_date": "2016-02-24",
+    "n_pages": 3,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-003_DDR_2015-09-02",
+    "well_id": "DUL-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-003/DUL-003_DDR_2015-09-02.pdf",
+    "report_date": "2015-09-02",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-003_DDR_2015-09-03",
+    "well_id": "DUL-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-003/DUL-003_DDR_2015-09-03.pdf",
+    "report_date": "2015-09-03",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-003_DDR_2015-09-04",
+    "well_id": "DUL-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-003/DUL-003_DDR_2015-09-04.pdf",
+    "report_date": "2015-09-04",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-003_DDR_2015-09-05",
+    "well_id": "DUL-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-003/DUL-003_DDR_2015-09-05.pdf",
+    "report_date": "2015-09-05",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-003_DDR_2015-09-06",
+    "well_id": "DUL-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-003/DUL-003_DDR_2015-09-06.pdf",
+    "report_date": "2015-09-06",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-003_DDR_2015-09-07",
+    "well_id": "DUL-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-003/DUL-003_DDR_2015-09-07.pdf",
+    "report_date": "2015-09-07",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-003_DDR_2015-09-08",
+    "well_id": "DUL-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-003/DUL-003_DDR_2015-09-08.pdf",
+    "report_date": "2015-09-08",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-003_WCR",
+    "well_id": "DUL-003",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/DUL-003/DUL-003_WCR.pdf",
+    "report_date": "2015-09-08",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-004_DDR_2015-10-26",
+    "well_id": "DUL-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-004/DUL-004_DDR_2015-10-26.pdf",
+    "report_date": "2015-10-26",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-004_DDR_2015-10-27",
+    "well_id": "DUL-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-004/DUL-004_DDR_2015-10-27.pdf",
+    "report_date": "2015-10-27",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-004_DDR_2015-10-28",
+    "well_id": "DUL-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-004/DUL-004_DDR_2015-10-28.pdf",
+    "report_date": "2015-10-28",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-004_DDR_2015-10-29",
+    "well_id": "DUL-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-004/DUL-004_DDR_2015-10-29.pdf",
+    "report_date": "2015-10-29",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-004_DDR_2015-10-30",
+    "well_id": "DUL-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-004/DUL-004_DDR_2015-10-30.pdf",
+    "report_date": "2015-10-30",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-004_DDR_2015-10-31",
+    "well_id": "DUL-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-004/DUL-004_DDR_2015-10-31.pdf",
+    "report_date": "2015-10-31",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-004_DDR_2015-11-01",
+    "well_id": "DUL-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-004/DUL-004_DDR_2015-11-01.pdf",
+    "report_date": "2015-11-01",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-004_DDR_2015-11-02",
+    "well_id": "DUL-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-004/DUL-004_DDR_2015-11-02.pdf",
+    "report_date": "2015-11-02",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-004_WCR",
+    "well_id": "DUL-004",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/DUL-004/DUL-004_WCR.pdf",
+    "report_date": "2015-11-03",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-005_DDR_2025-02-02",
+    "well_id": "DUL-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-005/DUL-005_DDR_2025-02-02.pdf",
+    "report_date": "2025-02-02",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-005_DDR_2025-02-03",
+    "well_id": "DUL-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-005/DUL-005_DDR_2025-02-03.pdf",
+    "report_date": "2025-02-03",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-005_DDR_2025-02-04",
+    "well_id": "DUL-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-005/DUL-005_DDR_2025-02-04.pdf",
+    "report_date": "2025-02-04",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-005_DDR_2025-02-05",
+    "well_id": "DUL-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-005/DUL-005_DDR_2025-02-05.pdf",
+    "report_date": "2025-02-05",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-005_DDR_2025-02-06",
+    "well_id": "DUL-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-005/DUL-005_DDR_2025-02-06.pdf",
+    "report_date": "2025-02-06",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-005_DDR_2025-02-10",
+    "well_id": "DUL-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-005/DUL-005_DDR_2025-02-10.pdf",
+    "report_date": "2025-02-10",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-005_DDR_2025-02-11",
+    "well_id": "DUL-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-005/DUL-005_DDR_2025-02-11.pdf",
+    "report_date": "2025-02-11",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-005_WCR",
+    "well_id": "DUL-005",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/DUL-005/DUL-005_WCR.pdf",
+    "report_date": "2025-02-11",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-006_DDR_2020-04-22",
+    "well_id": "DUL-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-006/DUL-006_DDR_2020-04-22.pdf",
+    "report_date": "2020-04-22",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-006_DDR_2020-04-23",
+    "well_id": "DUL-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-006/DUL-006_DDR_2020-04-23.pdf",
+    "report_date": "2020-04-23",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-006_DDR_2020-04-24",
+    "well_id": "DUL-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-006/DUL-006_DDR_2020-04-24.pdf",
+    "report_date": "2020-04-24",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-006_DDR_2020-04-25",
+    "well_id": "DUL-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-006/DUL-006_DDR_2020-04-25.pdf",
+    "report_date": "2020-04-25",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-006_DDR_2020-04-26",
+    "well_id": "DUL-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-006/DUL-006_DDR_2020-04-26.pdf",
+    "report_date": "2020-04-26",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-006_DDR_2020-04-27",
+    "well_id": "DUL-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-006/DUL-006_DDR_2020-04-27.pdf",
+    "report_date": "2020-04-27",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-006_DDR_2020-04-28",
+    "well_id": "DUL-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-006/DUL-006_DDR_2020-04-28.pdf",
+    "report_date": "2020-04-28",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-006_DDR_2020-04-29",
+    "well_id": "DUL-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-006/DUL-006_DDR_2020-04-29.pdf",
+    "report_date": "2020-04-29",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-006_DDR_2020-04-30",
+    "well_id": "DUL-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-006/DUL-006_DDR_2020-04-30.pdf",
+    "report_date": "2020-04-30",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-006_DDR_2020-05-01",
+    "well_id": "DUL-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-006/DUL-006_DDR_2020-05-01.pdf",
+    "report_date": "2020-05-01",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-006_WCR",
+    "well_id": "DUL-006",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/DUL-006/DUL-006_WCR.pdf",
+    "report_date": "2020-05-01",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-007_DDR_2019-02-24",
+    "well_id": "DUL-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-007/DUL-007_DDR_2019-02-24.pdf",
+    "report_date": "2019-02-24",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-007_DDR_2019-02-25",
+    "well_id": "DUL-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-007/DUL-007_DDR_2019-02-25.pdf",
+    "report_date": "2019-02-25",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-007_DDR_2019-02-26",
+    "well_id": "DUL-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-007/DUL-007_DDR_2019-02-26.pdf",
+    "report_date": "2019-02-26",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-007_DDR_2019-02-27",
+    "well_id": "DUL-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-007/DUL-007_DDR_2019-02-27.pdf",
+    "report_date": "2019-02-27",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-007_DDR_2019-02-28",
+    "well_id": "DUL-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-007/DUL-007_DDR_2019-02-28.pdf",
+    "report_date": "2019-02-28",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-007_DDR_2019-03-01",
+    "well_id": "DUL-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-007/DUL-007_DDR_2019-03-01.pdf",
+    "report_date": "2019-03-01",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-007_DDR_2019-03-02",
+    "well_id": "DUL-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-007/DUL-007_DDR_2019-03-02.pdf",
+    "report_date": "2019-03-02",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-007_DDR_2019-03-03",
+    "well_id": "DUL-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-007/DUL-007_DDR_2019-03-03.pdf",
+    "report_date": "2019-03-03",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-007_WCR",
+    "well_id": "DUL-007",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/DUL-007/DUL-007_WCR.pdf",
+    "report_date": "2019-03-03",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-008_DDR_2015-12-10",
+    "well_id": "DUL-008",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-008/DUL-008_DDR_2015-12-10.pdf",
+    "report_date": "2015-12-10",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-008_DDR_2015-12-11",
+    "well_id": "DUL-008",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-008/DUL-008_DDR_2015-12-11.pdf",
+    "report_date": "2015-12-11",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-008_DDR_2015-12-12",
+    "well_id": "DUL-008",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-008/DUL-008_DDR_2015-12-12.pdf",
+    "report_date": "2015-12-12",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-008_DDR_2015-12-13",
+    "well_id": "DUL-008",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-008/DUL-008_DDR_2015-12-13.pdf",
+    "report_date": "2015-12-13",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-008_DDR_2015-12-14",
+    "well_id": "DUL-008",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-008/DUL-008_DDR_2015-12-14.pdf",
+    "report_date": "2015-12-14",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-008_WCR",
+    "well_id": "DUL-008",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/DUL-008/DUL-008_WCR.pdf",
+    "report_date": "2015-12-15",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-009_DDR_2012-08-29",
+    "well_id": "DUL-009",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-009/DUL-009_DDR_2012-08-29.pdf",
+    "report_date": "2012-08-29",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-009_DDR_2012-08-30",
+    "well_id": "DUL-009",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-009/DUL-009_DDR_2012-08-30.pdf",
+    "report_date": "2012-08-30",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-009_DDR_2012-09-01",
+    "well_id": "DUL-009",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-009/DUL-009_DDR_2012-09-01.pdf",
+    "report_date": "2012-09-01",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-009_DDR_2012-09-02",
+    "well_id": "DUL-009",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-009/DUL-009_DDR_2012-09-02.pdf",
+    "report_date": "2012-09-02",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-009_DDR_2012-09-03",
+    "well_id": "DUL-009",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-009/DUL-009_DDR_2012-09-03.pdf",
+    "report_date": "2012-09-03",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-009_DDR_2012-09-04",
+    "well_id": "DUL-009",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-009/DUL-009_DDR_2012-09-04.pdf",
+    "report_date": "2012-09-04",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-009_DDR_2012-09-05",
+    "well_id": "DUL-009",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-009/DUL-009_DDR_2012-09-05.pdf",
+    "report_date": "2012-09-05",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-009_WCR",
+    "well_id": "DUL-009",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/DUL-009/DUL-009_WCR.pdf",
+    "report_date": "2012-09-05",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-010_DDR_2009-10-02",
+    "well_id": "DUL-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-010/DUL-010_DDR_2009-10-02.pdf",
+    "report_date": "2009-10-02",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-010_DDR_2009-10-03",
+    "well_id": "DUL-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-010/DUL-010_DDR_2009-10-03.pdf",
+    "report_date": "2009-10-03",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-010_DDR_2009-10-04",
+    "well_id": "DUL-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-010/DUL-010_DDR_2009-10-04.pdf",
+    "report_date": "2009-10-04",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-010_DDR_2009-10-05",
+    "well_id": "DUL-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-010/DUL-010_DDR_2009-10-05.pdf",
+    "report_date": "2009-10-05",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-010_DDR_2009-10-06",
+    "well_id": "DUL-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-010/DUL-010_DDR_2009-10-06.pdf",
+    "report_date": "2009-10-06",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-010_DDR_2009-10-07",
+    "well_id": "DUL-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-010/DUL-010_DDR_2009-10-07.pdf",
+    "report_date": "2009-10-07",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-010_DDR_2009-10-08",
+    "well_id": "DUL-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-010/DUL-010_DDR_2009-10-08.pdf",
+    "report_date": "2009-10-08",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-010_DDR_2009-10-09",
+    "well_id": "DUL-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-010/DUL-010_DDR_2009-10-09.pdf",
+    "report_date": "2009-10-09",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-010_DDR_2009-10-10",
+    "well_id": "DUL-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-010/DUL-010_DDR_2009-10-10.pdf",
+    "report_date": "2009-10-10",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-010_WCR",
+    "well_id": "DUL-010",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/DUL-010/DUL-010_WCR.pdf",
+    "report_date": "2009-10-10",
+    "n_pages": 3,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-011_DDR_2013-12-22",
+    "well_id": "DUL-011",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-011/DUL-011_DDR_2013-12-22.pdf",
+    "report_date": "2013-12-22",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-011_DDR_2013-12-23",
+    "well_id": "DUL-011",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-011/DUL-011_DDR_2013-12-23.pdf",
+    "report_date": "2013-12-23",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-011_DDR_2013-12-26",
+    "well_id": "DUL-011",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-011/DUL-011_DDR_2013-12-26.pdf",
+    "report_date": "2013-12-26",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-011_DDR_2013-12-27",
+    "well_id": "DUL-011",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-011/DUL-011_DDR_2013-12-27.pdf",
+    "report_date": "2013-12-27",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-011_DDR_2013-12-28",
+    "well_id": "DUL-011",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-011/DUL-011_DDR_2013-12-28.pdf",
+    "report_date": "2013-12-28",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-011_DDR_2013-12-29",
+    "well_id": "DUL-011",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-011/DUL-011_DDR_2013-12-29.pdf",
+    "report_date": "2013-12-29",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-011_DDR_2013-12-30",
+    "well_id": "DUL-011",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-011/DUL-011_DDR_2013-12-30.pdf",
+    "report_date": "2013-12-30",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-011_DDR_2013-12-31",
+    "well_id": "DUL-011",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-011/DUL-011_DDR_2013-12-31.pdf",
+    "report_date": "2013-12-31",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-011_WCR",
+    "well_id": "DUL-011",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/DUL-011/DUL-011_WCR.pdf",
+    "report_date": "2013-12-31",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "DUL-012_DDR_2022-02-18",
+    "well_id": "DUL-012",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-012/DUL-012_DDR_2022-02-18.pdf",
+    "report_date": "2022-02-18",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-012_DDR_2022-02-19",
+    "well_id": "DUL-012",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-012/DUL-012_DDR_2022-02-19.pdf",
+    "report_date": "2022-02-19",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-012_DDR_2022-02-20",
+    "well_id": "DUL-012",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-012/DUL-012_DDR_2022-02-20.pdf",
+    "report_date": "2022-02-20",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-012_DDR_2022-02-21",
+    "well_id": "DUL-012",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-012/DUL-012_DDR_2022-02-21.pdf",
+    "report_date": "2022-02-21",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-012_DDR_2022-02-22",
+    "well_id": "DUL-012",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-012/DUL-012_DDR_2022-02-22.pdf",
+    "report_date": "2022-02-22",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-012_DDR_2022-02-23",
+    "well_id": "DUL-012",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-012/DUL-012_DDR_2022-02-23.pdf",
+    "report_date": "2022-02-23",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-012_DDR_2022-02-24",
+    "well_id": "DUL-012",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/DUL-012/DUL-012_DDR_2022-02-24.pdf",
+    "report_date": "2022-02-24",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "DUL-012_WCR",
+    "well_id": "DUL-012",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/DUL-012/DUL-012_WCR.pdf",
+    "report_date": "2022-02-24",
+    "n_pages": 3,
+    "is_scanned": true
+  },
+  {
+    "document_id": "MOR-001_DDR_2010-08-07",
+    "well_id": "MOR-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-001/MOR-001_DDR_2010-08-07.pdf",
+    "report_date": "2010-08-07",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-001_DDR_2010-08-08",
+    "well_id": "MOR-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-001/MOR-001_DDR_2010-08-08.pdf",
+    "report_date": "2010-08-08",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-001_DDR_2010-08-09",
+    "well_id": "MOR-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-001/MOR-001_DDR_2010-08-09.pdf",
+    "report_date": "2010-08-09",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-001_DDR_2010-08-10",
+    "well_id": "MOR-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-001/MOR-001_DDR_2010-08-10.pdf",
+    "report_date": "2010-08-10",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-001_DDR_2010-08-11",
+    "well_id": "MOR-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-001/MOR-001_DDR_2010-08-11.pdf",
+    "report_date": "2010-08-11",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-001_DDR_2010-08-12",
+    "well_id": "MOR-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-001/MOR-001_DDR_2010-08-12.pdf",
+    "report_date": "2010-08-12",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-001_WCR",
+    "well_id": "MOR-001",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/MOR-001/MOR-001_WCR.pdf",
+    "report_date": "2010-08-12",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-002_DDR_2010-05-18",
+    "well_id": "MOR-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-002/MOR-002_DDR_2010-05-18.pdf",
+    "report_date": "2010-05-18",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-002_DDR_2010-05-19",
+    "well_id": "MOR-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-002/MOR-002_DDR_2010-05-19.pdf",
+    "report_date": "2010-05-19",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-002_DDR_2010-05-20",
+    "well_id": "MOR-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-002/MOR-002_DDR_2010-05-20.pdf",
+    "report_date": "2010-05-20",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-002_DDR_2010-05-21",
+    "well_id": "MOR-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-002/MOR-002_DDR_2010-05-21.pdf",
+    "report_date": "2010-05-21",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-002_DDR_2010-05-22",
+    "well_id": "MOR-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-002/MOR-002_DDR_2010-05-22.pdf",
+    "report_date": "2010-05-22",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-002_DDR_2010-05-23",
+    "well_id": "MOR-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-002/MOR-002_DDR_2010-05-23.pdf",
+    "report_date": "2010-05-23",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-002_DDR_2010-05-24",
+    "well_id": "MOR-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-002/MOR-002_DDR_2010-05-24.pdf",
+    "report_date": "2010-05-24",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-002_DDR_2010-05-25",
+    "well_id": "MOR-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-002/MOR-002_DDR_2010-05-25.pdf",
+    "report_date": "2010-05-25",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-002_WCR",
+    "well_id": "MOR-002",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/MOR-002/MOR-002_WCR.pdf",
+    "report_date": "2010-05-25",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-003_DDR_2024-02-23",
+    "well_id": "MOR-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-003/MOR-003_DDR_2024-02-23.pdf",
+    "report_date": "2024-02-23",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-003_DDR_2024-02-24",
+    "well_id": "MOR-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-003/MOR-003_DDR_2024-02-24.pdf",
+    "report_date": "2024-02-24",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-003_DDR_2024-02-25",
+    "well_id": "MOR-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-003/MOR-003_DDR_2024-02-25.pdf",
+    "report_date": "2024-02-25",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-003_DDR_2024-02-26",
+    "well_id": "MOR-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-003/MOR-003_DDR_2024-02-26.pdf",
+    "report_date": "2024-02-26",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-003_DDR_2024-02-27",
+    "well_id": "MOR-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-003/MOR-003_DDR_2024-02-27.pdf",
+    "report_date": "2024-02-27",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-003_DDR_2024-02-28",
+    "well_id": "MOR-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-003/MOR-003_DDR_2024-02-28.pdf",
+    "report_date": "2024-02-28",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-003_DDR_2024-02-29",
+    "well_id": "MOR-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-003/MOR-003_DDR_2024-02-29.pdf",
+    "report_date": "2024-02-29",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-003_WCR",
+    "well_id": "MOR-003",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/MOR-003/MOR-003_WCR.pdf",
+    "report_date": "2024-02-29",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-004_DDR_2021-11-17",
+    "well_id": "MOR-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-004/MOR-004_DDR_2021-11-17.pdf",
+    "report_date": "2021-11-17",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-004_DDR_2021-11-18",
+    "well_id": "MOR-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-004/MOR-004_DDR_2021-11-18.pdf",
+    "report_date": "2021-11-18",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-004_DDR_2021-11-19",
+    "well_id": "MOR-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-004/MOR-004_DDR_2021-11-19.pdf",
+    "report_date": "2021-11-19",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-004_DDR_2021-11-20",
+    "well_id": "MOR-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-004/MOR-004_DDR_2021-11-20.pdf",
+    "report_date": "2021-11-20",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-004_DDR_2021-11-21",
+    "well_id": "MOR-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-004/MOR-004_DDR_2021-11-21.pdf",
+    "report_date": "2021-11-21",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-004_DDR_2021-11-22",
+    "well_id": "MOR-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-004/MOR-004_DDR_2021-11-22.pdf",
+    "report_date": "2021-11-22",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-004_WCR",
+    "well_id": "MOR-004",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/MOR-004/MOR-004_WCR.pdf",
+    "report_date": "2021-11-22",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-005_DDR_2012-12-24",
+    "well_id": "MOR-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-005/MOR-005_DDR_2012-12-24.pdf",
+    "report_date": "2012-12-24",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-005_DDR_2012-12-25",
+    "well_id": "MOR-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-005/MOR-005_DDR_2012-12-25.pdf",
+    "report_date": "2012-12-25",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-005_DDR_2012-12-26",
+    "well_id": "MOR-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-005/MOR-005_DDR_2012-12-26.pdf",
+    "report_date": "2012-12-26",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-005_DDR_2012-12-27",
+    "well_id": "MOR-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-005/MOR-005_DDR_2012-12-27.pdf",
+    "report_date": "2012-12-27",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-005_DDR_2012-12-28",
+    "well_id": "MOR-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-005/MOR-005_DDR_2012-12-28.pdf",
+    "report_date": "2012-12-28",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-005_WCR",
+    "well_id": "MOR-005",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/MOR-005/MOR-005_WCR.pdf",
+    "report_date": "2012-12-29",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-006_DDR_2012-04-19",
+    "well_id": "MOR-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-006/MOR-006_DDR_2012-04-19.pdf",
+    "report_date": "2012-04-19",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-006_DDR_2012-04-20",
+    "well_id": "MOR-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-006/MOR-006_DDR_2012-04-20.pdf",
+    "report_date": "2012-04-20",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-006_DDR_2012-04-21",
+    "well_id": "MOR-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-006/MOR-006_DDR_2012-04-21.pdf",
+    "report_date": "2012-04-21",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-006_DDR_2012-04-22",
+    "well_id": "MOR-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-006/MOR-006_DDR_2012-04-22.pdf",
+    "report_date": "2012-04-22",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-006_DDR_2012-04-23",
+    "well_id": "MOR-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-006/MOR-006_DDR_2012-04-23.pdf",
+    "report_date": "2012-04-23",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-006_DDR_2012-04-24",
+    "well_id": "MOR-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-006/MOR-006_DDR_2012-04-24.pdf",
+    "report_date": "2012-04-24",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-006_DDR_2012-04-25",
+    "well_id": "MOR-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-006/MOR-006_DDR_2012-04-25.pdf",
+    "report_date": "2012-04-25",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-006_WCR",
+    "well_id": "MOR-006",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/MOR-006/MOR-006_WCR.pdf",
+    "report_date": "2012-04-25",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-007_DDR_2021-02-21",
+    "well_id": "MOR-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-007/MOR-007_DDR_2021-02-21.pdf",
+    "report_date": "2021-02-21",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-007_DDR_2021-02-22",
+    "well_id": "MOR-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-007/MOR-007_DDR_2021-02-22.pdf",
+    "report_date": "2021-02-22",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-007_DDR_2021-02-23",
+    "well_id": "MOR-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-007/MOR-007_DDR_2021-02-23.pdf",
+    "report_date": "2021-02-23",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-007_DDR_2021-02-24",
+    "well_id": "MOR-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-007/MOR-007_DDR_2021-02-24.pdf",
+    "report_date": "2021-02-24",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-007_DDR_2021-02-25",
+    "well_id": "MOR-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-007/MOR-007_DDR_2021-02-25.pdf",
+    "report_date": "2021-02-25",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-007_DDR_2021-02-26",
+    "well_id": "MOR-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-007/MOR-007_DDR_2021-02-26.pdf",
+    "report_date": "2021-02-26",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-007_DDR_2021-02-27",
+    "well_id": "MOR-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-007/MOR-007_DDR_2021-02-27.pdf",
+    "report_date": "2021-02-27",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-007_DDR_2021-02-28",
+    "well_id": "MOR-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-007/MOR-007_DDR_2021-02-28.pdf",
+    "report_date": "2021-02-28",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-007_WCR",
+    "well_id": "MOR-007",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/MOR-007/MOR-007_WCR.pdf",
+    "report_date": "2021-02-28",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-008_DDR_2021-10-09",
+    "well_id": "MOR-008",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-008/MOR-008_DDR_2021-10-09.pdf",
+    "report_date": "2021-10-09",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-008_DDR_2021-10-10",
+    "well_id": "MOR-008",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-008/MOR-008_DDR_2021-10-10.pdf",
+    "report_date": "2021-10-10",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-008_DDR_2021-10-11",
+    "well_id": "MOR-008",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-008/MOR-008_DDR_2021-10-11.pdf",
+    "report_date": "2021-10-11",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-008_DDR_2021-10-12",
+    "well_id": "MOR-008",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-008/MOR-008_DDR_2021-10-12.pdf",
+    "report_date": "2021-10-12",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-008_WCR",
+    "well_id": "MOR-008",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/MOR-008/MOR-008_WCR.pdf",
+    "report_date": "2021-10-12",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-009_DDR_2019-04-10",
+    "well_id": "MOR-009",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-009/MOR-009_DDR_2019-04-10.pdf",
+    "report_date": "2019-04-10",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "MOR-009_DDR_2019-04-11",
+    "well_id": "MOR-009",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-009/MOR-009_DDR_2019-04-11.pdf",
+    "report_date": "2019-04-11",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "MOR-009_DDR_2019-04-12",
+    "well_id": "MOR-009",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-009/MOR-009_DDR_2019-04-12.pdf",
+    "report_date": "2019-04-12",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "MOR-009_DDR_2019-04-13",
+    "well_id": "MOR-009",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-009/MOR-009_DDR_2019-04-13.pdf",
+    "report_date": "2019-04-13",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "MOR-009_DDR_2019-04-14",
+    "well_id": "MOR-009",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-009/MOR-009_DDR_2019-04-14.pdf",
+    "report_date": "2019-04-14",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "MOR-009_DDR_2019-04-15",
+    "well_id": "MOR-009",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-009/MOR-009_DDR_2019-04-15.pdf",
+    "report_date": "2019-04-15",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "MOR-009_WCR",
+    "well_id": "MOR-009",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/MOR-009/MOR-009_WCR.pdf",
+    "report_date": "2019-04-17",
+    "n_pages": 3,
+    "is_scanned": true
+  },
+  {
+    "document_id": "MOR-010_DDR_2008-09-19",
+    "well_id": "MOR-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-010/MOR-010_DDR_2008-09-19.pdf",
+    "report_date": "2008-09-19",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-010_DDR_2008-09-20",
+    "well_id": "MOR-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-010/MOR-010_DDR_2008-09-20.pdf",
+    "report_date": "2008-09-20",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-010_DDR_2008-09-21",
+    "well_id": "MOR-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-010/MOR-010_DDR_2008-09-21.pdf",
+    "report_date": "2008-09-21",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-010_DDR_2008-09-22",
+    "well_id": "MOR-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-010/MOR-010_DDR_2008-09-22.pdf",
+    "report_date": "2008-09-22",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-010_DDR_2008-09-23",
+    "well_id": "MOR-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-010/MOR-010_DDR_2008-09-23.pdf",
+    "report_date": "2008-09-23",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-010_DDR_2008-09-24",
+    "well_id": "MOR-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-010/MOR-010_DDR_2008-09-24.pdf",
+    "report_date": "2008-09-24",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-010_DDR_2008-09-27",
+    "well_id": "MOR-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-010/MOR-010_DDR_2008-09-27.pdf",
+    "report_date": "2008-09-27",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-010_DDR_2008-09-28",
+    "well_id": "MOR-010",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/MOR-010/MOR-010_DDR_2008-09-28.pdf",
+    "report_date": "2008-09-28",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "MOR-010_WCR",
+    "well_id": "MOR-010",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/MOR-010/MOR-010_WCR.pdf",
+    "report_date": "2008-09-28",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-001_DDR_2017-12-03",
+    "well_id": "NKT-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-001/NKT-001_DDR_2017-12-03.pdf",
+    "report_date": "2017-12-03",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-001_DDR_2017-12-04",
+    "well_id": "NKT-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-001/NKT-001_DDR_2017-12-04.pdf",
+    "report_date": "2017-12-04",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-001_DDR_2017-12-05",
+    "well_id": "NKT-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-001/NKT-001_DDR_2017-12-05.pdf",
+    "report_date": "2017-12-05",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-001_DDR_2017-12-06",
+    "well_id": "NKT-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-001/NKT-001_DDR_2017-12-06.pdf",
+    "report_date": "2017-12-06",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-001_DDR_2017-12-07",
+    "well_id": "NKT-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-001/NKT-001_DDR_2017-12-07.pdf",
+    "report_date": "2017-12-07",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-001_DDR_2017-12-08",
+    "well_id": "NKT-001",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-001/NKT-001_DDR_2017-12-08.pdf",
+    "report_date": "2017-12-08",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-001_WCR",
+    "well_id": "NKT-001",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/NKT-001/NKT-001_WCR.pdf",
+    "report_date": "2017-12-08",
+    "n_pages": 3,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-002_DDR_2025-10-21",
+    "well_id": "NKT-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-002/NKT-002_DDR_2025-10-21.pdf",
+    "report_date": "2025-10-21",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-002_DDR_2025-10-22",
+    "well_id": "NKT-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-002/NKT-002_DDR_2025-10-22.pdf",
+    "report_date": "2025-10-22",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-002_DDR_2025-10-23",
+    "well_id": "NKT-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-002/NKT-002_DDR_2025-10-23.pdf",
+    "report_date": "2025-10-23",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-002_DDR_2025-10-24",
+    "well_id": "NKT-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-002/NKT-002_DDR_2025-10-24.pdf",
+    "report_date": "2025-10-24",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-002_DDR_2025-10-25",
+    "well_id": "NKT-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-002/NKT-002_DDR_2025-10-25.pdf",
+    "report_date": "2025-10-25",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-002_DDR_2025-10-26",
+    "well_id": "NKT-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-002/NKT-002_DDR_2025-10-26.pdf",
+    "report_date": "2025-10-26",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-002_DDR_2025-10-27",
+    "well_id": "NKT-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-002/NKT-002_DDR_2025-10-27.pdf",
+    "report_date": "2025-10-27",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-002_DDR_2025-10-28",
+    "well_id": "NKT-002",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-002/NKT-002_DDR_2025-10-28.pdf",
+    "report_date": "2025-10-28",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-002_WCR",
+    "well_id": "NKT-002",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/NKT-002/NKT-002_WCR.pdf",
+    "report_date": "2025-10-28",
+    "n_pages": 3,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-003_DDR_2008-01-17",
+    "well_id": "NKT-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-003/NKT-003_DDR_2008-01-17.pdf",
+    "report_date": "2008-01-17",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-003_DDR_2008-01-18",
+    "well_id": "NKT-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-003/NKT-003_DDR_2008-01-18.pdf",
+    "report_date": "2008-01-18",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-003_DDR_2008-01-19",
+    "well_id": "NKT-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-003/NKT-003_DDR_2008-01-19.pdf",
+    "report_date": "2008-01-19",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-003_DDR_2008-01-20",
+    "well_id": "NKT-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-003/NKT-003_DDR_2008-01-20.pdf",
+    "report_date": "2008-01-20",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-003_DDR_2008-01-21",
+    "well_id": "NKT-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-003/NKT-003_DDR_2008-01-21.pdf",
+    "report_date": "2008-01-21",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-003_DDR_2008-01-22",
+    "well_id": "NKT-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-003/NKT-003_DDR_2008-01-22.pdf",
+    "report_date": "2008-01-22",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-003_DDR_2008-01-23",
+    "well_id": "NKT-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-003/NKT-003_DDR_2008-01-23.pdf",
+    "report_date": "2008-01-23",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-003_DDR_2008-01-24",
+    "well_id": "NKT-003",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-003/NKT-003_DDR_2008-01-24.pdf",
+    "report_date": "2008-01-24",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-003_WCR",
+    "well_id": "NKT-003",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/NKT-003/NKT-003_WCR.pdf",
+    "report_date": "2008-01-24",
+    "n_pages": 3,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-004_DDR_2017-09-14",
+    "well_id": "NKT-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-004/NKT-004_DDR_2017-09-14.pdf",
+    "report_date": "2017-09-14",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-004_DDR_2017-09-15",
+    "well_id": "NKT-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-004/NKT-004_DDR_2017-09-15.pdf",
+    "report_date": "2017-09-15",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-004_DDR_2017-09-16",
+    "well_id": "NKT-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-004/NKT-004_DDR_2017-09-16.pdf",
+    "report_date": "2017-09-16",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-004_DDR_2017-09-17",
+    "well_id": "NKT-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-004/NKT-004_DDR_2017-09-17.pdf",
+    "report_date": "2017-09-17",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-004_DDR_2017-09-18",
+    "well_id": "NKT-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-004/NKT-004_DDR_2017-09-18.pdf",
+    "report_date": "2017-09-18",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-004_DDR_2017-09-19",
+    "well_id": "NKT-004",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-004/NKT-004_DDR_2017-09-19.pdf",
+    "report_date": "2017-09-19",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-004_WCR",
+    "well_id": "NKT-004",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/NKT-004/NKT-004_WCR.pdf",
+    "report_date": "2017-09-22",
+    "n_pages": 3,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-005_DDR_2010-06-01",
+    "well_id": "NKT-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-005/NKT-005_DDR_2010-06-01.pdf",
+    "report_date": "2010-06-01",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-005_DDR_2010-06-02",
+    "well_id": "NKT-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-005/NKT-005_DDR_2010-06-02.pdf",
+    "report_date": "2010-06-02",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-005_DDR_2010-06-03",
+    "well_id": "NKT-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-005/NKT-005_DDR_2010-06-03.pdf",
+    "report_date": "2010-06-03",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-005_DDR_2010-06-04",
+    "well_id": "NKT-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-005/NKT-005_DDR_2010-06-04.pdf",
+    "report_date": "2010-06-04",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-005_DDR_2010-06-05",
+    "well_id": "NKT-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-005/NKT-005_DDR_2010-06-05.pdf",
+    "report_date": "2010-06-05",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-005_DDR_2010-06-06",
+    "well_id": "NKT-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-005/NKT-005_DDR_2010-06-06.pdf",
+    "report_date": "2010-06-06",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-005_DDR_2010-06-07",
+    "well_id": "NKT-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-005/NKT-005_DDR_2010-06-07.pdf",
+    "report_date": "2010-06-07",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-005_DDR_2010-06-08",
+    "well_id": "NKT-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-005/NKT-005_DDR_2010-06-08.pdf",
+    "report_date": "2010-06-08",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-005_DDR_2010-06-09",
+    "well_id": "NKT-005",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-005/NKT-005_DDR_2010-06-09.pdf",
+    "report_date": "2010-06-09",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-005_WCR",
+    "well_id": "NKT-005",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/NKT-005/NKT-005_WCR.pdf",
+    "report_date": "2010-06-09",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-006_DDR_2014-07-22",
+    "well_id": "NKT-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-006/NKT-006_DDR_2014-07-22.pdf",
+    "report_date": "2014-07-22",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-006_DDR_2014-07-23",
+    "well_id": "NKT-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-006/NKT-006_DDR_2014-07-23.pdf",
+    "report_date": "2014-07-23",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-006_DDR_2014-07-24",
+    "well_id": "NKT-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-006/NKT-006_DDR_2014-07-24.pdf",
+    "report_date": "2014-07-24",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-006_DDR_2014-07-25",
+    "well_id": "NKT-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-006/NKT-006_DDR_2014-07-25.pdf",
+    "report_date": "2014-07-25",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-006_DDR_2014-07-26",
+    "well_id": "NKT-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-006/NKT-006_DDR_2014-07-26.pdf",
+    "report_date": "2014-07-26",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-006_DDR_2014-07-27",
+    "well_id": "NKT-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-006/NKT-006_DDR_2014-07-27.pdf",
+    "report_date": "2014-07-27",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-006_DDR_2014-07-28",
+    "well_id": "NKT-006",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-006/NKT-006_DDR_2014-07-28.pdf",
+    "report_date": "2014-07-28",
+    "n_pages": 1,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-006_WCR",
+    "well_id": "NKT-006",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/NKT-006/NKT-006_WCR.pdf",
+    "report_date": "2014-07-28",
+    "n_pages": 3,
+    "is_scanned": true
+  },
+  {
+    "document_id": "NKT-007_DDR_2009-01-28",
+    "well_id": "NKT-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-007/NKT-007_DDR_2009-01-28.pdf",
+    "report_date": "2009-01-28",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-007_DDR_2009-01-29",
+    "well_id": "NKT-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-007/NKT-007_DDR_2009-01-29.pdf",
+    "report_date": "2009-01-29",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-007_DDR_2009-01-30",
+    "well_id": "NKT-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-007/NKT-007_DDR_2009-01-30.pdf",
+    "report_date": "2009-01-30",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-007_DDR_2009-01-31",
+    "well_id": "NKT-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-007/NKT-007_DDR_2009-01-31.pdf",
+    "report_date": "2009-01-31",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-007_DDR_2009-02-01",
+    "well_id": "NKT-007",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-007/NKT-007_DDR_2009-02-01.pdf",
+    "report_date": "2009-02-01",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-007_WCR",
+    "well_id": "NKT-007",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/NKT-007/NKT-007_WCR.pdf",
+    "report_date": "2009-02-03",
+    "n_pages": 3,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-008_DDR_2017-05-15",
+    "well_id": "NKT-008",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-008/NKT-008_DDR_2017-05-15.pdf",
+    "report_date": "2017-05-15",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-008_DDR_2017-05-16",
+    "well_id": "NKT-008",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-008/NKT-008_DDR_2017-05-16.pdf",
+    "report_date": "2017-05-16",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-008_DDR_2017-05-17",
+    "well_id": "NKT-008",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-008/NKT-008_DDR_2017-05-17.pdf",
+    "report_date": "2017-05-17",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-008_DDR_2017-05-19",
+    "well_id": "NKT-008",
+    "doc_type": "DDR",
+    "path": "data/synthetic/docs/NKT-008/NKT-008_DDR_2017-05-19.pdf",
+    "report_date": "2017-05-19",
+    "n_pages": 1,
+    "is_scanned": false
+  },
+  {
+    "document_id": "NKT-008_WCR",
+    "well_id": "NKT-008",
+    "doc_type": "WCR",
+    "path": "data/synthetic/docs/NKT-008/NKT-008_WCR.pdf",
+    "report_date": "2017-05-21",
+    "n_pages": 3,
+    "is_scanned": false
+  }
+]

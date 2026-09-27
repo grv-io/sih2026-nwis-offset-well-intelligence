@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-008  (Moran 8)   Field: Moran   Basin: Upper Assam
+Report Date: 2021-10-10   Report Day: 4
+Depth: 1988 -> 2531 m MD  (progress 543 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drgl, monitoring torque/drag trend.
+  Circ btms up, checked for gas, resumed drlg.
+  Survey taken, inc/azi within plan.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.4 hrs NPT - MUD_LOSS @ 2200 m MD (Barail), sev=low: Total losses encountered in Barail, no returns to surface for 1.4 hrs. Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.

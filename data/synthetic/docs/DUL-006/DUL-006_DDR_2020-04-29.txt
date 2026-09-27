@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-006  (Duliajan 6)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2020-04-29   Report Day: 8
+Depth: 2761 -> 2983 m MD  (progress 222 m)
+Current Fm: Sylhet Lst
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of ifnlux, drlg ahead.
+  Flow check ok, no signs of influx, drlg ahead.
+  Flow check ok, no sgins of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

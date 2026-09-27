@@ -1,0 +1,53 @@
+WELL COMPLETION REPORT (WCR)
+Well: DUL-006  (Duliajan 6)   Field: Duliajan   Basin: Upper Assam
+Spud Date: 2020-04-21   Status: completed
+Lat/Lon: 27.4205, 95.2751   KB Elev: 98.1 m
+Trajectory: vertical   TD (MD): 3258 m   TD (TVD): 3258 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            25            25
+Dhekiajuli              25            25           189           189
+Namsang                189           189           439           439
+Girujan                439           439          1213          1213
+Tipam                 1213          1213          1841          1841
+Barail                1841          1841          2695          2695
+Kopili                2695          2695          2913          2913
+Sylhet                2913          2913          3148          3148
+Basement              3148          3148          3258          3258
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       189
+Girujan           9-5/8in intermediate                   439
+Tipam             9-5/8in intermediate-2                1213
+Barail            7in production                        1841
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2020-04-23 | 1043 m MD | Girujan | torque_spike | medium | 2.8 hrs NPT
+    Cause: Sharp torque increase on contact with Girujan, ROP dropped to near zero.
+    Remedy: Reduced WOB and RPM, reamed interval, resumed drilling at reduced parameters.
+  2020-04-24 | 1095 m MD | Girujan | wellbore_instability | low | 1.7 hrs NPT
+    Cause: Wellbore washout suspected in Girujan, oversized cuttings at surface.
+    Remedy: Adjusted mud rheology, ran wiper trips before continuing.
+  2020-04-26 | 2005 m MD | Barail | overpressure | critical | 9.1 hrs NPT
+    Cause: SPP trend increasing and drag rising while drilling into Barail, suspected transition zone.
+    Remedy: Raised mud weight in 26-ppg steps, monitored trip gas, continued drilling with caution.
+  2020-04-28 | 2574 m MD | Barail | overpressure | medium | 3.7 hrs NPT
+    Cause: Well kicked back while circulating out of Barail, gas readings elevated on trip gas.
+    Remedy: Weighted mud up to balance formation pressure, circulated bottoms up before resuming.
+  2020-05-01 | 3186 m MD | Basement | torque_spike | medium | 1.5 hrs NPT
+    Cause: Sharp torque increase on contact with Basement, ROP dropped to near zero.
+    Remedy: Reduced WOB and RPM, reamed interval, resumed drilling at reduced parameters.

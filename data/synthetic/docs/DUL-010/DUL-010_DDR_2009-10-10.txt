@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-010  (Duliajan 10)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2009-10-10   Report Day: 9
+Depth: 3444 -> 3651 m MD  (progress 207 m)
+Current Fm: Basement
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, chceked for gas, resumed drlg.
+  Short wiper trip to condition hole, no issues.
+  Circ btms up, checked for gas, resumed drlg.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

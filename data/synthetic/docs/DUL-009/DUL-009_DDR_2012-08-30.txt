@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-009  (Duliajan 9)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2012-08-30   Report Day: 2
+Depth: 693 -> 1197 m MD  (progress 504 m)
+Current Fm: Tipam Ss
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Slips and mud checks per program, ops normal.
+  POOH for bit change, RIH, resumed drlg Tipam Ss.
+  POOH for bit change, RIH, resumed drlg Tipam Ss.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

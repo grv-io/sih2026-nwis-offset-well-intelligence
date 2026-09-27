@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-009  (Moran 9)   Field: Moran   Basin: Upper Assam
+Report Date: 2019-04-12   Report Day: 3
+Depth: 1026 -> 1645 m MD  (progress 619 m)
+Current Fm: BARAIL
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed rdlg.
+  Short wiper trip to conidtion hole, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  2.0 hrs NPT - CEMENTING_ISSUE @ 1071 m MD (Tipam Ss), sev=low: Poor cement bond / losses during primary cementing of casing shoe in Tipam. Squeeze cemented shoe track, pressure tested to spec before drlg out.
+  8.6 hrs NPT - KICK @ 1556 m MD (Tipam Sand), sev=critical: Flow-check positive, pit gain of 118 bbl and flow-out exceeding flow-in while in Tipam. Shut in well, closed BOP, circulated kill mud per driller's method.
+  7.7 hrs NPT - GAS_SHOW @ 1566 m MD (Tipam Ss), sev=medium: Background gas rise while drilling Tipam, connection gas trending up. Increased mud weight slightly, monitored trend, cont'd drilling.

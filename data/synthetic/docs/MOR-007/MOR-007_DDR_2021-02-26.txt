@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-007  (Moran 7)   Field: Moran   Basin: Upper Assam
+Report Date: 2021-02-26   Report Day: 6
+Depth: 2667 -> 2995 m MD  (progress 328 m)
+Current Fm: KOPILI SH
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in KOPILI SH @ 16 m/hr avg.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  7.8 hrs NPT - KICK @ 2680 m MD (BARAIL), sev=high: Flow-check positive, pit gain of 95 bbl and flow-out exceeding flow-in while in Barail. Shut in well, closed BOP, circulated kill mud per driller's method.

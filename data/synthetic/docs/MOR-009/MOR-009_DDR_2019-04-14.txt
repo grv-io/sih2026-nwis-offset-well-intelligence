@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-009  (Moran 9)   Field: Moran   Basin: Upper Assam
+Report Date: 2019-04-14   Report Day: 5
+Depth: 1966 -> 2287 m MD  (progress 321 m)
+Current Fm: Barail
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey atken, inc/azi within plan.
+  POOH for bit change, RIH, resumed drlg Barail.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  5.6 hrs NPT - OVERPRESSURE @ 2036 m MD (Barail Coal-Shale), sev=medium: SPP trend increasing and drag rising while drlg into Barail, suspected transition zone. Raised mud weight in 72-ppg steps, monitored trip gas, continued drlg with caution.

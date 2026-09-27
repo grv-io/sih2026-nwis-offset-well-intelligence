@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-001  (Duliajan 1)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2017-06-12   Report Day: 1
+Depth: 0 -> 636 m MD  (progress 636 m)
+Current Fm: Gurjan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Gurjan.
+  Slips and mud checks per program, ops normal.
+  Cont'd drlg, monitoring torque/drag trend.
+  Short iwper trip to condition hole, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.5 hrs NPT - CEMENTING_ISSUE @ 361 m MD (Girujan), sev=low: Excessive cement losses to fm while cementing across Girujan. Staged cement job with lightweight lead slurry and full tail string.

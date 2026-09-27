@@ -1,0 +1,65 @@
+WELL COMPLETION REPORT (WCR)
+Well: MOR-010  (Moran 10)   Field: Moran   Basin: Upper Assam
+Spud Date: 2008-09-18   Status: completed
+Lat/Lon: 27.2611, 95.0234   KB Elev: 129.5 m
+Trajectory: vertical   TD (MD): 3050 m   TD (TVD): 3050 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            23            23
+Dhekiajuli              23            23           182           182
+Namsang                182           182           480           480
+Girujan                480           480          1320          1320
+Tipam                 1320          1320          1891          1891
+Barail                1891          1891          2563          2563
+Kopili                2563          2563          2797          2797
+Sylhet                2797          2797          2982          2982
+Basement              2982          2982          3050          3050
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       182
+Girujan           9-5/8in intermediate                   480
+Tipam             9-5/8in intermediate-2                1320
+Barail            7in production                        1891
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2008-09-19 | 34 m MD | Dhekiajuli | wellbore_instability | medium | 8.7 hrs NPT
+    Cause: Wellbore washout suspected in Dhekiajuli, oversized cuttings at surface.
+    Remedy: Adjusted mud rheology, ran wiper trips before continuing.
+  2008-09-22 | 1260 m MD | Girujan | torque_spike | high | 11.1 hrs NPT
+    Cause: Sharp torque increase on contact with Girujan, ROP dropped to near zero.
+    Remedy: Reduced WOB and RPM, reamed interval, resumed drilling at reduced parameters.
+  2008-09-22 | 1320 m MD | Tipam | cementing_issue | medium | 2.5 hrs NPT
+    Cause: Excessive cement losses to formation while cementing across Tipam.
+    Remedy: Staged cement job with lightweight lead slurry and full tail string.
+  2008-09-22 | 1616 m MD | Tipam | gas_show | medium | 4.5 hrs NPT
+    Cause: Background gas rise while drilling Tipam, connection gas trending up.
+    Remedy: Increased mud weight slightly, monitored trend, continued drilling.
+  2008-09-22 | 1620 m MD | Tipam | mud_loss | high | 10.1 hrs NPT
+    Cause: Losses seen while running casing through Tipam, static losses continuing on connections.
+    Remedy: Spotted 30 bbl high-fluid-loss pill across the loss zone and monitored pit levels.
+  2008-09-23 | 1696 m MD | Tipam | gas_show | medium | 4.7 hrs NPT
+    Cause: Background gas rise while drilling Tipam, connection gas trending up.
+    Remedy: Increased mud weight slightly, monitored trend, continued drilling.
+  2008-09-23 | 1728 m MD | Tipam | gas_show | low | 1.2 hrs NPT
+    Cause: Background gas rise while drilling Tipam, connection gas trending up.
+    Remedy: Increased mud weight slightly, monitored trend, continued drilling.
+  2008-09-28 | 2970 m MD | Sylhet | mud_loss | medium | 7.5 hrs NPT
+    Cause: Losses seen while running casing through Sylhet, static losses continuing on connections.
+    Remedy: Spotted 42 bbl high-fluid-loss pill across the loss zone and monitored pit levels.
+  2008-09-28 | 2978 m MD | Sylhet | mud_loss | low | 2.3 hrs NPT
+    Cause: Losses seen while running casing through Sylhet, static losses continuing on connections.
+    Remedy: Spotted 103 bbl high-fluid-loss pill across the loss zone and monitored pit levels.

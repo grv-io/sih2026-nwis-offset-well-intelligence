@@ -1,0 +1,59 @@
+WELL COMPLETION REPORT (WCR)
+Well: MOR-003  (Moran 3)   Field: Moran   Basin: Upper Assam
+Spud Date: 2024-02-22   Status: completed
+Lat/Lon: 27.3506, 95.0258   KB Elev: 102.4 m
+Trajectory: vertical   TD (MD): 2969 m   TD (TVD): 2969 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            37            37
+Dhekiajuli              37            37           161           161
+Namsang                161           161           348           348
+Girujan                348           348           957           957
+Tipam                  957           957          1602          1602
+Barail                1602          1602          2518          2518
+Kopili                2518          2518          2765          2765
+Sylhet                2765          2765          2934          2934
+Basement              2934          2934          2969          2969
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       161
+Girujan           9-5/8in intermediate                   348
+Tipam             9-5/8in intermediate-2                 957
+Barail            7in production                        1602
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2024-02-24 | 1295 m MD | Tipam | mud_loss | high | 8.8 hrs NPT
+    Cause: Losses seen while running casing through Tipam, static losses continuing on connections.
+    Remedy: Spotted 58 bbl high-fluid-loss pill across the loss zone and monitored pit levels.
+  2024-02-25 | 1381 m MD | Tipam | mud_loss | medium | 6.9 hrs NPT
+    Cause: Total losses encountered in Tipam, no returns to surface for 6.9 hrs.
+    Remedy: Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.
+  2024-02-25 | 1434 m MD | Tipam | mud_loss | medium | 4.3 hrs NPT
+    Cause: Total losses encountered in Tipam, no returns to surface for 4.3 hrs.
+    Remedy: Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.
+  2024-02-25 | 1602 m MD | Barail | cementing_issue | low | 1.2 hrs NPT
+    Cause: Poor cement bond / losses during primary cementing of casing shoe in Barail.
+    Remedy: Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  2024-02-28 | 2690 m MD | Kopili | wellbore_instability | low | 1.0 hrs NPT
+    Cause: Hole instability / cavings on surface while drilling Kopili, tight hole on connections.
+    Remedy: Increased mud weight and viscosity, short-tripped to condition hole.
+  2024-02-28 | 2706 m MD | Kopili | kick | medium | 6.5 hrs NPT
+    Cause: Gas-cut mud and increasing pit volume observed drilling Kopili, well flowing.
+    Remedy: Hard shut-in, recorded SIDPP/SICP, weighted up mud and circulated bottoms up.
+  2024-02-29 | 2844 m MD | Sylhet | mud_loss | low | 3.1 hrs NPT
+    Cause: Losses seen while running casing through Sylhet, static losses continuing on connections.
+    Remedy: Spotted 102 bbl high-fluid-loss pill across the loss zone and monitored pit levels.

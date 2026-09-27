@@ -1,0 +1,15 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-008  (Duliajan 8)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-12-11   Report Day: 2
+Depth: 896 -> 1700 m MD  (progress 804 m)
+Current Fm: Tipam Ss
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of infulx, drlg ahead.
+  Short wiper trip to condition hole, no issues.
+  Flow check ok, no signs of influx, drlg ahead.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  9.8 hrs NPT - STUCK_PIPE @ 944 m MD (Girujan Fm), sev=high: Pipe stuck while trppg through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 109 bbl pipe-lax pill, freed after 9.8 hrs.
+  28.2 hrs NPT - STUCK_PIPE @ 978 m MD (Girujan Fm), sev=high: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 106 bbl pipe-lax pill, freed after 28.2 hrs.

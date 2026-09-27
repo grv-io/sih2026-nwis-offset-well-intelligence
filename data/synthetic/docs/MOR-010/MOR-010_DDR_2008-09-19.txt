@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-010  (Moran 10)   Field: Moran   Basin: Upper Assam
+Report Date: 2008-09-19   Report Day: 1
+Depth: 0 -> 562 m MD  (progress 562 m)
+Current Fm: Gurjan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Silps and mud cehcks per program, ops normal.
+  POOH for bit change, RIH, resumed drlg Gurjan.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  8.7 hrs NPT - WELLBORE_INSTABILITY @ 34 m MD (Siwalik), sev=medium: Wellbore washout suspected in Dhekiajuli, oversized cuttings at surface. Adjusted mud rheology, ran wiper trips before continuing.

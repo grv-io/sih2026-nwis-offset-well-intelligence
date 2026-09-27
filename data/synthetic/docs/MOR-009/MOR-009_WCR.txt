@@ -1,0 +1,53 @@
+WELL COMPLETION REPORT (WCR)
+Well: MOR-009  (Moran 9)   Field: Moran   Basin: Upper Assam
+Spud Date: 2019-04-09   Status: completed
+Lat/Lon: 27.3186, 95.1027   KB Elev: 120.5 m
+Trajectory: vertical   TD (MD): 2904 m   TD (TVD): 2904 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            24            24
+Dhekiajuli              24            24           159           159
+Namsang                159           159           387           387
+Girujan                387           387          1071          1071
+Tipam                 1071          1071          1644          1644
+Barail                1644          1644          2357          2357
+Kopili                2357          2357          2655          2655
+Sylhet                2655          2655          2851          2851
+Basement              2851          2851          2904          2904
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       159
+Girujan           9-5/8in intermediate                   387
+Tipam             9-5/8in intermediate-2                1071
+Barail            7in production                        1644
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2019-04-10 | 387 m MD | Girujan | cementing_issue | low | 2.2 hrs NPT
+    Cause: Excessive cement losses to formation while cementing across Girujan.
+    Remedy: Staged cement job with lightweight lead slurry and full tail string.
+  2019-04-12 | 1071 m MD | Tipam | cementing_issue | low | 2.0 hrs NPT
+    Cause: Poor cement bond / losses during primary cementing of casing shoe in Tipam.
+    Remedy: Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  2019-04-12 | 1556 m MD | Tipam | kick | critical | 8.6 hrs NPT
+    Cause: Flow-check positive, pit gain of 118 bbl and flow-out exceeding flow-in while in Tipam.
+    Remedy: Shut in well, closed BOP, circulated kill mud per driller's method.
+  2019-04-12 | 1566 m MD | Tipam | gas_show | medium | 7.7 hrs NPT
+    Cause: Background gas rise while drilling Tipam, connection gas trending up.
+    Remedy: Increased mud weight slightly, monitored trend, continued drilling.
+  2019-04-14 | 2036 m MD | Barail | overpressure | medium | 5.6 hrs NPT
+    Cause: SPP trend increasing and drag rising while drilling into Barail, suspected transition zone.
+    Remedy: Raised mud weight in 72-ppg steps, monitored trip gas, continued drilling with caution.

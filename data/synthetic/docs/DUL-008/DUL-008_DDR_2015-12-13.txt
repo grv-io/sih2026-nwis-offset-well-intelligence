@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-008  (Duliajan 8)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-12-13   Report Day: 4
+Depth: 2258 -> 2695 m MD  (progress 438 m)
+Current Fm: Barail Gp
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Barail Gp.
+  POOH for bit change, RIH, resumed drlg Barail Gp.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  18.1 hrs NPT - OVERPRESSURE @ 2654 m MD (Barail), sev=high: SPP trend increasing and drag rising while drilling into Barail, suspected transition zone. Raised mud weight in 77-ppg steps, monitored trip gas, cont'd drilling with caution.

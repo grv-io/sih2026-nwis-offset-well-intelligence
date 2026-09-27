@@ -1,0 +1,15 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-012  (Duliajan 12)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2022-02-21   Report Day: 4
+Depth: 2067 -> 2531 m MD  (progress 465 m)
+Current Fm: Barail
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drlg, monitoring torqued/rag trend.
+  POOH for bit change, RIH, resumed drlg Barail.
+  Drlg aehad in Barail @ 9 m/hr avg.
+  Survey taken, inc/azi wtihin plan.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.1 hrs NPT - CEMENTING_ISSUE @ 2085 m MD (Barail Coal-Shale), sev=medium: Poor cement bond / losses during primary cementing of casing shoe in Barail. Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  25.8 hrs NPT - OVERPRESSURE @ 2347 m MD (Barail Gp), sev=high: SPP trend increasing and drag rising while drlg into Barail, suspected transition zone. Raised mud weight in 103-ppg steps, monitored trip gas, continued drlg with caution.

@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-006  (Duliajan 6)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2020-04-26   Report Day: 5
+Depth: 1914 -> 2198 m MD  (progress 283 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Barail Coal-Shale @ 11 m/hr avg.
+  Short wiper trip to condiiton hole, no issues.
+  Circ btms up, checked for gas, resumed drlg.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  9.1 hrs NPT - OVERPRESSURE @ 2005 m MD (Barail Coal-Shale), sev=critical: SPP trend increasing and drag rising while drilling into Barail, suspected transition zone. Raised mud weight in 26-ppg steps, monitored trip gas, continued drilling with caution.

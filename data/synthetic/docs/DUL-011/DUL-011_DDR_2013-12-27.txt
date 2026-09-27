@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-011  (Duliajan 11)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2013-12-27   Report Day: 6
+Depth: 2108 -> 2447 m MD  (progress 339 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed drlg.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  3.6 hrs NPT - CEMENTING_ISSUE @ 2159 m MD (Barail Gp), sev=medium: Poor cement bond / losses during primary cementing of casing shoe in Barail. Squeeze cemented shoe track, pressure tested to spec before drilling out.

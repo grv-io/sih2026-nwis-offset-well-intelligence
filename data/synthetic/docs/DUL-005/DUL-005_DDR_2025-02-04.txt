@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-005  (Duliajan 5)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2025-02-04   Report Day: 3
+Depth: 890 -> 1252 m MD  (progress 362 m)
+Current Fm: Tipam Sand
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drlg, monitoring torque/drag trend.
+  hSort iwper trip to condition hole, no issues.
+  Flow check ok, no signs of influx, drlg ahead.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

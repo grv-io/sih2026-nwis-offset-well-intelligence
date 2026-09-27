@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-003  (Moran 3)   Field: Moran   Basin: Upper Assam
+Report Date: 2024-02-29   Report Day: 7
+Depth: 2746 -> 2969 m MD  (progress 223 m)
+Current Fm: Basement
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Basement @ 2 m/hr avg.
+  Circ btms up, checked for gas, resumed rdlg.
+  Drlg ahead in Basement @ 4 m/hr avg.
+  POOH for bit change, RIH, resumed drlg Basement.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  3.1 hrs NPT - MUD_LOSS @ 2844 m MD (SYLHET LST), sev=low: Losses seen while running casing through Sylhet, static losses continuing on connections. Spotted 102 bbl high-fluid-loss pill across the loss zone and monitored pit levels.

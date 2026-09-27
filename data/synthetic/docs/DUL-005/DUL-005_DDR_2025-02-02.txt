@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-005  (Duliajan 5)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2025-02-02   Report Day: 1
+Depth: 0 -> 561 m MD  (progress 561 m)
+Current Fm: Gurjan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, ersumed drlg.
+  Short wiper trip to condition hole, no issues.
+  Circ btms up, checked for gas, resumed drlg.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  6.2 hrs NPT - STUCK_PIPE @ 486 m MD (GIRUJAN CLAY), sev=medium: Differential sticking in Girujan, no rotation or reciprocation possible. Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.

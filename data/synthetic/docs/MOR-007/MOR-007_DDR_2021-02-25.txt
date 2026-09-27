@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-007  (Moran 7)   Field: Moran   Basin: Upper Assam
+Report Date: 2021-02-25   Report Day: 5
+Depth: 2367 -> 2667 m MD  (progress 300 m)
+Current Fm: BARAIL
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed drlg.
+  Short wiper trip to condition hole, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  10.6 hrs NPT - KICK @ 2577 m MD (Barail Gp), sev=high: Gas-cut mud and increasing pit volume observed drlg Barail, well flowing. Hard shut-in, recorded SIDPP/SICP, weighted up mud and circulated bottoms up.
+  4.5 hrs NPT - OVERPRESSURE @ 2664 m MD (Barail Coal-Shale), sev=medium: Well kicked back while circulating out of Barail, gas readings elevated on trip gas. Weighted mud up to balance formation pressure, circulated bottoms up before resuming.

@@ -1,0 +1,16 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-001  (Moran 1)   Field: Moran   Basin: Upper Assam
+Report Date: 2010-08-08   Report Day: 2
+Depth: 876 -> 1637 m MD  (progress 761 m)
+Current Fm: Tipam
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Tipam @ 19 m/hr avg.
+  Cont'd drlg, monitoring torque/drag trend.
+  Short wiper trip to condition hole, no issues.
+  Flow check ok, no signs of influx, drlg ahaed.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  11.3 hrs NPT - STUCK_PIPE @ 1129 m MD (Gurjan), sev=high: Differential sticking in Girujan, no rotation or reciprocation possible. Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  2.2 hrs NPT - STUCK_PIPE @ 1348 m MD (Girujan), sev=medium: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 26 bbl pipe-lax pill, freed after 2.2 hrs.
+  1.6 hrs NPT - MUD_LOSS @ 1546 m MD (Tipam Sand), sev=low: Lost circulation 37 bbl/hr while drilling Tipam sand, partial returns only. Pumped 88 bbl LCM pill, reduced ROP, regained partial returns.

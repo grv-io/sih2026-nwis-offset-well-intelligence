@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-003  (Moran 3)   Field: Moran   Basin: Upper Assam
+Report Date: 2024-02-24   Report Day: 2
+Depth: 715 -> 1316 m MD  (progress 601 m)
+Current Fm: TIPAM SST
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  Survey taken, inc/azi within plan.
+  POOH for bit change, RIH, resumed drlg TIPAM SST.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  8.8 hrs NPT - MUD_LOSS @ 1295 m MD (Tipam Sand), sev=high: Losses seen while running casing through Tipam, static losses continuing on connections. Spotted 58 bbl high-fluid-loss pill across the loss zone and monitored pit levels.

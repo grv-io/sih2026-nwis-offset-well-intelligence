@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="dark light" />
+    <title>NWIS · Offset-well intelligence</title>
+    <script>
+      // Resolve theme + language before first paint (no dark->light flash).
+      // Mirrors src/lib/theme.tsx and src/i18n/index.tsx: stored choice wins,
+      // else the OS colour scheme on first visit; dark is the default.
+      (function () {
+        var d = document.documentElement, t = null, l = null
+        try { t = localStorage.getItem('nwis.theme'); l = localStorage.getItem('nwis.lang') } catch (e) {}
+        if (t !== 'light' && t !== 'dark') {
+          t = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
+        }
+        d.setAttribute('data-theme', t)
+        d.setAttribute('lang', l === 'hi' ? 'hi' : 'en')
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,65 @@
+{
+  "n_truth": 35,
+  "n_extracted": 14,
+  "overall": {
+    "tp": 10,
+    "fp": 4,
+    "fn": 25,
+    "precision": 0.7142857142857143,
+    "recall": 0.2857142857142857,
+    "f1": 0.40816326530612246
+  },
+  "per_event_type": {
+    "cementing_issue": {
+      "tp": 0,
+      "fp": 1,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "kick": {
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "mud_loss": {
+      "tp": 3,
+      "fp": 2,
+      "fn": 0,
+      "precision": 0.6,
+      "recall": 1.0,
+      "f1": 0.7499999999999999
+    },
+    "npt_other": {
+      "tp": 5,
+      "fp": 0,
+      "fn": 19,
+      "precision": 1.0,
+      "recall": 0.20833333333333334,
+      "f1": 0.3448275862068966
+    },
+    "stuck_pipe": {
+      "tp": 0,
+      "fp": 1,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "wellbore_instability": {
+      "tp": 1,
+      "fp": 0,
+      "fn": 6,
+      "precision": 1.0,
+      "recall": 0.14285714285714285,
+      "f1": 0.25
+    }
+  },
+  "formation_accuracy": null,
+  "depth_mae_m": 10.0,
+  "n_depth_comparisons": 4
+}

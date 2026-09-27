@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-003  (Naharkatiya 3)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2008-01-20   Report Day: 4
+Depth: 1654 -> 1997 m MD  (progress 343 m)
+Current Fm: Barail Gp
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of influx, drlg ahead.
+  Slips and mud checks per program, ops normal.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

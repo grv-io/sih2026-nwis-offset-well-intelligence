@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-006  (Moran 6)   Field: Moran   Basin: Upper Assam
+Report Date: 2012-04-22   Report Day: 4
+Depth: 1893 -> 2232 m MD  (progress 339 m)
+Current Fm: BARAIL
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg BARAIL.
+  Survey taken, nic/azi within plan.
+  Slips and mud checks per program, ops normal.
+  Survey taken, inc/azi within plan.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

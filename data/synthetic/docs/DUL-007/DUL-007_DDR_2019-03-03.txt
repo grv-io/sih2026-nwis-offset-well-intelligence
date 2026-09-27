@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-007  (Duliajan 7)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2019-03-03   Report Day: 9
+Depth: 3034 -> 3193 m MD  (progress 159 m)
+Current Fm: BASEMENT
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Slips and mud checks per program, ops normal.
+  Surevy taken, inc/azi within plan.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.4 hrs NPT - MUD_LOSS @ 3113 m MD (Sylhet Lst), sev=medium: Lost circulation 79 bbl/hr while drilling Sylhet sand, partial returns only. Pumped 36 bbl LCM pill, reduced ROP, regained partial returns.
+  3.9 hrs NPT - TORQUE_SPIKE @ 3180 m MD (Basement), sev=medium: Sharp torque increase on contact with Basement, ROP dropped to near zero. Reduced WOB and RPM, reamed interval, resumed drilling at reduced parameters.

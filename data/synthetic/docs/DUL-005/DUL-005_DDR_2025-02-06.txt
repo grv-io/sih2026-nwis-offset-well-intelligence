@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-005  (Duliajan 5)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2025-02-06   Report Day: 5
+Depth: 1790 -> 2071 m MD  (progress 281 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Barail Coal-Shale @ 9 m/hr avg.
+  Slips and mud cehcks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

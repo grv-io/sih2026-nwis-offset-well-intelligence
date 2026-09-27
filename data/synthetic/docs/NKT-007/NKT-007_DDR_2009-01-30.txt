@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-007  (Naharkatiya 7)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2009-01-30   Report Day: 3
+Depth: 1302 -> 2172 m MD  (progress 871 m)
+Current Fm: Barail Gp
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit chaneg, RIH, resumed drlg Barail Gp.
+  Cont'd drlg, monitoring torque/drag trend.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  5.8 hrs NPT - CEMENTING_ISSUE @ 2104 m MD (Barail), sev=medium: Excessive cement losses to formation while cementing across Barail. Staged cement job with lightweight lead slurry and full tail string.

@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-007  (Naharkatiya 7)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2009-01-31   Report Day: 4
+Depth: 2172 -> 2488 m MD  (progress 316 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  Drlg ahead in Barail Coal-Shale @ 8 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

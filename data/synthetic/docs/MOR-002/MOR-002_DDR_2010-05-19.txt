@@ -1,0 +1,15 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-002  (Moran 2)   Field: Moran   Basin: Upper Assam
+Report Date: 2010-05-19   Report Day: 2
+Depth: 605 -> 1024 m MD  (progress 419 m)
+Current Fm: Girujan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of influx, drlg ahead.
+  Drlg ahead in Girujan @ 13 m/hr avg.
+  Circ btms up, checked for gas, resumed drlg.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  6.1 hrs NPT - STUCK_PIPE @ 810 m MD (Girujan), sev=high: Differential sticking in Girujan, no rotation or reciprocation possible. Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  11.5 hrs NPT - FISHING_OPERATION @ 824 m MD (Gurjan), sev=high: Following stuck pipe in Girujan, back-off performed, fish left in hole. Ran fishing BHA, latched fish with overshot, recovered string to surface.

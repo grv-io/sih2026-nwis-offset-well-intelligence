@@ -1,0 +1,15 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-011  (Duliajan 11)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2013-12-30   Report Day: 9
+Depth: 3041 -> 3286 m MD  (progress 245 m)
+Current Fm: Sylhet Lst
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, reusmed drlg.
+  Short wiper trip to condition hole, no issues.
+  POOH for bit change, RIH, resumed drlg Sylhet Lst.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  6.8 hrs NPT - OVERPRESSURE @ 3054 m MD (Kopili Shale), sev=medium: Well kicked back while circulating out of Kopili, gas readings elevated on trip gas. Weighted mud up to balance formation pressure, circulated bottoms up before resuming.
+  7.8 hrs NPT - KICK @ 3057 m MD (Kopili), sev=high: Flow-check positive, pit gain of 107 bbl and flow-out exceeding flow-in while in Kopili. Shut in well, closed BOP, circulated kill mud per driller's method.

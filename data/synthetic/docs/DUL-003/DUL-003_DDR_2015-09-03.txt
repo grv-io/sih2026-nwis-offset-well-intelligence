@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-003  (Duliajan 3)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-09-03   Report Day: 2
+Depth: 749 -> 1223 m MD  (progress 474 m)
+Current Fm: Gurjan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of influx, drlg ahead.
+  Flow check ok, no signs of infulx, drlg ahead.
+  POOH for bit change, RIH, resumed drlg Gurjan.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

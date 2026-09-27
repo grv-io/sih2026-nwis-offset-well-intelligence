@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-012  (Duliajan 12)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2022-02-20   Report Day: 3
+Depth: 1291 -> 2067 m MD  (progress 776 m)
+Current Fm: Tipam Ss
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Tipam Ss.
+  Drlg ahead in Tipam Ss @ 32 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

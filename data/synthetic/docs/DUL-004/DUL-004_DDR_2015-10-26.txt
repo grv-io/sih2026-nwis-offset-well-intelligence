@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-004  (Duliajan 4)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-10-26   Report Day: 1
+Depth: 0 -> 585 m MD  (progress 585 m)
+Current Fm: GIRUJAN CLAY
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiper trip to condition hole, no issues.
+  POOH for bit change, RIH, resumed drlg GIRUJAN CLAY.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  14.1 hrs NPT - CEMENTING_ISSUE @ 372 m MD (Girujan), sev=high: Excessive cement losses to fm while cementing across Girujan. Staged cement job with lightweight lead slurry and full tail string.
+  11.6 hrs NPT - STUCK_PIPE @ 512 m MD (Gurjan), sev=high: Differential sticking in Girujan, no rotation or reciprocation possible. Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.

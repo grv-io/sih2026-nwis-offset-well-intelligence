@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-010  (Duliajan 10)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2009-10-03   Report Day: 2
+Depth: 749 -> 1237 m MD  (progress 488 m)
+Current Fm: Gurjan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Gurjan @ 20 m/hr avg.
+  Flow check ok, no signs of inflxu, drlg ahead.
+  Drlg ahead in Gurjan @ 11 m/hr avg.
+  Drlg ahead in Gurjan @ 18 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  6.4 hrs NPT - STUCK_PIPE @ 887 m MD (GIRUJAN CLAY), sev=high: Differential sticking in Girujan, no rotation or reciprocation possible. Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.

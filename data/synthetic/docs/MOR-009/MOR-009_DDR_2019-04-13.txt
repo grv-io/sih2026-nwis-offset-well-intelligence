@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-009  (Moran 9)   Field: Moran   Basin: Upper Assam
+Report Date: 2019-04-13   Report Day: 4
+Depth: 1645 -> 1966 m MD  (progress 321 m)
+Current Fm: Barail
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Slips and mud checks per prorgam, ops normal.
+  Circ btms up, checked for gas, resumed drlg.
+  Short wiper trip to ocndition hole, no isseus.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

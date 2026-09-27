@@ -1,0 +1,104 @@
+/* =========================================================================
+   NWIS design tokens — dark control-room register (default) + light "paper"
+   register (:root[data-theme="light"]). Values are "R G B" triplets so
+   Tailwind can apply alpha: bg-crit/15, border-high/40 ...
+   Rules that hold in BOTH themes:
+   - ONE interactive accent (signal cyan, hue ~189deg), used only for focus,
+     selection and primary actions;
+   - ISA-101 alarm priorities are reserved for abnormal state and always ship
+     with a text label + shape (never colour alone);
+   - every text token passes >= 4.5:1 on s1 (panel) and every UI token >= 3:1.
+   The TS mirror of these values (Plotly / Leaflet canvas cannot read CSS
+   variables) lives in src/lib/theme.tsx and is checked by theme.test.tsx.
+   ========================================================================= */
+:root {
+  --bg: 10 13 17;          /* #0a0d11 page */
+  --s1: 16 20 26;          /* #10141a panel */
+  --s2: 22 27 34;          /* #161b22 raised / header rows */
+  --s3: 30 36 45;          /* #1e242d hover / inputs */
+  --line: 43 51 62;        /* #2b333e borders */
+  --rule: 30 36 44;        /* #1e242c hairlines inside panels */
+
+  --ink: 230 235 241;      /* #e6ebf1 primary text      15.4:1 on s1 */
+  --ink2: 188 197 208;     /* #bcc5d0 secondary          10.6:1 */
+  --dim: 139 150 163;      /* #8b96a3 labels, units       6.2:1 */
+  --faint: 104 115 128;    /* #687380 disabled, n/a       3.8:1 (disabled text is exempt) */
+
+  --accent: 79 195 215;    /* #4fc3d7 interactive only: focus, selection, primary buttons */
+  --accent-ink: 6 22 26;   /* text on accent */
+
+  /* Alarm priorities (ISA-101 / ISA-18.2). Reserved: never used for data series. */
+  --crit: 239 68 68;       /* #ef4444  P1 critical */
+  --high: 245 158 11;      /* #f59e0b  P2 high */
+  --med: 234 200 60;       /* #eac83c  P3 medium */
+  --low: 96 146 240;       /* #6092f0  P4 low / advisory */
+  --ok: 52 178 106;        /* #34b26a  normal / healthy link */
+
+  /* Hazard families (categorical, validated all-pairs on the dark basemap). */
+  --fam1: 57 135 229;      /* #3987e5  losses */
+  --fam2: 217 89 38;       /* #d95926  stuck pipe / instability */
+  --fam3: 25 158 112;      /* #199e70  well control */
+  --fam0: 120 130 142;     /* #78828e  other */
+
+  /* Risk-score component ramp (greys on purpose: a score is not an alarm). */
+  --risk1: 188 197 208;    /* offset precedent (heaviest weight = most salient) */
+  --risk2: 125 136 148;    /* live anomaly */
+  --risk3: 78 88 100;      /* model probability */
+
+  /* Surfaces for small controls and overlays. */
+  --seg-on: 30 36 45;                          /* selected segment */
+  --seg-lift: 0 0 #0000;                       /* no lift on dark */
+  --knob: 230 235 241;                         /* switch thumb */
+  --knob-lift: 0 0 #0000;
+  --scrim: 0 0 0 / 0.55;                       /* drawer backdrop */
+  --shadow-pop: 0 8px 24px rgb(0 0 0 / 0.5);   /* popovers */
+  --plot-bg: 12 16 21;                         /* #0c1015 Plotly plot area */
+
+  /* Map: the basemap is the dark-filtered OSM layer in BOTH themes (tiles are
+     deliberately unchanged by the light theme), so map-only colours are fixed. */
+  --map-bg: 10 13 17;
+
+  --radius: 3px;
+  --topbar-h: 48px;
+  color-scheme: dark;
+}
+
+/* Light "paper" register: grey page, white panels, same accent hue (189deg)
+   darkened to 5.6:1 on white; alarms re-tuned so P1-P4 stay distinguishable
+   AND readable as text on white (all >= 4.9:1). */
+:root[data-theme="light"] {
+  --bg: 238 241 245;       /* #eef1f5 page */
+  --s1: 255 255 255;       /* #ffffff panel */
+  --s2: 246 248 250;       /* #f6f8fa raised / header rows */
+  --s3: 231 235 240;       /* #e7ebf0 hover / inputs */
+  --line: 205 212 221;     /* #cdd4dd borders */
+  --rule: 226 231 237;     /* #e2e7ed hairlines */
+
+  --ink: 17 23 32;         /* #111720 primary text      18.0:1 on white */
+  --ink2: 51 60 72;        /* #333c48 secondary          11.2:1 */
+  --dim: 82 92 105;        /* #525c69 labels, units       6.8:1 */
+  --faint: 104 113 126;    /* #68717e disabled, n/a       4.9:1 */
+
+  --accent: 11 114 133;    /* #0b7285 same hue as #4fc3d7, 5.6:1 on white */
+  --accent-ink: 255 255 255;
+
+  --crit: 200 30 30;       /* #c81e1e  P1  5.8:1 */
+  --high: 172 78 6;        /* #ac4e06  P2  5.4:1 */
+  --med: 133 101 0;        /* #856500  P3  5.4:1 (gold, not yellow: yellow fails on white) */
+  --low: 47 95 208;        /* #2f5fd0  P4  5.8:1 */
+  --ok: 31 122 74;         /* #1f7a4a       5.3:1 */
+
+  --risk1: 47 57 69;
+  --risk2: 95 105 117;
+  --risk3: 136 146 157;    /* 3.2:1: still a visible bar segment on the track */
+
+  --seg-on: 255 255 255;
+  --seg-lift: 0 1px 2px rgb(17 23 32 / 0.14);
+  --knob: 255 255 255;
+  --knob-lift: 0 1px 2px rgb(17 23 32 / 0.25);
+  --scrim: 17 23 32 / 0.32;
+  --shadow-pop: 0 10px 28px rgb(17 23 32 / 0.16), 0 1px 3px rgb(17 23 32 / 0.08);
+  --plot-bg: 251 252 253;
+
+  color-scheme: light;
+}

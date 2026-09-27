@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-004  (Duliajan 4)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-10-28   Report Day: 3
+Depth: 1046 -> 1685 m MD  (progress 640 m)
+Current Fm: Tipam
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Tipam @ 28 m/hr avg.
+  Drlg ahead in Tipam @ 26 m/hr avg.
+  Short wiper trip to condition hole, no issues.
+  Drlg ahead in Tipam @ 24 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  4.0 hrs NPT - STUCK_PIPE @ 1095 m MD (Girujan Fm), sev=medium: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 49 bbl pipe-lax pill, freed after 4.0 hrs.

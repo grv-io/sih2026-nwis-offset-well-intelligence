@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-002  (Naharkatiya 2)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2025-10-25   Report Day: 5
+Depth: 1940 -> 2207 m MD  (progress 267 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey atken, inc/azi within plan.
+  POOH for bit change, RIH, resumed drlg Barail Coal-Shale.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  7.2 hrs NPT - OVERPRESSURE @ 1991 m MD (Barail), sev=high: SPP trend increasing and drag rising while drilling into Barail, suspected transition zone. Raised mud weight in 103-ppg steps, monitored trip gas, continued drilling with caution.
+  25.1 hrs NPT - STUCK_PIPE @ 2204 m MD (Barail Coal-Shale), sev=critical: Pipe stuck while tripping through Barail, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 71 bbl pipe-lax pill, freed after 25.1 hrs.

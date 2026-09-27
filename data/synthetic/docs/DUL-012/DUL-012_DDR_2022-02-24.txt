@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-012  (Duliajan 12)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2022-02-24   Report Day: 7
+Depth: 3247 -> 3402 m MD  (progress 155 m)
+Current Fm: BASEMENT
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Slips and mud chekcs per program, ops normal.
+  Cont'd drlg, monitoring torque/drag trend.
+  Flow check ok, no signs of influx, drlg ahead.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

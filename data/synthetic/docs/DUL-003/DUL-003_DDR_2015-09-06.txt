@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-003  (Duliajan 3)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-09-06   Report Day: 5
+Depth: 2282 -> 2615 m MD  (progress 333 m)
+Current Fm: Barail
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow cehck ok, no signs of influx, drlg ahead.
+  Slips and mud checks per program, ops normal.
+  Drlg ahead in Barail @ 14 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

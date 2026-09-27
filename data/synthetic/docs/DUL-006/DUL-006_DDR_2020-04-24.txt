@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-006  (Duliajan 6)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2020-04-24   Report Day: 3
+Depth: 1080 -> 1519 m MD  (progress 439 m)
+Current Fm: TIPAM SST
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drlg, monitoring torque/drag trend.
+  Survey taken, inc/azi within plan.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.7 hrs NPT - WELLBORE_INSTABILITY @ 1095 m MD (Girujan Fm), sev=low: Wellbore washout suspected in Girujan, oversized cuttings at surface. Adjusted mud rheology, ran wiper trips before continuing.

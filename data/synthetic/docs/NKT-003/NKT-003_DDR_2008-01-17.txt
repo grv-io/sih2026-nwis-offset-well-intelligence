@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-003  (Naharkatiya 3)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2008-01-17   Report Day: 1
+Depth: 0 -> 556 m MD  (progress 556 m)
+Current Fm: Gurjan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiper trip to condition hole, no issues.
+  Shrot wiper trip to condition hoel, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  4.5 hrs NPT - WELLBORE_INSTABILITY @ 317 m MD (Namsang Fm), sev=medium: Hole instability / cavings on surface while drlg Namsang, tight hole on conxs. Increased mud weight and viscosity, short-tripped to condition hole.
+  19.0 hrs NPT - CEMENTING_ISSUE @ 326 m MD (GIRUJAN CLAY), sev=high: Excessive cement losses to formation while cementing across Girujan. Staged cement job with lightweight lead slurry and full tail string.

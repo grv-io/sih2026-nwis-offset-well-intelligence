@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-007  (Moran 7)   Field: Moran   Basin: Upper Assam
+Report Date: 2021-02-23   Report Day: 3
+Depth: 1154 -> 2031 m MD  (progress 877 m)
+Current Fm: Tipam Sand
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  oCnt'd drlg, monitoring torque/drag trend.
+  Drlg ahead in Tipam Sand @ 20 m/hr avg.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.4 hrs NPT - MUD_LOSS @ 1862 m MD (Tipam Sand), sev=low: Losses seen while running casing through Tipam, static losses continuing on conxs. Spotted 87 bbl high-fluid-loss pill across the loss zone and monitored pit levels.

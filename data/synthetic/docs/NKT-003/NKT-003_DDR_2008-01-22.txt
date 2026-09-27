@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-003  (Naharkatiya 3)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2008-01-22   Report Day: 6
+Depth: 2340 -> 2740 m MD  (progress 400 m)
+Current Fm: KOPILI SH
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Slips and mud checks per program, ops normal.
+  Cont'd drlg, monitoring torque/drag trend.
+  Survey taken, in/cazi within plan.
+  Cont'd drlg, monitoring torque/darg trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

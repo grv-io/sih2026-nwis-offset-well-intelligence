@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-001  (Naharkatiya 1)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2017-12-06   Report Day: 4
+Depth: 2276 -> 2594 m MD  (progress 318 m)
+Current Fm: BARAIL
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of influx, drlg ahead.
+  Cont'd drlg, monitoring otrque/drag trend.
+  Survey taken, inc/azi within plan.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

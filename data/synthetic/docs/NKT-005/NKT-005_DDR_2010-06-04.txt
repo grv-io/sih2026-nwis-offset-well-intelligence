@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-005  (Naharkatiya 5)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2010-06-04   Report Day: 5
+Depth: 1773 -> 2011 m MD  (progress 238 m)
+Current Fm: BARAIL
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  30.3 hrs NPT - OVERPRESSURE @ 1916 m MD (BARAIL), sev=critical: SPP trend increasing and drag rising while drilling into Barail, suspected transition zone. Raised mud weight in 41-ppg steps, monitored trip gas, continued drilling with caution.

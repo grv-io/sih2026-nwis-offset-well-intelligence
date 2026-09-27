@@ -1,0 +1,53 @@
+WELL COMPLETION REPORT (WCR)
+Well: MOR-001  (Moran 1)   Field: Moran   Basin: Upper Assam
+Spud Date: 2010-08-06   Status: completed
+Lat/Lon: 27.2782, 95.0153   KB Elev: 128.6 m
+Trajectory: vertical   TD (MD): 3181 m   TD (TVD): 3181 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            27            27
+Dhekiajuli              27            27           231           231
+Namsang                231           231           541           541
+Girujan                541           541          1361          1361
+Tipam                 1361          1361          1936          1936
+Barail                1936          1936          2668          2668
+Kopili                2668          2668          2957          2957
+Sylhet                2957          2957          3147          3147
+Basement              3147          3147          3181          3181
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       231
+Girujan           9-5/8in intermediate                   541
+Tipam             9-5/8in intermediate-2                1361
+Barail            7in production                        1936
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2010-08-07 | 251 m MD | Namsang | wellbore_instability | high | 16.9 hrs NPT
+    Cause: Wellbore washout suspected in Namsang, oversized cuttings at surface.
+    Remedy: Adjusted mud rheology, ran wiper trips before continuing.
+  2010-08-08 | 1129 m MD | Girujan | stuck_pipe | high | 11.3 hrs NPT
+    Cause: Differential sticking in Girujan, no rotation or reciprocation possible.
+    Remedy: Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  2010-08-08 | 1348 m MD | Girujan | stuck_pipe | medium | 2.2 hrs NPT
+    Cause: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 26 bbl pipe-lax pill, freed after 2.2 hrs.
+  2010-08-08 | 1546 m MD | Tipam | mud_loss | low | 1.6 hrs NPT
+    Cause: Lost circulation 37 bbl/hr while drilling Tipam sand, partial returns only.
+    Remedy: Pumped 88 bbl LCM pill, reduced ROP, regained partial returns.
+  2010-08-11 | 2843 m MD | Kopili | overpressure | high | 24.6 hrs NPT
+    Cause: Well kicked back while circulating out of Kopili, gas readings elevated on trip gas.
+    Remedy: Weighted mud up to balance formation pressure, circulated bottoms up before resuming.

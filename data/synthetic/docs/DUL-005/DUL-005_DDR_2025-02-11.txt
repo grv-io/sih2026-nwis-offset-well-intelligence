@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-005  (Duliajan 5)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2025-02-11   Report Day: 10
+Depth: 3130 -> 3271 m MD  (progress 141 m)
+Current Fm: BASEMENT
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiper trip to condition hole, no issues.
+  Drlg ahead in BASEMENT @ 4 m/hr avg.
+  POOH for bit change, RIH, resumed drlg BASEMENT.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.4 hrs NPT - MUD_LOSS @ 3161 m MD (SYLHET LST), sev=low: Total losses encountered in Sylhet, no returns to surface for 1.5 hrs. Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.

@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-002  (Moran 2)   Field: Moran   Basin: Upper Assam
+Report Date: 2010-05-23   Report Day: 6
+Depth: 2221 -> 2501 m MD  (progress 280 m)
+Current Fm: Kopili Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drlg, monitoring torque/drag tredn.
+  Short wiper trip to condition hole, no issues.
+  Slips and mud checks per progarm, ops normal.
+  Flow check ok, no signs of influx, drlg ahead.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

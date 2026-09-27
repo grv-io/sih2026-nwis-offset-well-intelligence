@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-007  (Duliajan 7)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2019-02-25   Report Day: 3
+Depth: 1077 -> 1628 m MD  (progress 551 m)
+Current Fm: Tipam Ss
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiper trip to condition hole, no issues.
+  Survey taken, inc/azi within plan.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  2.0 hrs NPT - CEMENTING_ISSUE @ 1092 m MD (TIPAM SST), sev=low: Poor cement bond / losses during primary cementing of casing shoe in Tipam. Squeeze cemented shoe track, pressure tested to spec before drilling out.

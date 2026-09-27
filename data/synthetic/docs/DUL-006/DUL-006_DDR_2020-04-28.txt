@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-006  (Duliajan 6)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2020-04-28   Report Day: 7
+Depth: 2481 -> 2761 m MD  (progress 280 m)
+Current Fm: Kopili Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drlg, monitoring torque/drag trend.
+  Drlg ahead in Kopili Shale @ 15 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  3.7 hrs NPT - OVERPRESSURE @ 2574 m MD (BARAIL), sev=medium: Well kicked back while circulating out of Barail, gas readings elevated on trip gas. Weighted mud up to balance formation pressure, circulated bottoms up before resuming.

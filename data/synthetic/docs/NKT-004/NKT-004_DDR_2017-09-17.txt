@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-004  (Naharkatiya 4)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2017-09-17   Report Day: 4
+Depth: 1419 -> 1959 m MD  (progress 540 m)
+Current Fm: BARAIL
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed dlrg.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.1 hrs NPT - GAS_SHOW @ 1743 m MD (TIPAM SST), sev=low: Background gas rise while drilling Tipam, conx gas trending up. Increased mud weight slightly, monitored trend, continued drilling.

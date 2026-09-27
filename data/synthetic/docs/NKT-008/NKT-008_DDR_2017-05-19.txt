@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-008  (Naharkatiya 8)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2017-05-19   Report Day: 5
+Depth: 2241 -> 2488 m MD  (progress 247 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiper trip to condition hole, no issues.
+  Flow check ok, no signs of influx, drlg ahead.
+  Drlg ahead in Barail Coal-Shlae @ 7 m/hr avg.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

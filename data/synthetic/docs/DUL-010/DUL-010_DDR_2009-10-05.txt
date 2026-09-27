@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-010  (Duliajan 10)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2009-10-05   Report Day: 4
+Depth: 1994 -> 2261 m MD  (progress 267 m)
+Current Fm: Barail Gp
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Barail Gp.
+  Survey taken, inc/azi within plna.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.6 hrs NPT - CEMENTING_ISSUE @ 2003 m MD (Barail Gp), sev=low: Excessive cement losses to formation while cementing across Barail. Staged cement job with lightweight lead slurry and full tail string.

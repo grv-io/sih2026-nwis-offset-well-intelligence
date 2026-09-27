@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-006  (Duliajan 6)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2020-04-27   Report Day: 6
+Depth: 2198 -> 2481 m MD  (progress 283 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiper trip to condition hole, no issues.
+  Short wiper trip to condition hole, no issues.
+  Circ btms up, hcecked for gas, resumed drlg.
+  Survey taken, inc/azi wihtin plan.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

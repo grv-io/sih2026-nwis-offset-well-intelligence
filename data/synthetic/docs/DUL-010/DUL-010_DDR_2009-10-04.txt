@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-010  (Duliajan 10)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2009-10-04   Report Day: 3
+Depth: 1237 -> 1994 m MD  (progress 757 m)
+Current Fm: TIPAM SST
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drlg, monitoring torque/drag trend.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  4.0 hrs NPT - GAS_SHOW @ 1722 m MD (Tipam Sand), sev=medium: Background gas rise while drlg Tipam, connection gas trending up. Increased mud weight slightly, monitored trend, continued drlg.

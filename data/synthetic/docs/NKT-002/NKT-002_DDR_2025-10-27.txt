@@ -1,0 +1,15 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-002  (Naharkatiya 2)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2025-10-27   Report Day: 7
+Depth: 2475 -> 2749 m MD  (progress 274 m)
+Current Fm: Sylhet
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed drlg.
+  POOH for bit change, RIH, resumed drlg Sylhet.
+  Slpis and mud checks per program, ops normal.
+  Drlg ahead in Sylhet @ 5 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  11.1 hrs NPT - KICK @ 2608 m MD (Kopili), sev=high: Flow-check positive, pit gain of 63 bbl and flow-out exceeding flow-in while in Kopili. Shut in well, closed BOP, circulated kill mud per driller's method.
+  20.7 hrs NPT - MUD_LOSS @ 2644 m MD (Sylhet Lst), sev=high: Lost circulation 41 bbl/hr while drlg Sylhet sand, partial returns only. Pumped 51 bbl LCM pill, reduced ROP, regained partial returns.

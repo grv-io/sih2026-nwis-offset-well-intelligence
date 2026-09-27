@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-005  (Naharkatiya 5)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2010-06-03   Report Day: 4
+Depth: 1404 -> 1773 m MD  (progress 369 m)
+Current Fm: Barail Gp
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Barail Gp @ 11 m/hr avg.
+  Short wiper trip to condition hole, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  6.0 hrs NPT - CEMENTING_ISSUE @ 1620 m MD (Barail Coal-Shale), sev=medium: Poor cement bond / losses during primary cementing of casing shoe in Barail. Squeeze cemented shoe track, pressure tested to spec before drlg out.
+  7.7 hrs NPT - OVERPRESSURE @ 1645 m MD (Barail Coal-Shale), sev=high: SPP trend increasing and drag rising while drilling into Barail, suspected transition zone. Raised mud weight in 26-ppg steps, monitored trip gas, continued drilling with caution.

@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-001  (Duliajan 1)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2017-06-14   Report Day: 3
+Depth: 1100 -> 1844 m MD  (progress 744 m)
+Current Fm: Tipam Sand
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi wihtin plan.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

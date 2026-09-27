@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-003  (Moran 3)   Field: Moran   Basin: Upper Assam
+Report Date: 2024-02-25   Report Day: 3
+Depth: 1316 -> 1769 m MD  (progress 453 m)
+Current Fm: Barail
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey takne, inc/azi within plan.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  6.9 hrs NPT - MUD_LOSS @ 1381 m MD (Tipam), sev=medium: Total losses encountered in Tipam, no returns to surface for 6.9 hrs. Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.
+  4.3 hrs NPT - MUD_LOSS @ 1434 m MD (TIPAM SST), sev=medium: Total losses encountered in Tipam, no returns to surface for 4.3 hrs. Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.
+  1.2 hrs NPT - CEMENTING_ISSUE @ 1602 m MD (Barail Coal-Shale), sev=low: Poor cement bond / losses during primary cementing of casing shoe in Barail. Squeeze cemented shoe track, pressure tested to spec before drilling out.

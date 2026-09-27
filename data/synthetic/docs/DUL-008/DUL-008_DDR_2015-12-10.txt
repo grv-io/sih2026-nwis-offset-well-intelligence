@@ -1,0 +1,18 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-008  (Duliajan 8)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-12-10   Report Day: 1
+Depth: 0 -> 896 m MD  (progress 896 m)
+Current Fm: Girujan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Girujan @ 15 m/hr avg.
+  Circ btms up, checked for gas, resumed drlg.
+  Drlg ahead in Girujan @ 16 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.6 hrs NPT - NPT_OTHER @ 8 m MD (Alluvium), sev=low: Rig repair / equipment downtime while working in Alluvium section. Repaired equipment, resumed operations after downtime.
+  3.8 hrs NPT - GAS_SHOW @ 30 m MD (Dhekiajuli), sev=medium: Background gas rise while drilling Dhekiajuli, connection gas trending up. Increased mud weight slightly, monitored trend, continued drilling.
+  19.3 hrs NPT - STUCK_PIPE @ 498 m MD (Gurjan), sev=high: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 69 bbl pipe-lax pill, freed after 19.3 hrs.
+  18.6 hrs NPT - WELLBORE_INSTABILITY @ 499 m MD (Girujan), sev=high: Hole instability / cavings on surface while drilling Girujan, tight hole on conxs. Increased mud weight and viscosity, short-tripped to condition hole.
+  85.3 hrs NPT - STUCK_PIPE @ 626 m MD (GIRUJAN CLAY), sev=critical: Differential sticking in Girujan, no rotation or reciprocation possible. Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  39.5 hrs NPT - FISHING_OPERATION @ 633 m MD (Gurjan), sev=critical: Following stuck pipe in Girujan, back-off performed, fish left in hole. Ran fishing BHA, latched fish with overshot, recovered string to surface.

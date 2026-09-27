@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-004  (Naharkatiya 4)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2017-09-14   Report Day: 1
+Depth: 0 -> 624 m MD  (progress 624 m)
+Current Fm: Gurjan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within paln.
+  Short wiper trip to condition hole, no issues.
+  Survey taken, inc/azi within plan.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  5.7 hrs NPT - CEMENTING_ISSUE @ 484 m MD (Girujan Fm), sev=high: Excessive cement losses to formation while cementing across Girujan. Staged cement job with lightweight lead slurry and full tail string.
+  4.8 hrs NPT - STUCK_PIPE @ 554 m MD (GIRUJAN CLAY), sev=medium: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 113 bbl pipe-lax pill, freed after 4.8 hrs.

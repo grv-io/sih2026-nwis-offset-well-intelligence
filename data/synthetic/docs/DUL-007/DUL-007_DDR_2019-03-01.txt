@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-007  (Duliajan 7)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2019-03-01   Report Day: 7
+Depth: 2559 -> 2811 m MD  (progress 251 m)
+Current Fm: KOPILI SH
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi within plan.
+  Survey taken, inc/azi within plan.
+  POOH for bit change, RIH, resumed drlg KOPILI SH.
+  Survey taken, inc/azi within plan.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  20.0 hrs NPT - OVERPRESSURE @ 2791 m MD (Kopili), sev=critical: SPP trend increasing and drag rising while drlg into Kopili, suspected transition zone. Raised mud weight in 24-ppg steps, monitored trip gas, cont'd drlg with caution.

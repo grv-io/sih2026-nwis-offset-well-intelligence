@@ -1,0 +1,15 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-007  (Naharkatiya 7)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2009-01-28   Report Day: 1
+Depth: 0 -> 809 m MD  (progress 809 m)
+Current Fm: Gurjan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Survey taken, inc/azi iwthin plan.
+  Slips and mud checks per program, ops normal.
+  POOH for bit change, RIH, resumed drlg Gurjan.
+  Slips and mud hcecks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  1.2 hrs NPT - NPT_OTHER @ 9 m MD (Alluvium), sev=low: Rig repair / equipment downtime while working in Alluvium section. Repaired equipment, resumed ops after downtime.
+  19.2 hrs NPT - STUCK_PIPE @ 746 m MD (Girujan Fm), sev=high: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 40 bbl pipe-lax pill, freed after 19.2 hrs.

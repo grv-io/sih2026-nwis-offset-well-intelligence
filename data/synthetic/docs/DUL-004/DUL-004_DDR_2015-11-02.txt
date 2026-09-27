@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-004  (Duliajan 4)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-11-02   Report Day: 8
+Depth: 2988 -> 3202 m MD  (progress 213 m)
+Current Fm: Sylhet
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in Sylhet @ 10 m/hr avg.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

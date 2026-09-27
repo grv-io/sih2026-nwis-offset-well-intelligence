@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-002  (Naharkatiya 2)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2025-10-21   Report Day: 1
+Depth: 0 -> 565 m MD  (progress 565 m)
+Current Fm: Girujan Fm
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit change, RIH, resumed drlg Girujan Fm.
+  Circ btms up, checked for gas, resumed drlg.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  2.5 hrs NPT - WELLBORE_INSTABILITY @ 15 m MD (Alluvium), sev=medium: Wellbore washout suspected in Alluvium, oversized cuttings at surface. Adjusted mud rheology, ran wiper trips before continuing.
+  21.6 hrs NPT - CEMENTING_ISSUE @ 360 m MD (GIRUJAN CLAY), sev=high: Excessive cement losses to fm while cementing across Girujan. Staged cement job with lightweight lead slurry and full tail string.

@@ -1,0 +1,16 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-006  (Moran 6)   Field: Moran   Basin: Upper Assam
+Report Date: 2012-04-19   Report Day: 1
+Depth: 0 -> 681 m MD  (progress 681 m)
+Current Fm: Girujan Fm
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of influx, drlg ahead.
+  Cont'd drlg, monitoring torque/drag trend.
+  Circ btms up, checked for gas, resumed drlg.
+  Short wiper trip to condition hole, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  3.7 hrs NPT - GAS_SHOW @ 72 m MD (DHEKIAJULI FM), sev=medium: Background gas rise while drilling Dhekiajuli, conx gas trending up. Increased mud weight slightly, monitored trend, continued drilling.
+  3.4 hrs NPT - NPT_OTHER @ 456 m MD (Namsang Fm), sev=medium: Rig repair / equipment downtime while working in Namsang section. Repaired equipment, resumed ops after downtime.
+  4.1 hrs NPT - STUCK_PIPE @ 578 m MD (Girujan), sev=medium: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 24 bbl pipe-lax pill, freed after 4.1 hrs.

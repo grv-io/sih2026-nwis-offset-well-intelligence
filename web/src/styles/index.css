@@ -1,0 +1,93 @@
+@import './tokens.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body, #root { height: 100%; }
+  body {
+    @apply bg-bg text-ink font-sans text-base antialiased;
+    font-feature-settings: 'kern';
+  }
+  :focus-visible { outline: 2px solid rgb(var(--accent)); outline-offset: 1px; }
+  ::selection { background: rgb(var(--accent) / 0.35); }
+  * { scrollbar-width: thin; scrollbar-color: rgb(var(--line)) transparent; }
+  button { @apply select-none; }
+}
+
+@layer components {
+  .num { font-variant-numeric: tabular-nums; font-feature-settings: 'tnum'; }
+  .label { @apply text-micro uppercase tracking-[0.06em] text-dim font-semibold; }
+  .panel { @apply bg-s1 border border-line rounded; }
+  .panel-head { @apply flex items-center gap-3 px-4 h-11 border-b border-rule; }
+  .panel-title { @apply text-sm font-semibold text-ink; }
+  .btn { @apply inline-flex items-center justify-center gap-2 h-8 px-3 rounded text-sm font-medium border border-line bg-s2 text-ink2 hover:bg-s3 hover:text-ink disabled:opacity-40 disabled:pointer-events-none transition-colors; }
+  .btn-primary { @apply btn bg-accent text-accent-ink border-accent hover:bg-accent/90 hover:text-accent-ink; }
+  .btn-ghost { @apply btn bg-transparent border-transparent hover:bg-s3; }
+  .btn-sm { @apply h-7 px-2 text-xs; }
+  .input { @apply h-8 px-3 rounded bg-bg border border-line text-sm text-ink placeholder:text-faint focus:border-accent focus:outline-none; }
+  .chip { @apply inline-flex items-center gap-1 h-6 px-2 rounded-sm border border-line bg-s2 text-xs text-ink2 whitespace-nowrap; }
+  .kv { @apply flex flex-col gap-0.5; }
+  .table-head th { @apply label text-left font-semibold px-3 h-8 border-b border-rule bg-s1 sticky top-0 z-[1]; }
+  .table-row td { @apply px-3 h-9 border-b border-rule text-sm; }
+  /* theme-aware surfaces for small controls (values in tokens.css) */
+  .seg-on { background: rgb(var(--seg-on)); box-shadow: inset 0 -2px 0 rgb(var(--accent)), var(--seg-lift); }
+  .knob { background: rgb(var(--knob)); box-shadow: var(--knob-lift); }
+  .scrim { background: rgb(var(--scrim)); }
+  .pop-shadow { box-shadow: var(--shadow-pop); }
+  /* CSS tooltip: shows on hover AND keyboard focus (a native title does not). */
+  .tip { position: relative; }
+  .tip::after {
+    content: attr(data-tip);
+    position: absolute; top: calc(100% + 8px); right: 0; z-index: 1200;
+    white-space: nowrap; pointer-events: none;
+    padding: 3px 8px; border-radius: 3px; font-size: 11.5px; line-height: 18px; font-weight: 500;
+    color: rgb(var(--ink)); background: rgb(var(--s2)); border: 1px solid rgb(var(--line)); box-shadow: var(--shadow-pop);
+    opacity: 0; transform: translateY(-2px); transition: opacity 120ms ease, transform 120ms ease;
+  }
+  .tip:hover::after, .tip:focus-visible::after { opacity: 1; transform: none; transition-delay: 350ms; }
+  .tip:focus-visible::after { transition-delay: 0ms; }
+}
+
+/* Theme switch: cross-fade surfaces for one frame-set, never on first paint. */
+html.theme-anim, html.theme-anim *, html.theme-anim *::before, html.theme-anim *::after {
+  transition: background-color 180ms ease, border-color 180ms ease, color 180ms ease, fill 180ms ease !important;
+}
+@media (prefers-reduced-motion: reduce) {
+  html.theme-anim, html.theme-anim * { transition: none !important; }
+  .tip::after { transition: none; }
+}
+
+/* Devanagari: letter-spacing breaks the shirorekha (the headline joining the
+   letters) and uppercase is meaningless, so tracked/uppercase chrome drops both
+   in Hindi. Tall matras (ि ी ु ू ृ ं) need ~1.45 line-height or overflow:hidden
+   (truncate, line-clamp) shaves them. */
+html[lang='hi'] .label,
+html[lang='hi'] [class*='tracking-'] { letter-spacing: 0; }
+html[lang='hi'] .text-micro { line-height: 18px; }
+html[lang='hi'] .text-xs { line-height: 19px; }
+html[lang='hi'] .text-sm { line-height: 21px; }
+
+/* Leaflet. The basemap is dark in both themes (tiles deliberately unchanged by
+   the light theme); controls, tooltips and attribution follow the UI theme. */
+.leaflet-container { background: rgb(var(--map-bg)); font: inherit; }
+.nwis-dark-tiles .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(0.82) contrast(0.92) saturate(0.25); }
+.leaflet-bottom { bottom: 28px; }
+.leaflet-control-attribution { background: rgb(var(--s1) / 0.9) !important; color: rgb(var(--dim)) !important; font-size: 10px; }
+.leaflet-control-attribution a { color: rgb(var(--ink2)) !important; }
+.leaflet-control-zoom { border: 1px solid rgb(var(--line)) !important; box-shadow: var(--shadow-pop) !important; }
+.leaflet-control-zoom a { background: rgb(var(--s1)) !important; color: rgb(var(--ink)) !important; border-color: rgb(var(--line)) !important; }
+.leaflet-control-zoom a:hover { background: rgb(var(--s3)) !important; }
+.leaflet-control-zoom a.leaflet-disabled { color: rgb(var(--faint)) !important; }
+.leaflet-tooltip.nwis-tip { background: rgb(var(--s1)); color: rgb(var(--ink)); border: 1px solid rgb(var(--line)); border-radius: 3px; box-shadow: none; padding: 2px 6px; font-size: 11.5px; font-family: 'Cascadia Mono', Consolas, monospace; }
+.leaflet-tooltip.nwis-tip::before { display: none; }
+.leaflet-tooltip.nwis-tip-active { border-color: rgb(var(--accent)); color: rgb(var(--accent)); }
+
+/* Plotly modebar */
+.js-plotly-plot .plotly .modebar { background: transparent !important; }
+.js-plotly-plot .plotly .modebar-btn path { fill: rgb(var(--dim)) !important; }
+.js-plotly-plot .plotly .modebar-btn:hover path, .js-plotly-plot .plotly .modebar-btn.active path { fill: rgb(var(--accent)) !important; }
+
+@keyframes nwis-arrive { from { box-shadow: 0 0 0 2px rgb(var(--accent) / 0.9); } to { box-shadow: 0 0 0 2px rgb(var(--accent) / 0); } }
+.nwis-arrive { animation: nwis-arrive 2.4s ease-out 1; }
+@media (prefers-reduced-motion: reduce) { .nwis-arrive { animation: none; } }

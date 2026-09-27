@@ -1,0 +1,53 @@
+WELL COMPLETION REPORT (WCR)
+Well: NKT-008  (Naharkatiya 8)   Field: Naharkatiya   Basin: Upper Assam
+Spud Date: 2017-05-14   Status: completed
+Lat/Lon: 27.4088, 95.2165   KB Elev: 94.8 m
+Trajectory: vertical   TD (MD): 3070 m   TD (TVD): 3070 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            40            40
+Dhekiajuli              40            40           223           223
+Namsang                223           223           479           479
+Girujan                479           479          1179          1179
+Tipam                 1179          1179          1914          1914
+Barail                1914          1914          2544          2544
+Kopili                2544          2544          2812          2812
+Sylhet                2812          2812          3034          3034
+Basement              3034          3034          3070          3070
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       223
+Girujan           9-5/8in intermediate                   479
+Tipam             9-5/8in intermediate-2                1179
+Barail            7in production                        1914
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2017-05-15 | 636 m MD | Girujan | stuck_pipe | high | 17.0 hrs NPT
+    Cause: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 51 bbl pipe-lax pill, freed after 17.0 hrs.
+  2017-05-16 | 760 m MD | Girujan | stuck_pipe | critical | 15.8 hrs NPT
+    Cause: Differential sticking in Girujan, no rotation or reciprocation possible.
+    Remedy: Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  2017-05-16 | 769 m MD | Girujan | stuck_pipe | high | 7.8 hrs NPT
+    Cause: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 40 bbl pipe-lax pill, freed after 7.8 hrs.
+  2017-05-16 | 774 m MD | Girujan | fishing_operation | high | 5.4 hrs NPT
+    Cause: Following stuck pipe in Girujan, back-off performed, fish left in hole.
+    Remedy: Ran fishing BHA, latched fish with overshot, recovered string to surface.
+  2017-05-16 | 781 m MD | Girujan | fishing_operation | high | 7.2 hrs NPT
+    Cause: Following stuck pipe in Girujan, back-off performed, fish left in hole.
+    Remedy: Ran fishing BHA, latched fish with overshot, recovered string to surface.

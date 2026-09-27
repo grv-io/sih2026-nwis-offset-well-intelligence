@@ -1,0 +1,47 @@
+WELL COMPLETION REPORT (WCR)
+Well: DUL-001  (Duliajan 1)   Field: Duliajan   Basin: Upper Assam
+Spud Date: 2017-06-11   Status: completed
+Lat/Lon: 27.4937, 95.2732   KB Elev: 122.9 m
+Trajectory: vertical   TD (MD): 3366 m   TD (TVD): 3366 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            22            22
+Dhekiajuli              22            22           159           159
+Namsang                159           159           361           361
+Girujan                361           361          1136          1136
+Tipam                 1136          1136          1951          1951
+Barail                1951          1951          2848          2848
+Kopili                2848          2848          3026          3026
+Sylhet                3026          3026          3254          3254
+Basement              3254          3254          3366          3366
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       159
+Girujan           9-5/8in intermediate                   361
+Tipam             9-5/8in intermediate-2                1136
+Barail            7in production                        1951
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2017-06-12 | 361 m MD | Girujan | cementing_issue | low | 1.5 hrs NPT
+    Cause: Excessive cement losses to formation while cementing across Girujan.
+    Remedy: Staged cement job with lightweight lead slurry and full tail string.
+  2017-06-13 | 768 m MD | Girujan | stuck_pipe | medium | 3.2 hrs NPT
+    Cause: Differential sticking in Girujan, no rotation or reciprocation possible.
+    Remedy: Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.
+  2017-06-20 | 3270 m MD | Basement | torque_spike | low | 1.5 hrs NPT
+    Cause: Sharp torque increase on contact with Basement, ROP dropped to near zero.
+    Remedy: Reduced WOB and RPM, reamed interval, resumed drilling at reduced parameters.

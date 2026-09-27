@@ -1,0 +1,50 @@
+WELL COMPLETION REPORT (WCR)
+Well: MOR-004  (Moran 4)   Field: Moran   Basin: Upper Assam
+Spud Date: 2021-11-16   Status: completed
+Lat/Lon: 27.3350, 95.0496   KB Elev: 110.2 m
+Trajectory: vertical   TD (MD): 3090 m   TD (TVD): 3090 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            39            39
+Dhekiajuli              39            39           151           151
+Namsang                151           151           352           352
+Girujan                352           352           986           986
+Tipam                  986           986          1652          1652
+Barail                1652          1652          2558          2558
+Kopili                2558          2558          2828          2828
+Sylhet                2828          2828          3031          3031
+Basement              3031          3031          3090          3090
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       151
+Girujan           9-5/8in intermediate                   352
+Tipam             9-5/8in intermediate-2                 986
+Barail            7in production                        1652
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2021-11-17 | 408 m MD | Girujan | stuck_pipe | medium | 5.8 hrs NPT
+    Cause: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 54 bbl pipe-lax pill, freed after 5.8 hrs.
+  2021-11-18 | 1438 m MD | Tipam | mud_loss | low | 1.7 hrs NPT
+    Cause: Total losses encountered in Tipam, no returns to surface for 1.7 hrs.
+    Remedy: Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.
+  2021-11-21 | 2761 m MD | Kopili | kick | high | 14.9 hrs NPT
+    Cause: Flow-check positive, pit gain of 30 bbl and flow-out exceeding flow-in while in Kopili.
+    Remedy: Shut in well, closed BOP, circulated kill mud per driller's method.
+  2021-11-22 | 3010 m MD | Sylhet | mud_loss | low | 3.3 hrs NPT
+    Cause: Lost circulation 67 bbl/hr while drilling Sylhet sand, partial returns only.
+    Remedy: Pumped 65 bbl LCM pill, reduced ROP, regained partial returns.

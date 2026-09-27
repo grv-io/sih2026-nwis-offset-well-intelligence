@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-005  (Duliajan 5)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2025-02-05   Report Day: 4
+Depth: 1252 -> 1790 m MD  (progress 538 m)
+Current Fm: Barail
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed drlg.
+  Cnot'd drlg, monitoring torque/drag trend.
+  Cont'd drlg, monitoring torque/drag trend.
+  Drlg ahead in Barail @ 11 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  32.8 hrs NPT - GAS_SHOW @ 1416 m MD (Tipam Ss), sev=high: Background gas rise while drilling Tipam, conx gas trending up. Increased mud weight slightly, monitored trend, cont'd drilling.

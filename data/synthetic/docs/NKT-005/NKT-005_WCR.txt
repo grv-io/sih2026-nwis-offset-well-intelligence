@@ -1,0 +1,56 @@
+WELL COMPLETION REPORT (WCR)
+Well: NKT-005  (Naharkatiya 5)   Field: Naharkatiya   Basin: Upper Assam
+Spud Date: 2010-05-30   Status: completed
+Lat/Lon: 27.3451, 95.2502   KB Elev: 106.5 m
+Trajectory: vertical   TD (MD): 3215 m   TD (TVD): 3215 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            37            37
+Dhekiajuli              37            37           225           225
+Namsang                225           225           466           466
+Girujan                466           466          1047          1047
+Tipam                 1047          1047          1620          1620
+Barail                1620          1620          2537          2537
+Kopili                2537          2537          2899          2899
+Sylhet                2899          2899          3134          3134
+Basement              3134          3134          3215          3215
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       225
+Girujan           9-5/8in intermediate                   466
+Tipam             9-5/8in intermediate-2                1047
+Barail            7in production                        1620
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2010-06-02 | 1236 m MD | Tipam | gas_show | low | 1.6 hrs NPT
+    Cause: Background gas rise while drilling Tipam, connection gas trending up.
+    Remedy: Increased mud weight slightly, monitored trend, continued drilling.
+  2010-06-03 | 1620 m MD | Barail | cementing_issue | medium | 6.0 hrs NPT
+    Cause: Poor cement bond / losses during primary cementing of casing shoe in Barail.
+    Remedy: Squeeze cemented shoe track, pressure tested to spec before drilling out.
+  2010-06-03 | 1645 m MD | Barail | overpressure | high | 7.7 hrs NPT
+    Cause: SPP trend increasing and drag rising while drilling into Barail, suspected transition zone.
+    Remedy: Raised mud weight in 26-ppg steps, monitored trip gas, continued drilling with caution.
+  2010-06-04 | 1916 m MD | Barail | overpressure | critical | 30.3 hrs NPT
+    Cause: SPP trend increasing and drag rising while drilling into Barail, suspected transition zone.
+    Remedy: Raised mud weight in 41-ppg steps, monitored trip gas, continued drilling with caution.
+  2010-06-05 | 2208 m MD | Barail | overpressure | medium | 2.8 hrs NPT
+    Cause: Well kicked back while circulating out of Barail, gas readings elevated on trip gas.
+    Remedy: Weighted mud up to balance formation pressure, circulated bottoms up before resuming.
+  2010-06-07 | 2659 m MD | Kopili | kick | critical | 25.2 hrs NPT
+    Cause: Gas-cut mud and increasing pit volume observed drilling Kopili, well flowing.
+    Remedy: Hard shut-in, recorded SIDPP/SICP, weighted up mud and circulated bottoms up.

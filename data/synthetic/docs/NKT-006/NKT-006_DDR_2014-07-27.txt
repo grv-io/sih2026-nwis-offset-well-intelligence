@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-006  (Naharkatiya 6)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2014-07-27   Report Day: 7
+Depth: 2606 -> 2827 m MD  (progress 221 m)
+Current Fm: SYLHET LST
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Drlg ahead in SYLHET LST @ 7 m/hr avg.
+  Cont'd drlg, monitoring torque/drag trend.
+  Drlg ahead in SYLHET LST @ 5 m/hr avg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  14.0 hrs NPT - MUD_LOSS @ 2823 m MD (Sylhet Lst), sev=high: Lost circulation 43 bbl/hr while drlg Sylhet sand, partial returns only. Pumped 21 bbl LCM pill, reduced ROP, regained partial returns.

@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-005  (Moran 5)   Field: Moran   Basin: Upper Assam
+Report Date: 2012-12-27   Report Day: 4
+Depth: 2009 -> 2373 m MD  (progress 364 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiper trip to condition hole, no issues.
+  Short wiper trip to condition hole, no issues.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  5.7 hrs NPT - KICK @ 2266 m MD (BARAIL), sev=high: Gas-cut mud and increasing pit volume observed drlg Barail, well flowing. Hard shut-in, recorded SIDPP/SICP, weighted up mud and circulated btms up.

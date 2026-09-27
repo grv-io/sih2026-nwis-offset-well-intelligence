@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-001  (Duliajan 1)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2017-06-19   Report Day: 8
+Depth: 3123 -> 3268 m MD  (progress 145 m)
+Current Fm: Basement
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  POOH for bit chaneg, RIH, resumed drlg Basmeent.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

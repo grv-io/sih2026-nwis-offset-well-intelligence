@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-001  (Moran 1)   Field: Moran   Basin: Upper Assam
+Report Date: 2010-08-11   Report Day: 5
+Depth: 2563 -> 3006 m MD  (progress 443 m)
+Current Fm: Sylhet Lst
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiper trip to condition hole, no issues.
+  Flow check ok, no signs of influx, drlg ahead.
+  POOH for bit change, RIH, resumed drlg Sylhet Lst.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  24.6 hrs NPT - OVERPRESSURE @ 2843 m MD (Kopili), sev=high: Well kicked back while circulating out of Kopili, gas readings elevated on trip gas. Weighted mud up to balance formation pressure, circulated btms up before resuming.

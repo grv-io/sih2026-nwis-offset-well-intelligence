@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-004  (Naharkatiya 4)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2017-09-18   Report Day: 5
+Depth: 1959 -> 2185 m MD  (progress 226 m)
+Current Fm: Barail Coal-Shale
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiper trip to conidtion hole, no isuses.
+  Flow check ok, no signs of influx, drlg ahead.
+  Flow check ok, no signs of influx, drlg ahead.
+  Short wiper trip to cnodition hoel, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  3.0 hrs NPT - OVERPRESSURE @ 2098 m MD (Barail), sev=medium: Well kicked back while circulating out of Barail, gas readings elevated on trip gas. Weighted mud up to balance fm pressure, circulated bottoms up before resuming.

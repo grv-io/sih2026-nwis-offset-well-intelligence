@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-012  (Duliajan 12)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2022-02-19   Report Day: 2
+Depth: 732 -> 1291 m MD  (progress 559 m)
+Current Fm: Tipam Ss
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Slips and mud checks per program, ops normla.
+  POOH for bit change, RIH, resumed drlg Tipam Ss.
+  Circ btms up, checked for gas, resumed drlg.
+  Circ btms up, checked for gas, resumed drlg.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  6.6 hrs NPT - STUCK_PIPE @ 1080 m MD (GIRUJAN CLAY), sev=medium: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 83 bbl pipe-lax pill, freed after 6.6 hrs.

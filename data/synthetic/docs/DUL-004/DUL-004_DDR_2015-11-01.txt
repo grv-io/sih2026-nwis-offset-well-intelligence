@@ -1,0 +1,15 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-004  (Duliajan 4)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2015-11-01   Report Day: 7
+Depth: 2677 -> 2988 m MD  (progress 311 m)
+Current Fm: SYLHET LST
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of influx, drlg ahead.
+  Slips and mud checks per program, ops normal.
+  Drlg ahead in SYLHET LST @ 11 m/hr avg.
+  Slips and mud checks per program, ops normal.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  8.0 hrs NPT - OVERPRESSURE @ 2854 m MD (Kopili), sev=medium: Well kicked back while circulating out of Kopili, gas readings elevated on trip gas. Weighted mud up to balance formation pressure, circulated bottoms up before resuming.
+  7.3 hrs NPT - OVERPRESSURE @ 2867 m MD (Kopili), sev=high: SPP trend increasing and drag rising while drilling into Kopili, suspected transition zone. Raised mud weight in 29-ppg steps, monitored trip gas, continued drilling with caution.

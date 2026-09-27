@@ -1,0 +1,13 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-007  (Duliajan 7)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2019-02-28   Report Day: 6
+Depth: 2315 -> 2559 m MD  (progress 244 m)
+Current Fm: Barail Gp
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Suvrey taken, inc/azi within plan.
+  Circ btms up, checked for gas, resumed drlg.
+  Short wiper trip to condtiion hole, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  No NPT recorded. Ops normal.

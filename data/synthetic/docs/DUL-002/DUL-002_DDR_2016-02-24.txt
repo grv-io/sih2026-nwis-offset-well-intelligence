@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-002  (Duliajan 2)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2016-02-24   Report Day: 7
+Depth: 3045 -> 3426 m MD  (progress 381 m)
+Current Fm: BASEMENT
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of influx, drlg ahead.
+  Short wiper trip to condition hole, no issues.
+  Slips and mud checks per program, ops normal.
+  Cont'd drlg, monitoring torque/drag trend.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  14.5 hrs NPT - KICK @ 3100 m MD (Kopili), sev=high: Gas-cut mud and increasing pit volume observed drlg Kopili, well flowing. Hard shut-in, recorded SIDPP/SICP, weighted up mud and circulated bottoms up.

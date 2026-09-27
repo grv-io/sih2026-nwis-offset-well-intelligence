@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-008  (Naharkatiya 8)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2017-05-15   Report Day: 1
+Depth: 0 -> 747 m MD  (progress 747 m)
+Current Fm: Gurjan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Flow check ok, no signs of influx, drlg ahead.
+  POOH for bit change, RIH, resumed drlg Gurjan.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  17.0 hrs NPT - STUCK_PIPE @ 636 m MD (Gurjan), sev=high: Pipe stuck while trppg through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 51 bbl pipe-lax pill, freed after 17.0 hrs.

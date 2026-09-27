@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-006  (Naharkatiya 6)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2014-07-23   Report Day: 3
+Depth: 860 -> 1602 m MD  (progress 742 m)
+Current Fm: Barail
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiper trip to condition hole, no issues.
+  Short wiper trip to condition hole, no issues.
+  POOH for bit change, RIH, resumed drlg Barail.
+  Survey taken, inc/azi within plan.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  3.5 hrs NPT - CEMENTING_ISSUE @ 887 m MD (Tipam Sand), sev=low: Poor cement bond / losses during primary cementing of casing shoe in Tipam. Squeeze cemented shoe track, pressure tested to spec before drilling out.

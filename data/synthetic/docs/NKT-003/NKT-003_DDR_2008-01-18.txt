@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: NKT-003  (Naharkatiya 3)   Field: Naharkatiya   Basin: Upper Assam
+Report Date: 2008-01-18   Report Day: 2
+Depth: 556 -> 967 m MD  (progress 411 m)
+Current Fm: Tipam Sand
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Circ btms up, checked for gas, resumed drlg.
+  Slips and mud checks per program, ops noraml.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  12.9 hrs NPT - STUCK_PIPE @ 683 m MD (Girujan), sev=high: Differential sticking in Girujan, no rotation or reciprocation possible. Reduced mud weight, spotted spotting fluid across pay zone, freed string on jarring.

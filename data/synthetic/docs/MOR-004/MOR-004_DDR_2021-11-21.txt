@@ -1,0 +1,12 @@
+DAILY DRILLING REPORT (DDR)
+Well: MOR-004  (Moran 4)   Field: Moran   Basin: Upper Assam
+Report Date: 2021-11-21   Report Day: 5
+Depth: 2405 -> 2783 m MD  (progress 378 m)
+Current Fm: KOPILI SH
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Short wiper trip to condition hole, no issues.
+  Short wiper trip to condition hole, no issues.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  14.9 hrs NPT - KICK @ 2761 m MD (Kopili Shale), sev=high: Flow-check positive, pit gain of 30 bbl and flow-out exceeding flow-in while in Kopili. Shut in well, closed BOP, circulated kill mud per driller's method.

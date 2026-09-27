@@ -1,0 +1,14 @@
+DAILY DRILLING REPORT (DDR)
+Well: DUL-010  (Duliajan 10)   Field: Duliajan   Basin: Upper Assam
+Report Date: 2009-10-02   Report Day: 1
+Depth: 0 -> 749 m MD  (progress 749 m)
+Current Fm: Girujan
+----------------------------------------------------------------------
+OPERATIONS SUMMARY:
+  Cont'd drlg, monitoring torque/drag trend.
+  Cont'd drlg, monitoring torque/drag tredn.
+----------------------------------------------------------------------
+NPT / EVENTS:
+  12.2 hrs NPT - WELLBORE_INSTABILITY @ 304 m MD (Namsang), sev=high: Wellbore washout suspected in Namsang, oversized cuttings at surface. Adjusted mud rheology, ran wiper trips before continuing.
+  14.4 hrs NPT - CEMENTING_ISSUE @ 531 m MD (GIRUJAN CLAY), sev=high: Excessive cement losses to fm while cementing across Girujan. Staged cement job with lightweight lead slurry and full tail string.
+  13.2 hrs NPT - STUCK_PIPE @ 716 m MD (Girujan), sev=high: Pipe stuck while trppg through Girujan, unable to work free, torque and drag increasing prior to stick. Worked pipe with max overpull, spotted 58 bbl pipe-lax pill, freed after 13.2 hrs.

@@ -1,0 +1,62 @@
+WELL COMPLETION REPORT (WCR)
+Well: MOR-006  (Moran 6)   Field: Moran   Basin: Upper Assam
+Spud Date: 2012-04-18   Status: completed
+Lat/Lon: 27.2788, 95.0419   KB Elev: 117.4 m
+Trajectory: deviated   TD (MD): 3159 m   TD (TVD): 3093 m
+
+FORMATION TOPS:
+Formation       Top MD (m)   Top TVD (m)   Base MD (m)  Base TVD (m)
+Alluvium                 0             0            33            33
+Dhekiajuli              33            33           260           260
+Namsang                260           260           509           509
+Girujan                509           509          1232          1204
+Tipam                 1232          1204          1881          1815
+Barail                1881          1815          2637          2570
+Kopili                2637          2570          2919          2853
+Sylhet                2919          2853          3113          3046
+Basement              3113          3046          3159          3093
+
+CASING PROGRAM:
+Shoe Formation    Casing                    Set Depth MD (m)
+Namsang           13-3/8in surface                       260
+Girujan           9-5/8in intermediate                   509
+Tipam             9-5/8in intermediate-2                1232
+Barail            7in production                        1881
+
+MUD PROGRAM SUMMARY (pore-frac window, ppg):
+Formation       Pore lo  Pore hi  Frac lo  Frac hi
+Alluvium            8.4      8.8     11.5     12.5
+Dhekiajuli          8.6      9.0     12.0     13.0
+Namsang             8.8      9.3     12.5     13.5
+Girujan             9.0      9.8     13.0     14.0
+Tipam               9.2     10.0     13.5     14.5
+Barail             10.0     12.2     14.0     15.8
+Kopili             10.5     12.6     14.5     16.2
+Sylhet             10.0     11.6     14.8     16.0
+Basement           10.5     12.0     15.5     17.0
+
+PROBLEMS ENCOUNTERED:
+  2012-04-19 | 72 m MD | Dhekiajuli | gas_show | medium | 3.7 hrs NPT
+    Cause: Background gas rise while drilling Dhekiajuli, connection gas trending up.
+    Remedy: Increased mud weight slightly, monitored trend, continued drilling.
+  2012-04-19 | 456 m MD | Namsang | npt_other | medium | 3.4 hrs NPT
+    Cause: Rig repair / equipment downtime while working in Namsang section.
+    Remedy: Repaired equipment, resumed operations after downtime.
+  2012-04-19 | 578 m MD | Girujan | stuck_pipe | medium | 4.1 hrs NPT
+    Cause: Pipe stuck while tripping through Girujan, unable to work free, torque and drag increasing prior to stick.
+    Remedy: Worked pipe with max overpull, spotted 24 bbl pipe-lax pill, freed after 4.1 hrs.
+  2012-04-21 | 1444 m MD | Tipam | mud_loss | low | 1.5 hrs NPT
+    Cause: Total losses encountered in Tipam, no returns to surface for 1.5 hrs.
+    Remedy: Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.
+  2012-04-21 | 1877 m MD | Tipam | mud_loss | critical | 27.7 hrs NPT
+    Cause: Lost circulation 20 bbl/hr while drilling Tipam sand, partial returns only.
+    Remedy: Pumped 94 bbl LCM pill, reduced ROP, regained partial returns.
+  2012-04-24 | 2778 m MD | Kopili | kick | critical | 38.9 hrs NPT
+    Cause: Flow-check positive, pit gain of 84 bbl and flow-out exceeding flow-in while in Kopili.
+    Remedy: Shut in well, closed BOP, circulated kill mud per driller's method.
+  2012-04-25 | 2996 m MD | Sylhet | mud_loss | medium | 1.9 hrs NPT
+    Cause: Total losses encountered in Sylhet, no returns to surface for 1.9 hrs.
+    Remedy: Pumped cement plug to seal loss zone, waited on cement, tested integrity before resuming.
+  2012-04-25 | 3067 m MD | Sylhet | mud_loss | medium | 9.5 hrs NPT
+    Cause: Lost circulation 32 bbl/hr while drilling Sylhet sand, partial returns only.
+    Remedy: Pumped 58 bbl LCM pill, reduced ROP, regained partial returns.
