@@ -12,6 +12,8 @@ short_description: Offset-well knowledge & lookahead alerts alongside Oil India'
 
 # NWIS — Nearby Wells Intelligence System
 
+**Live static demo: <https://grv-io.github.io/sih2026-nwis-offset-well-intelligence/>** (recorded responses, no server; see [Static demo vs the full system](#static-demo-vs-the-full-system))
+
 **eRTMAC-NWIS** is a standalone offset-well knowledge and decision-support platform that sits alongside Oil India's real-time drilling monitoring system (eRTMAC). It turns years of scanned/digital Well Completion Reports and Daily Drilling Reports into a structured, searchable event ledger, ranks nearby wells by geological and operational similarity rather than distance alone, correlates drilling parameters on a formation-aligned depth axis, scores drilling risk ahead of the bit from offset-well precedent, and pushes cited, lookahead alerts to both the Duliajan office and the rig site — all running fully locally, no cloud LLM required.
 
 ## Problem (SIH26121)
@@ -68,6 +70,22 @@ Oil India's eRTMAC gives real-time data from the *active* well, but drilling dec
 ```
 
 **Real components, named:** extraction is `pdfplumber` + `RapidOCR` → `Ollama qwen2.5:7b` via `instructor` (structured, validated Pydantic output) against a frozen 12-type event taxonomy, with a quote check against source text, a confidence score, and a human review queue for anything uncertain. Cross-document incident linking connects the same real-world event across DDR/WCR pairs. Storage is SQLite + FTS5 + `nomic-embed-text` — no external database required. `/nearby` ranks offset wells by similarity with honest degradation (a dimension that can't be computed shows `n/a`, never zero). `/correlation` uses minimum-curvature MD→TVD and an azimuth/dip plane fit across offset wells. `/risk` fuses XGBoost + SHAP with offset precedent and anomaly scores (0.5 / 0.3 / 0.2), switching between an "indicator" and a "supervised" mode depending on how many labelled events exist for that hazard. `/answer` is hybrid RRF search over the event ledger with cited, scope-guarded answers. `/live` replays a well's drilling log with lookahead-of-bit precedent alerts, N-of-M/cooldown-gated anomaly alerts, and cited recommendations. The frontend is React + Vite + TypeScript with Leaflet (map) and Plotly (correlation/sparklines), an `/office` and a `/rig` screen, English/Hindi toggle, and light/dark themes.
+
+## Static demo vs the full system
+
+The link above is a static build of the web app on GitHub Pages (`VITE_STATIC_DEMO=1`). There is no server behind it: every screen is answered from JSON recorded from this repo's own API by [`scripts/build_static_demo.py`](scripts/build_static_demo.py) (FastAPI `TestClient`, no network) and committed under `web/public/demo-data/` (about 26 MB). The header badge "Static demo · recorded responses" says so.
+
+| Works in the static demo | Needs the full local system |
+|---|---|
+| Map + ranked offsets for all 30 Assam wells at every radius on the slider (1-10 km, 0.5 km steps), and the Volve basin | Any radius off that grid (the nearest recorded one is used) |
+| Correlation panel (both depth modes, extracted + ground-truth events) for each well's default panel, and every single add/remove toggle for DUL-005; dip readout for every formation | Any other well combination in the correlation panel |
+| Risk ahead of the bit for every well at every 10 m of bit depth | — |
+| Memory: the rehearsed questions (the "Try" chips and the six demo questions, answered live by the local LLM when recorded), the scope guard for greetings and off-topic questions (same rules and wording, EN/HI), and a keyword search over the whole report archive in the browser | Answers to any other question, and hybrid (embedding) search for anything but the recorded questions: the static demo says so instead of inventing an answer |
+| Source drawer with the exact report page for every citation | — |
+| Review queue approve / reject (kept in the browser tab only) | Decisions written back to `data/nwis.sqlite` and reflected in the map / correlation counts |
+| Rig replay of DUL-005, DUL-011 and DUL-012 at 50/200/500×, from recorded start depths (0, 430, 1,000, 1,500, 2,000, 2,500 m), with pause / resume / seek / stop / ack; lookahead advisories and their cited recommendations are the ones the server produced | Any other well or start depth, and recommendations generated on the fly |
+
+To run the full live system (any question, any well, live LLM recommendations), follow the quick start below. To refresh the recorded data after changing the database or models, run `.venv\Scripts\python.exe scripts\build_static_demo.py` with Ollama running, then check the static build locally with `cd web; $env:VITE_STATIC_DEMO='1'; npm run build` and `npx playwright test -c playwright.static.config.ts` (serve `web/dist` under `/sih2026-nwis-offset-well-intelligence/` first). Pushing to `main` deploys it through [`.github/workflows/pages.yml`](.github/workflows/pages.yml).
 
 ## Quick start
 
@@ -212,7 +230,7 @@ nwis/            core Python package: ingest, geo, predict, search, live, synth,
 api/             FastAPI app and routers (main, live, risk, search, ui)
 web/             React + Vite + TypeScript frontend (office/rig screens)
 tests/           pytest suite
-scripts/         one-off maintenance scripts (e.g. restore_truth.py)
+scripts/         maintenance scripts (restore_truth.py, relativize_paths.py, build_static_demo.py)
 data/            synthetic demo data, nwis.sqlite (pre-ingested), Volve reference files
 models/          trained XGBoost models, extraction/predict metrics, evaluation notes
 docs/            problem statement text, solution plan, demo script
