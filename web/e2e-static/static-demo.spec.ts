@@ -8,7 +8,7 @@ function watchConsole(page: Page) {
   page.on('console', (m) => {
     if (m.type() === 'error') errors.push(`${m.text()} (${m.location().url})`)
   })
-  page.on('pageerror', (e) => errors.push(String(e)))
+  page.on('pageerror', (e) => errors.push(e.stack ?? String(e)))
   return errors
 }
 

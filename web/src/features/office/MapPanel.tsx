@@ -15,10 +15,12 @@ const FALLBACK_CENTER: Record<Basin, [number, number]> = {
   volve: [58.44, 1.89],
 }
 
+// fitBounds without animation: an animated zoom that is still running when the map
+// unmounts (well/basin switch, route change) makes Leaflet throw on the removed pane.
 function FitOnce({ bounds }: { bounds: LatLngBoundsExpression | null }) {
   const map = useMap()
   useEffect(() => {
-    if (bounds) map.fitBounds(bounds, { padding: [24, 24] })
+    if (bounds) map.fitBounds(bounds, { padding: [24, 24], animate: false })
     // fit only when the well set first arrives
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [bounds === null])
@@ -29,7 +31,7 @@ function FitRing({ ring }: { ring: [number, number][] }) {
   const map = useMap()
   const key = ring.length ? ring.filter((_, i) => i % 16 === 0).map((p) => p.map((v) => v.toFixed(4)).join(',')).join(';') : ''
   useEffect(() => {
-    if (ring.length) map.fitBounds(ring as LatLngBoundsExpression, { paddingTopLeft: [24, 24], paddingBottomRight: [24, 56], maxZoom: 13 })
+    if (ring.length) map.fitBounds(ring as LatLngBoundsExpression, { paddingTopLeft: [24, 24], paddingBottomRight: [24, 56], maxZoom: 13, animate: false })
   }, [key]) // eslint-disable-line react-hooks/exhaustive-deps
   return null
 }
