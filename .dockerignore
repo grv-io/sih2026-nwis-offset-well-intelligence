@@ -17,6 +17,8 @@ web/e2e/
 web/test-results/
 web/playwright-report/
 web/tsconfig.tsbuildinfo
+# recorded responses for the static GitHub Pages build only
+web/public/demo-data/
 # heavy/untracked data that is not part of the repo either
 data/volve.sqlite
 data/synthetic/logs/
