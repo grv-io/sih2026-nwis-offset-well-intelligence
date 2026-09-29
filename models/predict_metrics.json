@@ -171,8 +171,8 @@
         }
       },
       "beats_formation_prior": true,
-      "model_path": "C:\\Users\\Gaurav Agrawal\\sih-nwis\\models\\xgb_stuck_pipe.json",
-      "meta_path": "C:\\Users\\Gaurav Agrawal\\sih-nwis\\models\\xgb_stuck_pipe_meta.json"
+      "model_path": "models/xgb_stuck_pipe.json",
+      "meta_path": "models/xgb_stuck_pipe_meta.json"
     },
     {
       "hazard": "mud_loss",
@@ -342,8 +342,8 @@
         }
       },
       "beats_formation_prior": true,
-      "model_path": "C:\\Users\\Gaurav Agrawal\\sih-nwis\\models\\xgb_mud_loss.json",
-      "meta_path": "C:\\Users\\Gaurav Agrawal\\sih-nwis\\models\\xgb_mud_loss_meta.json"
+      "model_path": "models/xgb_mud_loss.json",
+      "meta_path": "models/xgb_mud_loss_meta.json"
     },
     {
       "hazard": "kick",
@@ -513,8 +513,8 @@
         }
       },
       "beats_formation_prior": true,
-      "model_path": "C:\\Users\\Gaurav Agrawal\\sih-nwis\\models\\xgb_kick.json",
-      "meta_path": "C:\\Users\\Gaurav Agrawal\\sih-nwis\\models\\xgb_kick_meta.json"
+      "model_path": "models/xgb_kick.json",
+      "meta_path": "models/xgb_kick_meta.json"
     },
     {
       "hazard": "overpressure",
@@ -684,8 +684,8 @@
         }
       },
       "beats_formation_prior": true,
-      "model_path": "C:\\Users\\Gaurav Agrawal\\sih-nwis\\models\\xgb_overpressure.json",
-      "meta_path": "C:\\Users\\Gaurav Agrawal\\sih-nwis\\models\\xgb_overpressure_meta.json"
+      "model_path": "models/xgb_overpressure.json",
+      "meta_path": "models/xgb_overpressure_meta.json"
     }
   ]
 }

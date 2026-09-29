@@ -210,8 +210,9 @@ def train_hazard(df: pd.DataFrame, hazard: str) -> dict:
         "folds": fold_results,
         "summary": summary,
         "beats_formation_prior": beats_prior,
-        "model_path": str(model_path),
-        "meta_path": str(meta_path),
+        # repo-relative, so the committed metrics carry no machine-specific paths
+        "model_path": f"models/{model_path.name}",
+        "meta_path": f"models/{meta_path.name}",
     }
 
 

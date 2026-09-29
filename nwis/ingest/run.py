@@ -101,7 +101,7 @@ def _discover_files(root: Path, well_id_override: Optional[str]) -> list[tuple[P
                     document_id=e.get("document_id") or _document_id(well_id, path.name),
                     well_id=well_id,
                     doc_type=e.get("doc_type", _infer_doc_type(path.name)),
-                    path=str(path),
+                    path=_stored_path(path),
                     report_date=e.get("report_date") and date.fromisoformat(e["report_date"]),
                     n_pages=e.get("n_pages", 1),
                     is_scanned=e.get("is_scanned", False),
@@ -120,13 +120,25 @@ def _discover_files(root: Path, well_id_override: Optional[str]) -> list[tuple[P
             document_id=_document_id(well_id, path.name),
             well_id=well_id,
             doc_type=_infer_doc_type(path.name),
-            path=str(path),
+            path=_stored_path(path),
             report_date=_infer_report_date(path.name),
             n_pages=1,
             is_scanned=False,
         )
         out.append((path, doc))
     return out
+
+
+def _stored_path(path: Path) -> str:
+    """Path as stored in documents.path: repo-relative (POSIX) when the file lives
+    inside the repo, so the committed database carries no machine-specific paths;
+    api/ui_router.py resolves relative paths against the repo root."""
+    from nwis.config import settings
+
+    try:
+        return Path(path).resolve().relative_to(settings.root).as_posix()
+    except ValueError:
+        return str(path)
 
 
 def _dedup_events(events: list[S.DrillingEvent], depth_tol_m: float = 15.0) -> list[S.DrillingEvent]:
