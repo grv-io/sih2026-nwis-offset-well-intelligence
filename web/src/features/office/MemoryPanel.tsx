@@ -1,7 +1,7 @@
 import { useState, type FormEvent } from 'react'
 import { useMutation, useQuery } from '@tanstack/react-query'
 import { BookOpen, CornerDownLeft, MessageSquareText, Search, ShieldAlert } from 'lucide-react'
-import { api } from '../../lib/api'
+import { STATIC_DEMO, api } from '../../lib/api'
 import { splitAnswer } from '../../lib/citations'
 import { fmtNum } from '../../lib/format'
 import type { Answer, Basin, SearchHit } from '../../lib/types'
@@ -53,7 +53,7 @@ function Snippet({ text, q }: { text: string; q: string }) {
   )
 }
 
-function AnswerCard({ answer, question }: { answer: Answer; question: string }) {
+function AnswerCard({ answer, question, onAsk }: { answer: Answer; question: string; onAsk: (q: string) => void }) {
   const { t } = useT()
   const eventLabel = useEventLabel()
   const open = useEvidence()
@@ -81,6 +81,16 @@ function AnswerCard({ answer, question }: { answer: Answer; question: string }) 
           ),
         )}
       </div>
+      {answer.guard && (answer.suggestions?.length ?? 0) > 0 && (
+        <div className="px-4 pb-3 flex flex-wrap items-center gap-2" data-testid="answer-suggestions">
+          <span className="label mr-1">{t('mem.try')}</span>
+          {answer.suggestions!.map((s) => (
+            <button key={s} type="button" lang="en" className="chip hover:text-ink hover:border-ink2/50" onClick={() => onAsk(s)}>
+              {s}
+            </button>
+          ))}
+        </div>
+      )}
       {answer.structured.length > 0 && (
         <details className="border-t border-rule">
           <summary className="px-4 h-9 flex items-center cursor-pointer text-xs text-dim hover:text-ink select-none">
@@ -165,7 +175,7 @@ export function MemoryPanel({ basin = 'assam' }: { basin?: Basin }) {
               {dq}
             </button>
           ))}
-          <span className="ml-auto">
+          <span className={'ml-auto' + (STATIC_DEMO ? ' hidden' : '')}>
             <Switch
               checked={useCache}
               onChange={setUseCache}
@@ -185,7 +195,7 @@ export function MemoryPanel({ basin = 'assam' }: { basin?: Basin }) {
               {t('mem.answerError', { msg: (ask.error as Error).message })}
             </div>
           ) : (
-            ask.data && <AnswerCard answer={ask.data} question={asked} />
+            ask.data && <AnswerCard answer={ask.data} question={asked} onAsk={doAsk} />
           )
         )}
 
@@ -194,8 +204,11 @@ export function MemoryPanel({ basin = 'assam' }: { basin?: Basin }) {
             <div className="flex items-center gap-2 mb-2">
               <span className="label">{t('mem.passages')}</span>
               {search.data && (
-                <span className={'chip ' + (search.data.mode === 'keyword' ? 'text-high border-high/40' : '')} title={search.data.note}>
-                  {search.data.mode === 'hybrid' ? t('mem.hybrid') : t('mem.keywordOnly')}
+                <span
+                  className={'chip ' + (search.data.mode === 'keyword' && !STATIC_DEMO ? 'text-high border-high/40' : '')}
+                  title={STATIC_DEMO && search.data.mode === 'keyword' ? t('static.keywordTitle') : search.data.note}
+                >
+                  {search.data.mode === 'hybrid' ? t('mem.hybrid') : STATIC_DEMO ? t('static.keywordOnly') : t('mem.keywordOnly')}
                 </span>
               )}
               {search.data && <span className="text-xs text-dim num">{t('mem.hits', { n: search.data.hits.length })}</span>}

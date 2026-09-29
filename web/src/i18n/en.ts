@@ -360,6 +360,18 @@ export const en = {
   'alert.remedy': 'Remedy',
   'alert.citedInRec': 'Cited in recommendation',
   'alert.citedSource': 'Cited source',
+
+  // ---- static demo build (GitHub Pages, VITE_STATIC_DEMO=1)
+  'static.badge': 'Static demo · recorded responses',
+  'static.badgeTitle':
+    'This page is a static snapshot: every panel shows responses recorded from the real system, and there is no server behind it. Click for how to run the full live system.',
+  'static.corrMissTitle': 'Not recorded in the static demo',
+  'static.corrMiss':
+    'This well combination was not recorded. Each well’s default panel (and every single toggle for DUL-005) is available here; the full system builds any combination.',
+  'static.keywordOnly': 'Keyword only (static demo)',
+  'static.keywordTitle': 'Hybrid (embedding) search is recorded for the example questions; other queries run a keyword match over the report archive in your browser.',
+  'static.riskSnapped': 'Static demo: showing the recorded bit depth {md} m.',
+  'static.rigStarts': 'Static demo: replays are recorded from {list} m; the nearest start depth is used.',
 } as const
 
 export type MsgKey = keyof typeof en

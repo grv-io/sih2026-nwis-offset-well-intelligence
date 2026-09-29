@@ -19,7 +19,8 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <ThemeProvider>
       <I18nProvider>
         <QueryClientProvider client={queryClient}>
-          <BrowserRouter>
+          {/* BASE_URL is '/' normally and the repo path on GitHub Pages (vite.config.ts) */}
+          <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, '')}>
             <App />
           </BrowserRouter>
         </QueryClientProvider>

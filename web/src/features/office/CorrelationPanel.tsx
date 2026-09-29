@@ -1,7 +1,7 @@
 import { lazy, Suspense, useEffect, useMemo, useState } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import { Layers } from 'lucide-react'
-import { api } from '../../lib/api'
+import { StaticMissError, api } from '../../lib/api'
 import { fmtNum } from '../../lib/format'
 import type { OffsetCandidate, Source } from '../../lib/types'
 import { useElementSize } from '../../lib/useElementSize'
@@ -115,7 +115,13 @@ export function CorrelationPanel({ activeId, candidates, source }: {
       </div>
       <div ref={boxRef} className="flex-1 min-h-[360px] relative">
         {q.isError ? (
-          <ErrorNote error={q.error} what={t('corr.what')} />
+          q.error instanceof StaticMissError ? (
+            <Empty icon={<Layers />} title={t('static.corrMissTitle')}>
+              <span data-testid="corr-static-miss">{t('static.corrMiss')}</span>
+            </Empty>
+          ) : (
+            <ErrorNote error={q.error} what={t('corr.what')} />
+          )
         ) : !q.data ? (
           <Loading label={t('corr.building')} />
         ) : (

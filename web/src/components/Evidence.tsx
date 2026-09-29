@@ -148,8 +148,8 @@ export function DocumentViewer({ req, header = true }: { req: EvidenceRequest; h
         )}
       </div>
       {d && (
-        <footer className="px-5 py-2.5 border-t border-rule text-micro text-faint font-mono truncate" title={d.path}>
-          {d.path}
+        <footer className="px-5 py-2.5 border-t border-rule text-micro text-faint font-mono truncate" title={d.file_name}>
+          {d.file_name || d.path.split(/[\\/]/).pop()}
         </footer>
       )}
     </div>

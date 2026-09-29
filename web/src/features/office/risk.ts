@@ -37,6 +37,7 @@ export function normaliseRisk(raw: unknown): RiskView | null {
     origin: 'model',
     intervals,
     note: typeof obj.note === 'string' ? obj.note : undefined,
+    staticMd: typeof obj.static_md === 'number' ? obj.static_md : undefined,
   }
 }
 

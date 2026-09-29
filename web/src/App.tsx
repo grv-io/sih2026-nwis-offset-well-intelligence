@@ -1,8 +1,8 @@
 import { lazy, Suspense } from 'react'
 import { NavLink, Navigate, Route, Routes, useLocation, useSearchParams } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
-import { Building2, HardHat } from 'lucide-react'
-import { api } from './lib/api'
+import { Building2, HardHat, Info } from 'lucide-react'
+import { STATIC_DEMO, api } from './lib/api'
 import { EvidenceProvider } from './components/Evidence'
 import { Loading } from './components/ui'
 import { LangToggle, ThemeToggle } from './components/Preferences'
@@ -87,6 +87,27 @@ function LinkStatus() {
   )
 }
 
+// The static GitHub Pages build has no server: instead of API/LLM link lights it
+// says so, and links to the README section on running the full live system.
+const REPO_URL = 'https://github.com/grv-io/sih2026-nwis-offset-well-intelligence'
+
+function StaticDemoBadge() {
+  const { t } = useT()
+  return (
+    <a
+      href={`${REPO_URL}#static-demo-vs-the-full-system`}
+      target="_blank"
+      rel="noreferrer"
+      className="inline-flex items-center gap-1.5 h-6 px-2 rounded-sm border border-line text-micro text-dim hover:text-ink hover:border-ink2/50 transition-colors whitespace-nowrap"
+      title={t('static.badgeTitle')}
+      data-testid="static-badge"
+    >
+      <Info size={12} />
+      {t('static.badge')}
+    </a>
+  )
+}
+
 export default function App() {
   const { t } = useT()
   return (
@@ -97,7 +118,7 @@ export default function App() {
           <PersonaNav />
           <div className="ml-auto flex items-center gap-4 h-full">
             <BasinBadge />
-            <LinkStatus />
+            {STATIC_DEMO ? <StaticDemoBadge /> : <LinkStatus />}
             <div className="flex items-center gap-2 pl-4 border-l border-rule h-7" data-testid="prefs">
               <LangToggle />
               <ThemeToggle />

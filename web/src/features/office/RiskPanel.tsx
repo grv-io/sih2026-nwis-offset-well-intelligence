@@ -122,6 +122,13 @@ export function RiskPanel({ well, source, bitMd, onBitMd }: {
         </div>
       )}
 
+      {v?.staticMd !== undefined && v.staticMd !== committed && (
+        <div className="mx-4 mt-3 flex items-start gap-2 text-xs text-dim" data-testid="risk-static-note">
+          <Info size={14} className="mt-0.5 shrink-0" />
+          <span>{t('static.riskSnapped', { md: fmtNum(v.staticMd) })}</span>
+        </div>
+      )}
+
       <div className="flex items-center gap-4 px-4 pt-3 text-xs text-dim">
         <span className="label">{t('risk.next', { n: fmtNum(200) })}</span>
         <span className="ml-auto flex items-center gap-3">

@@ -179,6 +179,8 @@ export interface RiskView {
   origin: 'model' | 'precedent-fallback'
   intervals: RiskInterval[]
   note?: string
+  /** Static demo only: the recorded bit depth actually shown (nearest to the one asked for). */
+  staticMd?: number
 }
 
 export interface LiveSample {

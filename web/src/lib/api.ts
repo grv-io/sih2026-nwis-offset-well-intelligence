@@ -4,13 +4,16 @@ import type {
   MapData, ReviewQueue, SearchHit, Source, Summary, Well,
 } from './types'
 
+import { ApiError } from './errors'
+import { staticApi } from './static/demo'
+
+export { ApiError, StaticMissError } from './errors'
+
 export const API_BASE = '/api'
 
-export class ApiError extends Error {
-  constructor(public status: number, message: string) {
-    super(message)
-  }
-}
+/** Static GitHub Pages build (VITE_STATIC_DEMO=1): no server; every call is answered
+ *  from recorded JSON under demo-data/ (see scripts/build_static_demo.py). */
+export const STATIC_DEMO = import.meta.env.VITE_STATIC_DEMO === '1'
 
 type Init = RequestInit & { timeoutMs?: number }
 
@@ -52,7 +55,7 @@ export interface FigureJson {
   layout: Record<string, unknown>
 }
 
-export const api = {
+const liveApi = {
   health: () => request<Health>('/health', { timeoutMs: 8000 }),
   summary: () => request<Summary>('/ui/summary'),
   wells: () => request<Well[]>('/wells'),
@@ -99,3 +102,7 @@ export const api = {
     ack: (id: string) => request<unknown>('/live/alerts/' + encodeURIComponent(id) + '/ack', { method: 'POST' }),
   },
 }
+
+export type Api = typeof liveApi
+
+export const api: Api = STATIC_DEMO ? staticApi : liveApi

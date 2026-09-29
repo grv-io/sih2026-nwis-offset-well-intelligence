@@ -1,7 +1,8 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { BellOff, CloudOff, Pause, Play, Radio, RotateCcw, Square } from 'lucide-react'
-import { ApiError, api } from '../../lib/api'
+import { ApiError, STATIC_DEMO, api } from '../../lib/api'
+import { rigIndex } from '../../lib/static/demo'
 import { fmtAgo, fmtNum, fmtRigClock } from '../../lib/format'
 import { SEVERITY_META, normaliseSeverity } from '../../lib/hazards'
 import type { Alert, LiveSample } from '../../lib/types'
@@ -74,6 +75,10 @@ export default function RigPage() {
   const [startMd, setStartMd] = useState('')
   const [seekMd, setSeekMd] = useState('')
   const wells = useQuery({ queryKey: ['wells'], queryFn: api.wells, staleTime: Infinity })
+  // Static demo: only the wells with a recorded replay can be started.
+  const rigIdx = useQuery({ queryKey: ['static-rig-index'], queryFn: rigIndex, staleTime: Infinity, enabled: STATIC_DEMO })
+  const pickable = STATIC_DEMO ? (wells.data ?? []).filter((w) => !!rigIdx.data?.wells[w.well_id]) : wells.data ?? []
+  const recordedStarts = rigIdx.data?.wells[wellId]?.starts
 
   const s = state.data
   const lastOk = state.dataUpdatedAt
@@ -173,9 +178,9 @@ export default function RigPage() {
         </div>
 
         <div className="ml-auto flex flex-wrap items-center gap-2">
-          {noSession || s?.finished ? (
+          {noSession || s?.finished || (s && !s.running) ? (
             <>
-              <WellPicker wells={wells.data ?? []} value={wellId} onChange={setWellId} label={t('picker.well')} />
+              <WellPicker wells={pickable} value={wellId} onChange={setWellId} label={t('picker.well')} />
               <input
                 className="input w-[128px] num"
                 inputMode="numeric"
@@ -229,6 +234,12 @@ export default function RigPage() {
           )}
         </div>
       </div>
+
+      {STATIC_DEMO && recordedStarts && (noSession || s?.finished || (s && !s.running)) && (
+        <div className="shrink-0 px-4 py-1.5 bg-s1 border-b border-line text-xs text-dim" data-testid="rig-static-note">
+          {t('static.rigStarts', { list: recordedStarts.map((m) => fmtNum(m)).join(', ') })}
+        </div>
+      )}
 
       {(stale || start.isError || ctl.isError) && (
         <div className="shrink-0 flex items-center gap-2 px-4 h-9 bg-high/10 border-b border-high/40 text-sm text-ink" role="status" data-testid="stale-banner">
