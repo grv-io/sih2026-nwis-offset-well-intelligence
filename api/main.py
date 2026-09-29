@@ -29,7 +29,16 @@ app.add_middleware(
 
 @app.get("/health")
 def health():
-    return {"status": "ok", "llm": llm.health()}
+    online = llm.available()
+    try:
+        n_events = len(db.events_for())
+    except Exception:  # noqa: BLE001
+        n_events = -1
+    return {
+        "status": "ok",
+        "llm": llm.health() if online else {"ollama": False},
+        "deployment": {"llm": "online" if online else "offline", "db_events": n_events},
+    }
 
 
 @app.get("/wells")

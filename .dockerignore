@@ -1,0 +1,25 @@
+.git
+.gitignore
+.gitattributes
+.venv/
+**/__pycache__/
+**/*.pyc
+.pytest_cache/
+.run/
+.env
+tests/
+ppt/
+*.ps1
+LICENSE
+web/node_modules/
+web/dist/
+web/e2e/
+web/test-results/
+web/playwright-report/
+web/tsconfig.tsbuildinfo
+# heavy/untracked data that is not part of the repo either
+data/volve.sqlite
+data/synthetic/logs/
+data/synthetic/docs/**/*.pdf
+data/synthetic/docs/**/*.ocr.json
+models/*.pkl

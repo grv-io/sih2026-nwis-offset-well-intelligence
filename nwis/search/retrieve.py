@@ -161,9 +161,21 @@ def hybrid_search(query: str, k: int = 8, filters: Optional[dict] = None) -> lis
     # ---- cosine ranking -----------------------------------------------------
     cosine_rank: dict[str, int] = {}
     cosine_score: dict[str, float] = {}
-    ids, matrix = index_mod.load(rebuild_if_missing=True)
-    if ids and matrix.size:
-        qvec = np.array(llm_mod.embed([query])[0], dtype=np.float32)
+    keyword_only = False
+    qvec = None
+    ids, matrix = [], np.zeros((0, 0))
+    if llm_mod.embed_available():
+        try:
+            ids, matrix = index_mod.load(rebuild_if_missing=True)
+            if ids and matrix.size:
+                qvec = np.array(llm_mod.embed([query])[0], dtype=np.float32)
+        except Exception:  # noqa: BLE001 -- embeddings offline: keyword-only, never raise
+            qvec = None
+    else:
+        keyword_only = True
+    if qvec is None:
+        keyword_only = True
+    if qvec is not None:
         dim = matrix.shape[1]
         if qvec.shape[0] != dim:
             qvec = (list(qvec) + [0.0] * dim)[:dim]
@@ -215,7 +227,7 @@ def hybrid_search(query: str, k: int = 8, filters: Optional[dict] = None) -> lis
             page_ref=row.page_ref,
             text=row.text,
             score=rrf,
-            why=" + ".join(why_bits),
+            why="keyword-only (embeddings offline)" if keyword_only else " + ".join(why_bits),
         ))
     return hits
 

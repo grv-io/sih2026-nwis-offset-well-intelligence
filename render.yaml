@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: nwis
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free            # free spins down after ~15 min idle and has 512 MB RAM; "starter" recommended
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: OLLAMA_BASE_URL
+        sync: false       # optional: external Ollama / OpenAI-compatible server, e.g. http://host:11434/v1
+      - key: OLLAMA_API_KEY
+        sync: false       # optional: token for a hosted OpenAI-compatible server
+      - key: OLLAMA_MODEL
+        value: qwen2.5:7b
+      - key: OLLAMA_EMBED_MODEL
+        value: nomic-embed-text
+      - key: NWIS_DB
+        value: data/nwis.sqlite
+      - key: PYTHONUNBUFFERED
+        value: "1"
+      # Map tiles are a build-time (Vite) setting: add an env var VITE_TILE_URL (declared as a Docker ARG) to override the default OSM tiles.

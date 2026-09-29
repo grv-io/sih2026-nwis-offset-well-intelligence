@@ -18,6 +18,7 @@ class Settings:
     models_dir: Path = ROOT / "models"
 
     ollama_base_url: str = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434/v1")
+    ollama_api_key: str = os.getenv("OLLAMA_API_KEY", "ollama")  # hosted OpenAI-compatible servers need a real token
     ollama_model: str = os.getenv("OLLAMA_MODEL", "qwen2.5:7b")
     ollama_embed_model: str = os.getenv("OLLAMA_EMBED_MODEL", "nomic-embed-text")
 

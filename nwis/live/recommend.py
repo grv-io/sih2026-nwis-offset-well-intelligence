@@ -139,7 +139,9 @@ def recommend_for_alert(alert: Alert, precedent_events: Optional[list] = None) -
     # Preferred path: a short, driller-facing recommendation written from the precedent
     # incidents (cause/remedy/MW/NPT) plus the top retrieved DDR lines. The general Q&A
     # prompt produced report summaries instead of advice (26 Sep), hence a dedicated prompt.
-    if search_answer is not None:
+    from nwis import llm as _llm
+
+    if search_answer is not None and _llm.available():
         try:
             text, cites = _llm_recommendation(alert, precedent_events, query)
             if text and cites:

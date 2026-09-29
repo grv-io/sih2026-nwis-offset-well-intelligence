@@ -269,7 +269,12 @@ def answer(query: str, filters: dict | None = None, lang: Optional[str] = None) 
         "relates to the question."
     )
 
-    raw = llm_mod.complete(SYSTEM_PROMPT, user_prompt, temperature=0.1, max_tokens=400)
+    if not llm_mod.available():
+        return _offline_answer(query, events, hits)
+    try:
+        raw = llm_mod.complete(SYSTEM_PROMPT, user_prompt, temperature=0.1, max_tokens=400)
+    except Exception:  # noqa: BLE001 -- server vanished / timed out: degrade, never 500
+        return _offline_answer(query, events, hits)
     raw = _scrub(raw or "")
 
     if REFUSAL_MARKER in raw.upper() or not raw:
@@ -329,6 +334,20 @@ def answer(query: str, filters: dict | None = None, lang: Optional[str] = None) 
         refused=False,
         degraded=degraded,
         suggestions=[q for q in EXAMPLE_QUESTIONS if q.lower() != query.lower()][:3],
+    )
+
+
+OFFLINE_PREFIX = "Answer engine offline on this deployment; showing matching incidents from the archive."
+
+
+def _offline_answer(query: str, events: list[db.EventRow], hits: list[Hit]) -> Answer:
+    body = _structured_fallback_text(query, events, hits)
+    # drop the 'No narrative answer ...' header line; the offline prefix replaces it
+    body_lines = body.splitlines()[1:]
+    return Answer(
+        text="\n".join([OFFLINE_PREFIX] + body_lines),
+        citations=_citations_from_hits(hits[:5]),
+        structured=[e.model_dump() for e in events], refused=False, degraded=True,
     )
 
 

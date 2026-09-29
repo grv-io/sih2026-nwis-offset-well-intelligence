@@ -111,6 +111,8 @@ def fixture_db(tmp_path, monkeypatch):
     ])
 
     monkeypatch.setattr(llm_mod, "embed", fake_embed)
+    monkeypatch.setattr(llm_mod, "available", lambda: True)
+    monkeypatch.setattr(llm_mod, "embed_available", lambda: True)
     monkeypatch.setattr(index_mod, "INDEX_PATH", tmp_path / "chunk_index.npz")
     monkeypatch.setattr(index_mod, "IDS_PATH", tmp_path / "chunk_index_ids.json")
     index_mod.build(progress=False)
