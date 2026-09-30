@@ -7,6 +7,7 @@ growing this file's handler bodies.
 from __future__ import annotations
 
 import json
+import logging
 from typing import Optional
 
 from fastapi import FastAPI, HTTPException
@@ -16,7 +17,16 @@ from nwis import db, llm
 from nwis.geo import correlate, dip, panel
 from nwis.geo.nearby import nearby_wells
 
+logger = logging.getLogger(__name__)
+
 app = FastAPI(title="NWIS API")
+
+
+@app.on_event("startup")
+async def _log_startup():
+    """Log useful diagnostics on boot so operators can verify config at a glance."""
+    online = llm.available()
+    logger.info("NWIS API started — LLM %s", "online" if online else "offline")
 
 app.add_middleware(
     CORSMiddleware,
